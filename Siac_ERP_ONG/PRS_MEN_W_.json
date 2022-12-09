@@ -1,0 +1,36 @@
+[
+	{
+		"tablaIdRef": "Siac_ERP_ONG_Dat/PRS_MEN_W",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"version": "",
+		"numRegistros": 1
+	},
+	{
+		"datos": [
+			{
+				"ID": "GEN003",
+				"NAME": "Almacén",
+				"TOO_TIP": "Módulo de almacén",
+				"STA_TIP": "Módulo de almacén",
+				"WHA_THI": "Módulo de almacén",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "Siac_ERP_ONG_App",
+				"MEN_OBJ": "M",
+				"PRF_MEN": "",
+				"OBJ_TIP": 0,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "Siac_ERP_ONG_App/",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1,5",
+				"VER_ULT_ACT": "23.0.1"
+			}
+		]
+	}
+]

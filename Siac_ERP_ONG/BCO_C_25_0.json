@@ -1,0 +1,1855 @@
+[
+	{
+		"tablaIdRef": "Siac_ERP_ONG_Dat/BCO_C",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"version": "21_1",
+		"numRegistros": 230
+	},
+	{
+		"datos": [
+			{
+				"ID": "1535",
+				"NAME": "AKFBANK GMBH &CO KG",
+				"COD_SWF": "AKFBDE31XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1535"
+			},
+			{
+				"ID": "0011",
+				"NAME": "ALLFUNDS BANK",
+				"COD_SWF": "ALLFESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0011"
+			},
+			{
+				"ID": "1544",
+				"NAME": "ANDBANK LUXEMBOURG",
+				"COD_SWF": "BACALULLXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1544"
+			},
+			{
+				"ID": "0136",
+				"NAME": "ARESBANK",
+				"COD_SWF": "AREBESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0136"
+			},
+			{
+				"ID": "1302",
+				"NAME": "ARGENTARIA, CAJA POSTAL Y BANCO HIP.",
+				"COD_SWF": "BBVAESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1302"
+			},
+			{
+				"ID": "1541",
+				"NAME": "ATTIJARIWAFA BANK EUROPE",
+				"COD_SWF": "BCMAESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1541"
+			},
+			{
+				"ID": "0185",
+				"NAME": "B.URQUIJO SABADELL B.PRIVA",
+				"COD_SWF": "BSABESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0185"
+			},
+			{
+				"ID": "0015",
+				"NAME": "BANCA CATALANA",
+				"COD_SWF": "CATAESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0015"
+			},
+			{
+				"ID": "0061",
+				"NAME": "BANCA MARCH",
+				"COD_SWF": "BMARES2MXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0061"
+			},
+			{
+				"ID": "0078",
+				"NAME": "BANCA PUEYO",
+				"COD_SWF": "BAPUES22XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0078"
+			},
+			{
+				"ID": "0188",
+				"NAME": "BANCO ALCALA",
+				"COD_SWF": "ALCLESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0188"
+			},
+			{
+				"ID": "0086",
+				"NAME": "BANCO BANIF",
+				"COD_SWF": "NORTESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0086"
+			},
+			{
+				"ID": "0182",
+				"NAME": "BANCO BILBAO VIZCAYA ARGENTARIA",
+				"COD_SWF": "BBVAESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0182"
+			},
+			{
+				"ID": "0190",
+				"NAME": "BANCO BPI",
+				"COD_SWF": "BBPIESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0190"
+			},
+			{
+				"ID": "0130",
+				"NAME": "BANCO CAIXA GERAL",
+				"COD_SWF": "CGDIESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0130"
+			},
+			{
+				"ID": "2090",
+				"NAME": "BANCO CAM",
+				"COD_SWF": "BSABESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2090"
+			},
+			{
+				"ID": "0234",
+				"NAME": "BANCO CAMINOS",
+				"COD_SWF": "CCOCESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0234"
+			},
+			{
+				"ID": "0225",
+				"NAME": "BANCO CETELEM",
+				"COD_SWF": "FIEIESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0225"
+			},
+			{
+				"ID": "0198",
+				"NAME": "BANCO COOPERATIVO ESPAÑOL",
+				"COD_SWF": "BCOEESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0198"
+			},
+			{
+				"ID": "0091",
+				"NAME": "BANCO DE ALBACETE",
+				"COD_SWF": "ALACESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0091"
+			},
+			{
+				"ID": "0127",
+				"NAME": "BANCO DE ALICANTE",
+				"COD_SWF": "BBVAESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0127"
+			},
+			{
+				"ID": "0004",
+				"NAME": "BANCO DE ANDALUCIA",
+				"COD_SWF": "BANDESSSXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0004"
+			},
+			{
+				"ID": "2108",
+				"NAME": "BANCO DE C.ESPAÑA IN.SALAMANCA SORIA",
+				"COD_SWF": "CSPAES2L108",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2108"
+			},
+			{
+				"ID": "0115",
+				"NAME": "BANCO DE CASTILLA-LA MANCHA",
+				"COD_SWF": "CECAESMM048",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0115"
+			},
+			{
+				"ID": "0024",
+				"NAME": "BANCO DE CREDITO BALEAR S.A.",
+				"COD_SWF": "BALEES22XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0024"
+			},
+			{
+				"ID": "0003",
+				"NAME": "BANCO DE DEPOSITOS",
+				"COD_SWF": "BDEPESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0003"
+			},
+			{
+				"ID": "9000",
+				"NAME": "BANCO DE ESPAÑA",
+				"COD_SWF": "ESPBESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "9000"
+			},
+			{
+				"ID": "0169",
+				"NAME": "BANCO DE LA NACION ARGENTINA",
+				"COD_SWF": "NACNESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0169"
+			},
+			{
+				"ID": "0059",
+				"NAME": "BANCO DE MADRID",
+				"COD_SWF": "MADRESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0059"
+			},
+			{
+				"ID": "0186",
+				"NAME": "BANCO DE MEDIOLANUM",
+				"COD_SWF": "BFIVESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0186"
+			},
+			{
+				"ID": "0081",
+				"NAME": "BANCO DE SABADELL",
+				"COD_SWF": "BSABESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0081"
+			},
+			{
+				"ID": "0093",
+				"NAME": "BANCO DE VALENCIA",
+				"COD_SWF": "VALEESVVXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0093"
+			},
+			{
+				"ID": "0095",
+				"NAME": "BANCO DE VASCONIA S.A.",
+				"COD_SWF": "VASCES2PXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0095"
+			},
+			{
+				"ID": "0050",
+				"NAME": "BANCO DEL COMERCIO S.A.",
+				"COD_SWF": "BCIOESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0050"
+			},
+			{
+				"ID": "0057",
+				"NAME": "BANCO DEPOSITARIO BBVA",
+				"COD_SWF": "BVADESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0057"
+			},
+			{
+				"ID": "0155",
+				"NAME": "BANCO DO BRASIL",
+				"COD_SWF": "BRASESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0155"
+			},
+			{
+				"ID": "0030",
+				"NAME": "BANCO ESPAÑOL DE CREDITO",
+				"COD_SWF": "ESPCESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0030"
+			},
+			{
+				"ID": "0131",
+				"NAME": "BANCO ESPIRITO SANTO SUCURSAL ESPAÑA",
+				"COD_SWF": "BESMESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0131"
+			},
+			{
+				"ID": "1497",
+				"NAME": "BANCO ESPIRITO SANTO DE INVESTIMENTO",
+				"COD_SWF": "ESSIESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1497"
+			},
+			{
+				"ID": "0031",
+				"NAME": "BANCO ETCHEVERRIA",
+				"COD_SWF": "ETCHES2GXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0031"
+			},
+			{
+				"ID": "0184",
+				"NAME": "BANCO EUROPEO DE FINANZAS",
+				"COD_SWF": "BEDFESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0184"
+			},
+			{
+				"ID": "0488",
+				"NAME": "BANCO FINANCIERO Y DE AHORROS",
+				"COD_SWF": "BFASESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0488"
+			},
+			{
+				"ID": "0220",
+				"NAME": "BANCO FINANTIA SOFINLOC",
+				"COD_SWF": "FIOFESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0220"
+			},
+			{
+				"ID": "0046",
+				"NAME": "BANCO GALLEGO",
+				"COD_SWF": "GALEES2GXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0046"
+			},
+			{
+				"ID": "2086",
+				"NAME": "BANCO GRUPO CAJATRES",
+				"COD_SWF": "CECAESMM086",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2086"
+			},
+			{
+				"ID": "0042",
+				"NAME": "BANCO GUIPUZCOANO",
+				"COD_SWF": "BSABESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0042"
+			},
+			{
+				"ID": "0113",
+				"NAME": "BANCO INDUSTRIAL DE BILBAO",
+				"COD_SWF": "INBBESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0113"
+			},
+			{
+				"ID": "0232",
+				"NAME": "BANCO INVERSIS",
+				"COD_SWF": "INVLESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0232"
+			},
+			{
+				"ID": "0487",
+				"NAME": "BANCO MARE NOSTRUM",
+				"COD_SWF": "GBMNESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0487"
+			},
+			{
+				"ID": "0072",
+				"NAME": "BANCO PASTOR",
+				"COD_SWF": "PSTRESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0072"
+			},
+			{
+				"ID": "0235",
+				"NAME": "BANCO PICHINCHA ESPAÑA",
+				"COD_SWF": "PIESESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0235"
+			},
+			{
+				"ID": "0075",
+				"NAME": "BANCO POPULAR ESPAÑOL",
+				"COD_SWF": "POPUESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0075"
+			},
+			{
+				"ID": "0238",
+				"NAME": "BANCO POPULAR PASTOR",
+				"COD_SWF": "PSTRESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0238"
+			},
+			{
+				"ID": "1470",
+				"NAME": "BANCO PORTUGUES DE INVESTIMENTO",
+				"COD_SWF": "BPIPESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1470"
+			},
+			{
+				"ID": "0049",
+				"NAME": "BANCO SANTANDER",
+				"COD_SWF": "BSCHESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0049"
+			},
+			{
+				"ID": "0085",
+				"NAME": "BANCO SANTANDER CENTRAL HISPANO",
+				"COD_SWF": "BDERESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0085"
+			},
+			{
+				"ID": "0125",
+				"NAME": "BANCOFAR",
+				"COD_SWF": "BAOFESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0125"
+			},
+			{
+				"ID": "0229",
+				"NAME": "BANCOPOPULAR-E",
+				"COD_SWF": "POPLESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0229"
+			},
+			{
+				"ID": "1485",
+				"NAME": "BANK OF AMERICA N.A.",
+				"COD_SWF": "BOFAES2XXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1485"
+			},
+			{
+				"ID": "0099",
+				"NAME": "BANKIA",
+				"COD_SWF": "CAHMESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0099"
+			},
+			{
+				"ID": "2038",
+				"NAME": "BANKIA",
+				"COD_SWF": "CAHMESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2038"
+			},
+			{
+				"ID": "0128",
+				"NAME": "BANKINTER",
+				"COD_SWF": "BKBKESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0128"
+			},
+			{
+				"ID": "0138",
+				"NAME": "BANKOA",
+				"COD_SWF": "BKOAES22XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0138"
+			},
+			{
+				"ID": "1525",
+				"NAME": "BANQUE CHAABI DU MAROC",
+				"COD_SWF": "BCDMESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1525"
+			},
+			{
+				"ID": "0219",
+				"NAME": "BANQUE MAROCAINE COMMERCE EXTERIEUR",
+				"COD_SWF": "BMCEESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0219"
+			},
+			{
+				"ID": "1473",
+				"NAME": "BANQUE PRIVEE EDMOND DE ROTHSCHILD",
+				"COD_SWF": "PRIBESMXXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1473"
+			},
+			{
+				"ID": "1463",
+				"NAME": "BANQUE PSA FINANCE",
+				"COD_SWF": "PSABESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1463"
+			},
+			{
+				"ID": "0065",
+				"NAME": "BARCLAYS BANK",
+				"COD_SWF": "BARCESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0065"
+			},
+			{
+				"ID": "0152",
+				"NAME": "BARCLAYS BANK, P.L.C.",
+				"COD_SWF": "BPLCESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0152"
+			},
+			{
+				"ID": "0129",
+				"NAME": "BBVA BANCO DE FINANCIACION",
+				"COD_SWF": "INALESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0129"
+			},
+			{
+				"ID": "0058",
+				"NAME": "BNP PARI BAS ESPAÑA",
+				"COD_SWF": "BNPAESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0058"
+			},
+			{
+				"ID": "0167",
+				"NAME": "BNP PARIBAS FORTIS",
+				"COD_SWF": "GEBAESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0167"
+			},
+			{
+				"ID": "0144",
+				"NAME": "BNP PARIBAS SECURITIES SERVICES",
+				"COD_SWF": "PARBESMXXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0144"
+			},
+			{
+				"ID": "0149",
+				"NAME": "BNP PARIBAS SUCURSAL EN ESPAÑA",
+				"COD_SWF": "BNPAESMSXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0149"
+			},
+			{
+				"ID": "3116",
+				"NAME": "C.R. COMARCAL DE MOTA DEL CUERVO",
+				"COD_SWF": "BCOEESMM116",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3116"
+			},
+			{
+				"ID": "3104",
+				"NAME": "C.R. DE CAÑETE DE LAS TORRES",
+				"COD_SWF": "BCOEESMM104",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3104"
+			},
+			{
+				"ID": "3067",
+				"NAME": "C.R. DE JAEN, BARCELONA Y MADRID",
+				"COD_SWF": "BCOEESMM067",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3067"
+			},
+			{
+				"ID": "3157",
+				"NAME": "C.R. DE LA JUNQUERA DE CHILCHES",
+				"COD_SWF": "CCRIES2A157",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3157"
+			},
+			{
+				"ID": "3020",
+				"NAME": "C.R. DE UTRERA S. COOP.",
+				"COD_SWF": "BCOEESMM020",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3020"
+			},
+			{
+				"ID": "3111",
+				"NAME": "C.R. LA VALL SAN ISIDRO",
+				"COD_SWF": "BCOEESMM111",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3111"
+			},
+			{
+				"ID": "3134",
+				"NAME": "C.R. NTRA. SRA. DE LA ESPERANZA",
+				"COD_SWF": "BCOEESMM134",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3134"
+			},
+			{
+				"ID": "3098",
+				"NAME": "C.R. NUESTRA SRA. DEL ROSARIO",
+				"COD_SWF": "BCOEESMM098",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3098"
+			},
+			{
+				"ID": "3115",
+				"NAME": "C.R. NUESTRA SRA. MADRE SOL",
+				"COD_SWF": "BCOEESMM115",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3115"
+			},
+			{
+				"ID": "3018",
+				"NAME": "C.R. REGIONAL SAN AGUSTIN",
+				"COD_SWF": "BCOEESMM018",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3018"
+			},
+			{
+				"ID": "3165",
+				"NAME": "C.R. SAN ISIDRO DE VILAFAMES",
+				"COD_SWF": "CCRIES2A165",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3165"
+			},
+			{
+				"ID": "3119",
+				"NAME": "C.R. SAN JAIME COOP.CTO.V.",
+				"COD_SWF": "CCRIES2A119",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3119"
+			},
+			{
+				"ID": "3113",
+				"NAME": "C.R. SAN JOSE DE ALCORA COOP.CTO.V.",
+				"COD_SWF": "BCOEESMM113",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3113"
+			},
+			{
+				"ID": "3130",
+				"NAME": "C.R. SAN JOSE DE ALMASSORA",
+				"COD_SWF": "BCOEESMM130",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3130"
+			},
+			{
+				"ID": "3112",
+				"NAME": "C.R. SAN JOSE DE BURRIANA",
+				"COD_SWF": "CCRIES2A112",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3112"
+			},
+			{
+				"ID": "3135",
+				"NAME": "C.R. SAN JOSE DE NULES",
+				"COD_SWF": "CCRIES2A135",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3135"
+			},
+			{
+				"ID": "3095",
+				"NAME": "C.R. SAN ROQUE COOP.CTO.V.",
+				"COD_SWF": "CCRIES2A095",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3095"
+			},
+			{
+				"ID": "3160",
+				"NAME": "C.R. SANT JOSEP DE VILAVELLA",
+				"COD_SWF": "CCRIES2A160",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3160"
+			},
+			{
+				"ID": "3060",
+				"NAME": "C.R.BURGOS,FUENTEP.,SEGOVIA Y CASTEL",
+				"COD_SWF": "BCOEESMM060",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3060"
+			},
+			{
+				"ID": "3190",
+				"NAME": "C.R.DE ALBACETE,CIUDAD REAL Y CUENCA",
+				"COD_SWF": "BCOEESMM190",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3190"
+			},
+			{
+				"ID": "3089",
+				"NAME": "C.R.DE BAENA NTRA.SRA.DE GUADALUPE",
+				"COD_SWF": "BCOEESMM089",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3089"
+			},
+			{
+				"ID": "3009",
+				"NAME": "C.R.DE EXTREMADURA GRUP.COOP.IBERICO",
+				"COD_SWF": "BCOEESMM009",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3009"
+			},
+			{
+				"ID": "3025",
+				"NAME": "CAIXA DE C. DELS ENGINYERS",
+				"COD_SWF": "CDENESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3025"
+			},
+			{
+				"ID": "2091",
+				"NAME": "CAIXA GALICIA",
+				"COD_SWF": "CAGLESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2091"
+			},
+			{
+				"ID": "2030",
+				"NAME": "CAIXA GIRONA",
+				"COD_SWF": "CAIXESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2030"
+			},
+			{
+				"ID": "2042",
+				"NAME": "CAIXA LAIETANA",
+				"COD_SWF": "CAHMESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2042"
+			},
+			{
+				"ID": "2041",
+				"NAME": "CAIXA MANRESA",
+				"COD_SWF": "CESCESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2041"
+			},
+			{
+				"ID": "2081",
+				"NAME": "CAIXA PENEDES",
+				"COD_SWF": "CECAESMM081",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2081"
+			},
+			{
+				"ID": "3159",
+				"NAME": "CAIXA POPULAR-CAIXA RURAL",
+				"COD_SWF": "BCOEESMM159",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3159"
+			},
+			{
+				"ID": "3186",
+				"NAME": "CAIXA RURAL ALBALAT DELS SORELLS",
+				"COD_SWF": "CCRIES2A186",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3186"
+			},
+			{
+				"ID": "3045",
+				"NAME": "CAIXA RURAL ALTEA",
+				"COD_SWF": "CCRIES2A045",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3045"
+			},
+			{
+				"ID": "3162",
+				"NAME": "CAIXA RURAL BENICARLO",
+				"COD_SWF": "BCOEESMM162",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3162"
+			},
+			{
+				"ID": "3117",
+				"NAME": "CAIXA RURAL D'ALGEMESI",
+				"COD_SWF": "BCOEESMM117",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3117"
+			},
+			{
+				"ID": "3105",
+				"NAME": "CAIXA RURAL DE CALLOSA D'EN SARRIA",
+				"COD_SWF": "CCRIES2A105",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3105"
+			},
+			{
+				"ID": "3096",
+				"NAME": "CAIXA RURAL DE L'ALCUDIA",
+				"COD_SWF": "BCOEESMM096",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3096"
+			},
+			{
+				"ID": "3123",
+				"NAME": "CAIXA RURAL DE TURIS",
+				"COD_SWF": "CCRIES2A123",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3123"
+			},
+			{
+				"ID": "3070",
+				"NAME": "CAIXA RURAL GALEGA",
+				"COD_SWF": "BCOEESMM070",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3070"
+			},
+			{
+				"ID": "3166",
+				"NAME": "CAIXA RURAL LES COVES DE VINROMA",
+				"COD_SWF": "BCOEESMM166",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3166"
+			},
+			{
+				"ID": "3102",
+				"NAME": "CAIXA RURAL SANT VICENT FERRER",
+				"COD_SWF": "BCOEESMM102",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3102"
+			},
+			{
+				"ID": "3118",
+				"NAME": "CAIXA RURAL TORRENT",
+				"COD_SWF": "CCRIES2A118",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3118"
+			},
+			{
+				"ID": "3174",
+				"NAME": "CAIXA RURAL VINAROS COOP.C.V..",
+				"COD_SWF": "BCOEESMM174",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3174"
+			},
+			{
+				"ID": "2059",
+				"NAME": "CAIXA SABADELL",
+				"COD_SWF": "BBVAESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2059"
+			},
+			{
+				"ID": "2073",
+				"NAME": "CAIXA TARRAGONA",
+				"COD_SWF": "CESCESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2073"
+			},
+			{
+				"ID": "2074",
+				"NAME": "CAIXA TERRASSA",
+				"COD_SWF": "BBVAESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2074"
+			},
+			{
+				"ID": "2100",
+				"NAME": "CAIXABANK",
+				"COD_SWF": "CAIXESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2100"
+			},
+			{
+				"ID": "3094",
+				"NAME": "CAJA CAMPO",
+				"COD_SWF": "CCRIES2AXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3094"
+			},
+			{
+				"ID": "2066",
+				"NAME": "CAJA CANTABRIA",
+				"COD_SWF": "CECAESMM048",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2066"
+			},
+			{
+				"ID": "2017",
+				"NAME": "CAJA CIRCULO",
+				"COD_SWF": "CECAESMM017",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2017"
+			},
+			{
+				"ID": "2105",
+				"NAME": "CAJA DE AHORROS DE CASTILLA-LA MANCHA",
+				"COD_SWF": "CECAESMM105",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2105"
+			},
+			{
+				"ID": "2071",
+				"NAME": "CAJA DE AHORROS PROV SEVILLA",
+				"COD_SWF": "CECAESMM071",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2071"
+			},
+			{
+				"ID": "3183",
+				"NAME": "CAJA DE ARQUITECTOS S.COOP.CTO.",
+				"COD_SWF": "CASDESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3183"
+			},
+			{
+				"ID": "2018",
+				"NAME": "CAJA DE BURGOS",
+				"COD_SWF": "CAIXESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2018"
+			},
+			{
+				"ID": "3146",
+				"NAME": "CAJA DE CREDITO COOPERATIVO,S.C.CTO.",
+				"COD_SWF": "CCCVESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3146"
+			},
+			{
+				"ID": "3029",
+				"NAME": "CAJA DE CREDITO DE PETREL",
+				"COD_SWF": "CCRIES2A029",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3029"
+			},
+			{
+				"ID": "2069",
+				"NAME": "CAJA DE SEGOVIA",
+				"COD_SWF": "CAHMESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2069"
+			},
+			{
+				"ID": "2104",
+				"NAME": "CAJA DUERO",
+				"COD_SWF": "CSSOES2SXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2104"
+			},
+			{
+				"ID": "2096",
+				"NAME": "CAJA ESPAÑA",
+				"COD_SWF": "CSPAES2LXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2096"
+			},
+			{
+				"ID": "2099",
+				"NAME": "CAJA EXTREMADURA",
+				"COD_SWF": "CECAESMM099",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2099"
+			},
+			{
+				"ID": "2031",
+				"NAME": "CAJA GRANADA",
+				"COD_SWF": "CECAESMM031",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2031"
+			},
+			{
+				"ID": "3035",
+				"NAME": "CAJA LABORAL POPULAR",
+				"COD_SWF": "CLPEES2MXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3035"
+			},
+			{
+				"ID": "2043",
+				"NAME": "CAJA MURCIA",
+				"COD_SWF": "CECAESMM043",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2043"
+			},
+			{
+				"ID": "2054",
+				"NAME": "CAJA NAVARRA",
+				"COD_SWF": "CAIXESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2054"
+			},
+			{
+				"ID": "2037",
+				"NAME": "CAJA RIOJA",
+				"COD_SWF": "CAHMESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2037"
+			},
+			{
+				"ID": "3110",
+				"NAME": "CAJA RURAL CATOLICO AGRARIA",
+				"COD_SWF": "BCOEESMM110",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3110"
+			},
+			{
+				"ID": "3005",
+				"NAME": "CAJA RURAL CENTRAL",
+				"COD_SWF": "BCOEESMM005",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3005"
+			},
+			{
+				"ID": "3150",
+				"NAME": "CAJA RURAL DE ALBAL",
+				"COD_SWF": "BCOEESMM150",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3150"
+			},
+			{
+				"ID": "3179",
+				"NAME": "CAJA RURAL DE ALGINET",
+				"COD_SWF": "CCRIES2A179",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3179"
+			},
+			{
+				"ID": "3001",
+				"NAME": "CAJA RURAL DE ALMENDRALEJO",
+				"COD_SWF": "BCOEESMM001",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3001"
+			},
+			{
+				"ID": "3059",
+				"NAME": "CAJA RURAL DE ASTURIAS",
+				"COD_SWF": "BCOEESMM059",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3059"
+			},
+			{
+				"ID": "3138",
+				"NAME": "CAJA RURAL DE BETXI",
+				"COD_SWF": "BCOEESMM138",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3138"
+			},
+			{
+				"ID": "3177",
+				"NAME": "CAJA RURAL DE CANARIAS",
+				"COD_SWF": "BCOEESMM177",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3177"
+			},
+			{
+				"ID": "3127",
+				"NAME": "CAJA RURAL DE CASAS IBAÑEZ",
+				"COD_SWF": "BCOEESMM127",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3127"
+			},
+			{
+				"ID": "3137",
+				"NAME": "CAJA RURAL DE CASINOS",
+				"COD_SWF": "CCRIES2A137",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3137"
+			},
+			{
+				"ID": "3081",
+				"NAME": "CAJA RURAL DE CASTILLA-LA MANCHA",
+				"COD_SWF": "BCOEESMM081",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3081"
+			},
+			{
+				"ID": "3121",
+				"NAME": "CAJA RURAL DE CHESTE",
+				"COD_SWF": "CCRIES2A121",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3121"
+			},
+			{
+				"ID": "3063",
+				"NAME": "CAJA RURAL DE CORDOBA",
+				"COD_SWF": "BCOEESMM063",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3063"
+			},
+			{
+				"ID": "3007",
+				"NAME": "CAJA RURAL DE GIJON",
+				"COD_SWF": "BCOEESMM007",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3007"
+			},
+			{
+				"ID": "3023",
+				"NAME": "CAJA RURAL DE GRANADA",
+				"COD_SWF": "BCOEESMM023",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3023"
+			},
+			{
+				"ID": "3140",
+				"NAME": "CAJA RURAL DE GUISSONA",
+				"COD_SWF": "BCOEESMM140",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3140"
+			},
+			{
+				"ID": "3008",
+				"NAME": "CAJA RURAL DE NAVARRA",
+				"COD_SWF": "BCOEESMM008",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3008"
+			},
+			{
+				"ID": "3016",
+				"NAME": "CAJA RURAL DE SALAMANCA",
+				"COD_SWF": "BCOEESMM016",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3016"
+			},
+			{
+				"ID": "3017",
+				"NAME": "CAJA RURAL DE SORIA",
+				"COD_SWF": "BCOEESMM017",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3017"
+			},
+			{
+				"ID": "3080",
+				"NAME": "CAJA RURAL DE TERUEL",
+				"COD_SWF": "BCOEESMM080",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3080"
+			},
+			{
+				"ID": "3144",
+				"NAME": "CAJA RURAL DE VILLAMALEA",
+				"COD_SWF": "BCOEESMM144",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3144"
+			},
+			{
+				"ID": "3152",
+				"NAME": "CAJA RURAL DE VILLAR",
+				"COD_SWF": "CCRIES2A152",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3152"
+			},
+			{
+				"ID": "3085",
+				"NAME": "CAJA RURAL DE ZAMORA",
+				"COD_SWF": "BCOEESMM085",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3085"
+			},
+			{
+				"ID": "3187",
+				"NAME": "CAJA RURAL DEL SUR",
+				"COD_SWF": "BCOEESMM187",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3187"
+			},
+			{
+				"ID": "2024",
+				"NAME": "CAJA SUR",
+				"COD_SWF": "BASKES2BXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2024"
+			},
+			{
+				"ID": "2097",
+				"NAME": "CAJA VITAL KUTXA",
+				"COD_SWF": "BASKES2BXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2097"
+			},
+			{
+				"ID": "3058",
+				"NAME": "CAJAS RURALES UNIDAS,SDAD.COOP.CDTO.",
+				"COD_SWF": "CCRIES2AXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3058"
+			},
+			{
+				"ID": "3076",
+				"NAME": "CAJASIETE,CAJA RURAL SDAD.COOP.CDTO.",
+				"COD_SWF": "BCOEESMM076",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3076"
+			},
+			{
+				"ID": "0237",
+				"NAME": "CAJASUR BANCO",
+				"COD_SWF": "CSURES2CXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0237"
+			},
+			{
+				"ID": "2013",
+				"NAME": "CATALUNYA BANC",
+				"COD_SWF": "CESCESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2013"
+			},
+			{
+				"ID": "2000",
+				"NAME": "CECABANK",
+				"COD_SWF": "CECAESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2000"
+			},
+			{
+				"ID": "0122",
+				"NAME": "CITIBANK ESPAÑA",
+				"COD_SWF": "CITIES2XXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0122"
+			},
+			{
+				"ID": "1474",
+				"NAME": "CITIBANK INTERNATIONAL PLC",
+				"COD_SWF": "CITIESMXSEC",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1474"
+			},
+			{
+				"ID": "0159",
+				"NAME": "COMMERZBANK",
+				"COD_SWF": "COBAESMXTMA",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0159"
+			},
+			{
+				"ID": "1475",
+				"NAME": "CORTAL CONSORS",
+				"COD_SWF": "CCSEESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1475"
+			},
+			{
+				"ID": "0154",
+				"NAME": "CREDIT AGRICOLE CORPORATE",
+				"COD_SWF": "BSUIESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0154"
+			},
+			{
+				"ID": "1472",
+				"NAME": "CREDIT AGRICOLE LEASING & FACTORING",
+				"COD_SWF": "UCSSESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1472"
+			},
+			{
+				"ID": "1545",
+				"NAME": "CREDIT AGRICOLE LUXEMBOURG",
+				"COD_SWF": "AGRIESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1545"
+			},
+			{
+				"ID": "1460",
+				"NAME": "CREDIT SUISSE AG",
+				"COD_SWF": "CRESESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1460"
+			},
+			{
+				"ID": "3188",
+				"NAME": "CREDIT VALENCIA CAJA RURAL",
+				"COD_SWF": "CCRIES2A188",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3188"
+			},
+			{
+				"ID": "1457",
+				"NAME": "DE LAGE LANDEN INTERNATIONAL B.V.",
+				"COD_SWF": "LLISESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1457"
+			},
+			{
+				"ID": "0019",
+				"NAME": "DEUTSCHE BANK,",
+				"COD_SWF": "DEUTESBBXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0019"
+			},
+			{
+				"ID": "0145",
+				"NAME": "DEUTSCHE BANK, A.G.",
+				"COD_SWF": "DEUTESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0145"
+			},
+			{
+				"ID": "1501",
+				"NAME": "DEUTSCHE PFANDBRIEFBANK, AG",
+				"COD_SWF": "DPBBESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1501"
+			},
+			{
+				"ID": "0231",
+				"NAME": "DEXIA SABADELL",
+				"COD_SWF": "DSBLESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0231"
+			},
+			{
+				"ID": "0211",
+				"NAME": "EBN BANCO DE NEGOCIOS",
+				"COD_SWF": "PROAESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0211"
+			},
+			{
+				"ID": "1522",
+				"NAME": "EFG BANK SUCURSAL EN ESPAÑA",
+				"COD_SWF": "EFGBESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1522"
+			},
+			{
+				"ID": "1505",
+				"NAME": "EUROPE ARAB BANK PLC",
+				"COD_SWF": "ARABESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1505"
+			},
+			{
+				"ID": "0218",
+				"NAME": "FCE BANK P.L.C.",
+				"COD_SWF": "FCEFESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0218"
+			},
+			{
+				"ID": "0223",
+				"NAME": "GENERAL ELECTRIC CAPITAL BANK",
+				"COD_SWF": "GEECESB1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0223"
+			},
+			{
+				"ID": "0162",
+				"NAME": "HSBC BANK P.L.C.",
+				"COD_SWF": "MIDLESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0162"
+			},
+			{
+				"ID": "1467",
+				"NAME": "HYPOTHEKENBANK FRANKFURT AG",
+				"COD_SWF": "EHYPESMXXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1467"
+			},
+			{
+				"ID": "2085",
+				"NAME": "IBERCAJA BANCO",
+				"COD_SWF": "CAZRES2ZXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2085"
+			},
+			{
+				"ID": "1502",
+				"NAME": "IKB DEUTSCHE INDUSTRIEBANK AG.",
+				"COD_SWF": "IKBDESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1502"
+			},
+			{
+				"ID": "1538",
+				"NAME": "INDUSTRIAL &COMMERCIAL BANK OF CHINA",
+				"COD_SWF": "ICBKESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1538"
+			},
+			{
+				"ID": "0168",
+				"NAME": "ING BELGIUM",
+				"COD_SWF": "BBRUESMXXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0168"
+			},
+			{
+				"ID": "1465",
+				"NAME": "ING DIRECT N.V.",
+				"COD_SWF": "INGDESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1465"
+			},
+			{
+				"ID": "1000",
+				"NAME": "INSTITUTO DE CREDITO OFICIAL",
+				"COD_SWF": "ICROESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1000"
+			},
+			{
+				"ID": "1506",
+				"NAME": "INTERNATIONAL BANK LTD",
+				"COD_SWF": "MLCBESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1506"
+			},
+			{
+				"ID": "1494",
+				"NAME": "INTESA SANPAOLO, S.P.A.",
+				"COD_SWF": "BCITESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1494"
+			},
+			{
+				"ID": "3084",
+				"NAME": "IPAR KUTXA RURAL",
+				"COD_SWF": "CVRVES2BXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3084"
+			},
+			{
+				"ID": "0151",
+				"NAME": "JPMORGAN CHASE BANK N. ASSOCIATION",
+				"COD_SWF": "CHASESM3XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0151"
+			},
+			{
+				"ID": "1534",
+				"NAME": "KBL EUROPEAN PRIVATE BANKERS",
+				"COD_SWF": "KBLXESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1534"
+			},
+			{
+				"ID": "2095",
+				"NAME": "KUTXABANK",
+				"COD_SWF": "BASKES2BXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2095"
+			},
+			{
+				"ID": "2048",
+				"NAME": "LIBERBANK",
+				"COD_SWF": "CECAESMM048",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2048"
+			},
+			{
+				"ID": "0236",
+				"NAME": "LLOYDS BANK INTERNATIONAL",
+				"COD_SWF": "LOYIESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0236"
+			},
+			{
+				"ID": "1479",
+				"NAME": "NATIXIS SUCURSAL EN ESPAÑA",
+				"COD_SWF": "NATXESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1479"
+			},
+			{
+				"ID": "2080",
+				"NAME": "NCG BANCO",
+				"COD_SWF": "CAGLESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2080"
+			},
+			{
+				"ID": "3191",
+				"NAME": "NUEVA CAJA RURAL DE ARAGON",
+				"COD_SWF": "BCOEESMM191",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "3191"
+			},
+			{
+				"ID": "0133",
+				"NAME": "NUEVO MICRO BANK",
+				"COD_SWF": "MIKBESB1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0133"
+			},
+			{
+				"ID": "0073",
+				"NAME": "OPEN BANK",
+				"COD_SWF": "OPENESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0073"
+			},
+			{
+				"ID": "1488",
+				"NAME": "PICTET & CIE (EUROPE)",
+				"COD_SWF": "PICTESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1488"
+			},
+			{
+				"ID": "0233",
+				"NAME": "POPULAR BANCA PRIVADA",
+				"COD_SWF": "POPIESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0233"
+			},
+			{
+				"ID": "0196",
+				"NAME": "PORTIGON AG SUCURCAL EN ESPAÑA",
+				"COD_SWF": "WELAESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0196"
+			},
+			{
+				"ID": "0200",
+				"NAME": "PRIVAT BANK DEGROOF",
+				"COD_SWF": "PRVBESB1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0200"
+			},
+			{
+				"ID": "1459",
+				"NAME": "RABOBANK INTERNATIONAL",
+				"COD_SWF": "PRABESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1459"
+			},
+			{
+				"ID": "0094",
+				"NAME": "RBC INVESTOR SERVICES ESPAÑA",
+				"COD_SWF": "BVALESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0094"
+			},
+			{
+				"ID": "0083",
+				"NAME": "RENTA 4 BANCO",
+				"COD_SWF": "RENBESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0083"
+			},
+			{
+				"ID": "2051",
+				"NAME": "SA NOSTRA",
+				"COD_SWF": "CECAESMM051",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2051"
+			},
+			{
+				"ID": "0224",
+				"NAME": "SANTANDER CONSUMER FINANCE",
+				"COD_SWF": "SCFBESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0224"
+			},
+			{
+				"ID": "0036",
+				"NAME": "SANTANDER INVESTMENT",
+				"COD_SWF": "SABNESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0036"
+			},
+			{
+				"ID": "1490",
+				"NAME": "SELF TRADE BANK",
+				"COD_SWF": "SELFESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1490"
+			},
+			{
+				"ID": "0108",
+				"NAME": "SOCIETE GENERALE",
+				"COD_SWF": "SOGEESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0108"
+			},
+			{
+				"ID": "0216",
+				"NAME": "TARGOBANK",
+				"COD_SWF": "POHIESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0216"
+			},
+			{
+				"ID": "0160",
+				"NAME": "THE BANK OF TOKYO-MITSUBISHI UFJ LTD",
+				"COD_SWF": "BOTKESMXXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0160"
+			},
+			{
+				"ID": "0156",
+				"NAME": "THE ROYAL BANK OF SCOTLAND PLC",
+				"COD_SWF": "ABNAESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0156"
+			},
+			{
+				"ID": "1491",
+				"NAME": "TRIODOS BANK N.V.",
+				"COD_SWF": "TRIOESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1491"
+			},
+			{
+				"ID": "2077",
+				"NAME": "TUBANCAJA.ES",
+				"COD_SWF": "CAHMESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2077"
+			},
+			{
+				"ID": "1524",
+				"NAME": "UBI BANCA INTERNATIONAL",
+				"COD_SWF": "UBIBESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1524"
+			},
+			{
+				"ID": "0226",
+				"NAME": "UBS BANK",
+				"COD_SWF": "UBSWESMMXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0226"
+			},
+			{
+				"ID": "2103",
+				"NAME": "UNICAJA BANCO",
+				"COD_SWF": "UCJAES2MXXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "2103"
+			},
+			{
+				"ID": "0227",
+				"NAME": "UNOE BANK",
+				"COD_SWF": "UNOEESM1XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "0227"
+			},
+			{
+				"ID": "1480",
+				"NAME": "VOLKSWAGEN BANK GMBH",
+				"COD_SWF": "VOWAES21XXX",
+				"VER_ULT_ACT": "20.0",
+				"OFF": false,
+				"COD_ENT": "1480"
+			}
+		]
+	}
+]

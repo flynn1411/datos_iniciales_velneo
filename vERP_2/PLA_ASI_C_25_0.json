@@ -1,0 +1,155 @@
+[
+	{
+		"tablaIdRef": "velneo_verp_2_dat/PLA_ASI_C",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"version": "25_0",
+		"numRegistros": 14
+	},
+	{
+		"datos": [
+			{
+				"ID": "3USGTL",
+				"NAME": "Compras de mercaderías (automática)",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 0,
+				"FAC_REC": true,
+				"SER_FAC_REC": 2,
+				"VER_ULT_ACT": "25.0",
+				"OFF": false
+			},
+			{
+				"ID": "UAWSY8",
+				"NAME": "Compras de mercaderías con 2 cuotas de IVA (automática)",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 0,
+				"FAC_REC": true,
+				"SER_FAC_REC": 2,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"ID": "3N0TS9",
+				"NAME": "Compras de mercaderías",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 0,
+				"FAC_REC": true,
+				"SER_FAC_REC": 2,
+				"VER_ULT_ACT": "24.0",
+				"OFF": false
+			},
+			{
+				"ID": "XEEUUQ",
+				"NAME": "Compras de mercaderías con 2 cuotas de IVA",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 0,
+				"FAC_REC": true,
+				"SER_FAC_REC": 2,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"ID": "FAVQER",
+				"NAME": "Compras intracomunitarias",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 5,
+				"FAC_REC": true,
+				"SER_FAC_REC": 4,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"ID": "QASTFU",
+				"NAME": "Facturas de profesionales con retención",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 0,
+				"FAC_REC": true,
+				"SER_FAC_REC": 2,
+				"VER_ULT_ACT": "25.0",
+				"OFF": false
+			},
+			{
+				"ID": "V5CEIM",
+				"NAME": "Ingreso de cajas a banco",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 0,
+				"FAC_REC": true,
+				"SER_FAC_REC": 0,
+				"VER_ULT_ACT": "21.0",
+				"OFF": false
+			},
+			{
+				"ID": "BBZD1O",
+				"NAME": "Remesa: Abono al cobro",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 0,
+				"FAC_REC": true,
+				"SER_FAC_REC": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"ID": "8KTRWI",
+				"NAME": "Remesa: Abono al descuento",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 0,
+				"FAC_REC": true,
+				"SER_FAC_REC": 0,
+				"VER_ULT_ACT": "25.0",
+				"OFF": false
+			},
+			{
+				"ID": "2HJYT1",
+				"NAME": "Remesa: Al vencimiento",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 0,
+				"FAC_REC": true,
+				"SER_FAC_REC": 0,
+				"VER_ULT_ACT": "25.0",
+				"OFF": false
+			},
+			{
+				"ID": "ITENKL",
+				"NAME": "Remesa: Impagados",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 0,
+				"FAC_REC": true,
+				"SER_FAC_REC": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"ID": "YFFVTJ",
+				"NAME": "Remesa: Pago vencimientos",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 0,
+				"FAC_REC": true,
+				"SER_FAC_REC": 0,
+				"VER_ULT_ACT": "25.0",
+				"OFF": false
+			},
+			{
+				"ID": "N2DT5J",
+				"NAME": "Remesa: Presentación",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 0,
+				"FAC_REC": true,
+				"SER_FAC_REC": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"ID": "AXWQNN",
+				"NAME": "Traspaso entre bancos",
+				"FAC_EMI": true,
+				"SER_FAC_EMI": 0,
+				"FAC_REC": true,
+				"SER_FAC_REC": 0,
+				"VER_ULT_ACT": "25.0",
+				"OFF": false
+			}
+		]
+	}
+]

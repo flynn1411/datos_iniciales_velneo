@@ -1,0 +1,39 @@
+[
+	{
+		"tablaIdRef": "velneo_verp_2_dat/PAI_M",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"version": "24_0",
+		"numRegistros": 2
+	},
+	{
+		"datos": [
+			{
+				"ID": 1,
+				"NAME": "España",
+				"MON": 0,
+				"IMG": "",
+				"ISO_2": "ES",
+				"ISO_3": "ESP",
+				"TLF_PFJ": "+34",
+				"DIR_FRM": "1",
+				"VER_ULT_ACT": "",
+				"OFF": false
+			},
+			{
+				"ID": 2,
+				"NAME": "USA",
+				"MON": 0,
+				"IMG": "",
+				"ISO_2": "US",
+				"ISO_3": "USA",
+				"TLF_PFJ": "",
+				"DIR_FRM": "2",
+				"VER_ULT_ACT": "",
+				"OFF": false
+			}
+		]
+	}
+]
