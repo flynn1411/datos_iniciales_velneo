@@ -1,0 +1,120 @@
+[
+	{
+		"tablaIdRef": "Siac_ERP_ONG_Dat/BCO_C",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"version": "25_0",
+		"numRegistros": 7
+	},
+	{
+		"datos": [
+			{
+				"ID": "2",
+				"NAME": "Ficohsa Ahorro No.01-201-135207",
+				"TIP_CU": "A",
+				"VER_ULT_ACT": "1.0",
+				"OFF": false,
+				"COD_ENT": "",
+				"PGC": "11102",
+				"AUX_C": "2",
+				"ID_AUX": "2",
+				"NAME_AUX": "Ficohsa Ahorro No.01-201-135207",
+				"FIJO": true,
+				"SAL": 0,
+				"HIS_SAL_CAL": false
+			},
+			{
+				"ID": "3",
+				"NAME": "Ficohsa Ahorro No.01-201-373370",
+				"TIP_CU": "A",
+				"VER_ULT_ACT": "1.0",
+				"OFF": false,
+				"COD_ENT": "",
+				"PGC": "11102",
+				"AUX_C": "3",
+				"ID_AUX": "3",
+				"NAME_AUX": "Ficohsa Ahorro No.01-201-373370",
+				"FIJO": true,
+				"SAL": 0,
+				"HIS_SAL_CAL": false
+			},
+			{
+				"ID": "4",
+				"NAME": "Ficohsa Ahorro No.80-226-7750",
+				"TIP_CU": "A",
+				"VER_ULT_ACT": "1.0",
+				"OFF": false,
+				"COD_ENT": "",
+				"PGC": "11103",
+				"AUX_C": "1",
+				"ID_AUX": "1",
+				"NAME_AUX": "Ficohsa Ahorro No.80-226-7750",
+				"FIJO": true,
+				"SAL": 0,
+				"HIS_SAL_CAL": false
+			},
+			{
+				"ID": "6",
+				"NAME": "Ficohsa Cta de Ahorro No.01-207-991192",
+				"TIP_CU": "A",
+				"VER_ULT_ACT": "1.0",
+				"OFF": false,
+				"COD_ENT": "",
+				"PGC": "11103",
+				"AUX_C": "3",
+				"ID_AUX": "3",
+				"NAME_AUX": "Ficohsa Cta de Ahorro No.01-207-991192",
+				"FIJO": true,
+				"SAL": 0,
+				"HIS_SAL_CAL": false
+			},
+			{
+				"ID": "1",
+				"NAME": "Ficohsa Cta de Cheques No.05-101-201366",
+				"TIP_CU": "C",
+				"VER_ULT_ACT": "25.0",
+				"OFF": false,
+				"COD_ENT": "",
+				"PGC": "11102",
+				"AUX_C": "1",
+				"ID_AUX": "1",
+				"NAME_AUX": "Ficohsa Cta de Cheques No.05-101-201366",
+				"FIJO": true,
+				"SAL": -59315.59,
+				"HIS_SAL_CAL": false
+			},
+			{
+				"ID": "5",
+				"NAME": "Ficohsa Cta Euros No. 01-216-11330",
+				"TIP_CU": "A",
+				"VER_ULT_ACT": "1.0",
+				"OFF": false,
+				"COD_ENT": "",
+				"PGC": "11103",
+				"AUX_C": "2",
+				"ID_AUX": "2",
+				"NAME_AUX": "Ficohsa Cta Euros No. 01-216-11330",
+				"FIJO": true,
+				"SAL": 0,
+				"HIS_SAL_CAL": false
+			},
+			{
+				"ID": "7",
+				"NAME": "Ficohsa Cuenta No.80-226-7974",
+				"TIP_CU": "A",
+				"VER_ULT_ACT": "1.0",
+				"OFF": false,
+				"COD_ENT": "",
+				"PGC": "11103",
+				"AUX_C": "4",
+				"ID_AUX": "4",
+				"NAME_AUX": "Ficohsa Cuenta No.80-226-7974",
+				"FIJO": true,
+				"SAL": 0,
+				"HIS_SAL_CAL": false
+			}
+		]
+	}
+]
