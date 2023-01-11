@@ -1,19 +1,33 @@
 [
 	{
-		"tablaIdRef": "velneo_verp_2_dat/EST_W",
+		"tablaIdRef": "siac_erp_prod_dat/EST_W",
 		"indiceId": "ID",
 		"indicePartes": [
 			"ID"
 		],
 		"version": "25_0",
-		"numRegistros": 4
+		"numRegistros": 6
 	},
 	{
 		"datos": [
 			{
+				"ID": "AUTOEXEC_2021",
+				"NAME": "AUTOEXEC_2021",
+				"CSS": "AUTOEXEC_2021",
+				"VAR": "// Senda de iconos\nSENDA_ICONOS_   : sysCacheClientPath",
+				"VER_ULT_ACT": "25.0"
+			},
+			{
 				"ID": "AUTOEXEC-25",
 				"NAME": "Autoexec 25 con botones no redondeados y textos en mayúsculas",
 				"CSS": "AUTOEXEC-25",
+				"VAR": "// Senda de iconos\nSENDA_ICONOS_   : sysCacheClientPath",
+				"VER_ULT_ACT": "25.0"
+			},
+			{
+				"ID": "AUTOEXEC_COMPACT",
+				"NAME": "AUTOEXEC Compacto",
+				"CSS": "AUTOEXEC_COMPACTO",
 				"VAR": "// Senda de iconos\nSENDA_ICONOS_   : sysCacheClientPath",
 				"VER_ULT_ACT": "25.0"
 			},

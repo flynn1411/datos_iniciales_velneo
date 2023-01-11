@@ -1,11 +1,11 @@
 [
 	{
-		"tablaIdRef": "velneo_verp_2_dat/FPG_M",
+		"tablaIdRef": "siac_erp_prod_dat/FPG_M",
 		"indiceId": "ID",
 		"indicePartes": [
 			"ID"
 		],
-		"version": "24_0",
+		"version": "25_0",
 		"numRegistros": 9
 	},
 	{
@@ -31,7 +31,9 @@
 				"MOD_TIM": "2017-05-08T14:49:45.000Z",
 				"OFF": false,
 				"OFF_USR": 0,
-				"OFF_TIM": "1970-01-01T00:00:00.000Z"
+				"OFF_TIM": "Invalid Date",
+				"PGC_CAJ": "",
+				"AUX_CAJ": ""
 			},
 			{
 				"ID": 5,
@@ -54,7 +56,9 @@
 				"MOD_TIM": "2017-02-02T15:28:20.000Z",
 				"OFF": false,
 				"OFF_USR": 0,
-				"OFF_TIM": "1970-01-01T00:00:00.000Z"
+				"OFF_TIM": "Invalid Date",
+				"PGC_CAJ": "",
+				"AUX_CAJ": ""
 			},
 			{
 				"ID": 7,
@@ -77,30 +81,9 @@
 				"MOD_TIM": "2018-04-05T14:08:17.000Z",
 				"OFF": false,
 				"OFF_USR": 0,
-				"OFF_TIM": "1970-01-01T00:00:00.000Z"
-			},
-			{
-				"ID": 1,
-				"NAME": "Contado TPV",
-				"DOC_TIP": "311C5S",
-				"NUM_VTO": 0,
-				"DIA_VTO_1": 0,
-				"DIA_ENT_VTO": 0,
-				"APL_CND_ESP": false,
-				"CND_ESP": "",
-				"TPV": true,
-				"FPG_TPV_TIP": "C",
-				"PRO_PRT_PRY": "",
-				"PRO_PRT_OBJ_ID": "",
-				"PRO_PRT_OBJ_ID_REF": "",
-				"INF_DEF_W": "0",
-				"ALT_USR": 1,
-				"MOD_USR": 6,
-				"ALT_TIM": "2014-11-13T09:12:09.000Z",
-				"MOD_TIM": "2018-04-05T14:08:24.000Z",
-				"OFF": false,
-				"OFF_USR": 0,
-				"OFF_TIM": "1970-01-01T00:00:00.000Z"
+				"OFF_TIM": "Invalid Date",
+				"PGC_CAJ": "",
+				"AUX_CAJ": ""
 			},
 			{
 				"ID": 9,
@@ -123,7 +106,9 @@
 				"MOD_TIM": "2018-04-05T14:07:50.000Z",
 				"OFF": false,
 				"OFF_USR": 0,
-				"OFF_TIM": "1970-01-01T00:00:00.000Z"
+				"OFF_TIM": "Invalid Date",
+				"PGC_CAJ": "",
+				"AUX_CAJ": ""
 			},
 			{
 				"ID": 2,
@@ -146,12 +131,14 @@
 				"MOD_TIM": "2014-11-13T09:12:23.000Z",
 				"OFF": false,
 				"OFF_USR": 0,
-				"OFF_TIM": "1970-01-01T00:00:00.000Z"
+				"OFF_TIM": "Invalid Date",
+				"PGC_CAJ": "",
+				"AUX_CAJ": ""
 			},
 			{
-				"ID": 4,
-				"NAME": "Recibo a 30 días f/fra.",
-				"DOC_TIP": "K0NWAA",
+				"ID": 1,
+				"NAME": "Recibo 30 días fecha/factura",
+				"DOC_TIP": "9KKZSR",
 				"NUM_VTO": 1,
 				"DIA_VTO_1": 30,
 				"DIA_ENT_VTO": 0,
@@ -161,15 +148,42 @@
 				"FPG_TPV_TIP": "C",
 				"PRO_PRT_PRY": "",
 				"PRO_PRT_OBJ_ID": "",
-				"PRO_PRT_OBJ_ID_REF": "",
-				"INF_DEF_W": "0",
-				"ALT_USR": 1,
-				"MOD_USR": 5,
-				"ALT_TIM": "2014-11-13T09:18:22.000Z",
-				"MOD_TIM": "2016-04-25T14:56:10.000Z",
+				"PRO_PRT_OBJ_ID_REF": "/",
+				"INF_DEF_W": "",
+				"ALT_USR": 0,
+				"MOD_USR": 0,
+				"ALT_TIM": "2021-11-22T17:00:33.000Z",
+				"MOD_TIM": "2021-11-22T17:00:33.000Z",
 				"OFF": false,
 				"OFF_USR": 0,
-				"OFF_TIM": "1970-01-01T00:00:00.000Z"
+				"OFF_TIM": "Invalid Date",
+				"PGC_CAJ": "",
+				"AUX_CAJ": ""
+			},
+			{
+				"ID": 10,
+				"NAME": "Recibo 45 dias/fecha/factura",
+				"DOC_TIP": "RZBGQI",
+				"NUM_VTO": 1,
+				"DIA_VTO_1": 45,
+				"DIA_ENT_VTO": 0,
+				"APL_CND_ESP": false,
+				"CND_ESP": "",
+				"TPV": false,
+				"FPG_TPV_TIP": "C",
+				"PRO_PRT_PRY": "",
+				"PRO_PRT_OBJ_ID": "",
+				"PRO_PRT_OBJ_ID_REF": "/",
+				"INF_DEF_W": "",
+				"ALT_USR": 6,
+				"MOD_USR": 6,
+				"ALT_TIM": "2021-12-01T21:54:52.000Z",
+				"MOD_TIM": "2021-12-01T21:54:52.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date",
+				"PGC_CAJ": "",
+				"AUX_CAJ": ""
 			},
 			{
 				"ID": 3,
@@ -192,7 +206,9 @@
 				"MOD_TIM": "2014-11-13T09:12:32.000Z",
 				"OFF": false,
 				"OFF_USR": 0,
-				"OFF_TIM": "1970-01-01T00:00:00.000Z"
+				"OFF_TIM": "Invalid Date",
+				"PGC_CAJ": "",
+				"AUX_CAJ": ""
 			},
 			{
 				"ID": 8,
@@ -215,7 +231,9 @@
 				"MOD_TIM": "2018-04-05T14:07:34.000Z",
 				"OFF": false,
 				"OFF_USR": 0,
-				"OFF_TIM": "1970-01-01T00:00:00.000Z"
+				"OFF_TIM": "Invalid Date",
+				"PGC_CAJ": "",
+				"AUX_CAJ": ""
 			}
 		]
 	}

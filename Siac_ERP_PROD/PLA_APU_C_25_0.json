@@ -1,6 +1,6 @@
 [
 	{
-		"tablaIdRef": "velneo_verp_2_dat/PLA_APU_C",
+		"tablaIdRef": "siac_erp_prod_dat/PLA_APU_C",
 		"indiceId": "ID",
 		"indicePartes": [
 			"PLA_ASI",

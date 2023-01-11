@@ -1,17 +1,225 @@
 [
 	{
-		"tablaIdRef": "velneo_verp_2_dat/PRM_DIC_W",
+		"tablaIdRef": "siac_erp_prod_dat/PRM_DIC_W",
 		"indiceId": "ID",
 		"indicePartes": [
 			"ID"
 		],
 		"version": "25_0",
-		"numRegistros": 248
+		"numRegistros": 277
 	},
 	{
 		"datos": [
 			{
-				"ID": "velneo_verp_2_dat/COM_ALB_G",
+				"ID": "siac_erp_prod_dat/EST_CUE",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/TRAN",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/EXP_EMP",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/PER_DEP",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/EXP_LAB",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/EXP",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/PLAN",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/PTO_TBJ",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/DEP",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/DAT_NOM",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/NOM_DEP",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/NOM_EMP",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/VEND",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/BOM",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/PART",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/BOM_PART",
+				"NAME": "",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/COM_ALB_G",
 				"NAME": " Albaranes de compra",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -24,7 +232,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_ALB_G",
+				"ID": "siac_erp_prod_dat/VTA_ALB_G",
 				"NAME": " Albaranes de venta",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -37,7 +245,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ALM_M",
+				"ID": "siac_erp_prod_dat/ALM_M",
 				"NAME": " Almacenes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -50,7 +258,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/AMO_C",
+				"ID": "siac_erp_prod_dat/AMO_C",
 				"NAME": " Amortizaciones de inmovilizado",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -63,7 +271,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/API_KEY_W",
+				"ID": "siac_erp_prod_dat/API_KEY_W",
 				"NAME": " API key",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -76,7 +284,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/APU_C",
+				"ID": "siac_erp_prod_dat/APU_C",
 				"NAME": " Apuntes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -89,7 +297,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/APT_CAJ_T",
+				"ID": "siac_erp_prod_dat/APT_CAJ_T",
 				"NAME": " Apuntes caja",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -102,7 +310,20 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ARQ_T",
+				"ID": "siac_erp_prod_dat/EML_ACH_W",
+				"NAME": " Archivos",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/ARQ_T",
 				"NAME": " Arqueos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -115,7 +336,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ART_M",
+				"ID": "siac_erp_prod_dat/ART_M",
 				"NAME": " Artículos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -128,7 +349,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ART_PRV_G",
+				"ID": "siac_erp_prod_dat/ART_PRV_G",
 				"NAME": " Artículos proveedores",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -141,7 +362,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ASI_C",
+				"ID": "siac_erp_prod_dat/ASI_C",
 				"NAME": " Asientos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -154,7 +375,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ASI_ERR_C",
+				"ID": "siac_erp_prod_dat/ASI_ERR_C",
 				"NAME": " Asientos con errores",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -219,7 +440,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/BCO_C",
+				"ID": "siac_erp_prod_dat/BCO_C",
 				"NAME": " Bancos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -232,7 +453,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_APA_T",
+				"ID": "siac_erp_prod_dat/FAC_APA_T",
 				"NAME": " Cabeceras de facturas aparcadas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -245,7 +466,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_T",
+				"ID": "siac_erp_prod_dat/FAC_T",
 				"NAME": " Cabeceras de facturas simplificadas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -258,7 +479,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CAJ_T",
+				"ID": "siac_erp_prod_dat/CAJ_T",
 				"NAME": " Cajas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -271,7 +492,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DIS_INF_CAL_C",
+				"ID": "siac_erp_prod_dat/DIS_INF_CAL_C",
 				"NAME": " Cálculos de epígrafes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -284,7 +505,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INF_CAL_C",
+				"ID": "siac_erp_prod_dat/INF_CAL_C",
 				"NAME": " Cálculos del informe",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -297,7 +518,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CCO_C",
+				"ID": "siac_erp_prod_dat/CCO_C",
 				"NAME": " Centros de coste",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -310,7 +531,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CCO_DES_C",
+				"ID": "siac_erp_prod_dat/CCO_DES_C",
 				"NAME": " Centros de coste de destino del reparto de costes",
 				"ETQ": "",
 				"VER_ULT_ACT": "24.0",
@@ -323,7 +544,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CLF_M",
+				"ID": "siac_erp_prod_dat/CLF_M",
 				"NAME": " Clasificaciones",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -336,7 +557,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CNC_C",
+				"ID": "siac_erp_prod_dat/CNC_C",
 				"NAME": " Conceptos automáticos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -349,7 +570,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CBA_CNC_C",
+				"ID": "siac_erp_prod_dat/CBA_CNC_C",
 				"NAME": " Conceptos de conciliación bancaria",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -362,7 +583,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CBA_CAB_C",
+				"ID": "siac_erp_prod_dat/CBA_CAB_C",
 				"NAME": " Conciliaciones bancarias",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -375,7 +596,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/APP_CFG_W",
+				"ID": "siac_erp_prod_dat/APP_CFG_W",
 				"NAME": " Configuraciones de la aplicación",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -388,7 +609,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ART_CON_M",
+				"ID": "siac_erp_prod_dat/ART_CON_M",
 				"NAME": " Contabilización de artículos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -401,7 +622,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ENT_M",
+				"ID": "siac_erp_prod_dat/ENT_M",
 				"NAME": " Contactos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -414,7 +635,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ENT_CLF_M",
+				"ID": "siac_erp_prod_dat/ENT_CLF_M",
 				"NAME": " Contactos - Clasificaciones",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -427,7 +648,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/SER_CNT_M",
+				"ID": "siac_erp_prod_dat/SER_CNT_M",
 				"NAME": " Contadores de series de facturas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -440,7 +661,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRS_CTR_W",
+				"ID": "siac_erp_prod_dat/PRS_CTR_W",
 				"NAME": " Controles",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -453,7 +674,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/API_CTR_W",
+				"ID": "siac_erp_prod_dat/API_CTR_W",
 				"NAME": " Controles (API Rest)",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -466,7 +687,20 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/COS_C",
+				"ID": "siac_erp_prod_dat/EML_W",
+				"NAME": " Correos enviados",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/COS_C",
 				"NAME": " Costes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -479,7 +713,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DIV_COT_M",
+				"ID": "siac_erp_prod_dat/DIV_COT_M",
 				"NAME": " Cotizaciones de divisas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -492,7 +726,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CSS_W",
+				"ID": "siac_erp_prod_dat/CSS_W",
 				"NAME": " CSS",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -505,7 +739,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/AUX_C",
+				"ID": "siac_erp_prod_dat/AUX_C",
 				"NAME": " Cuentas auxiliares",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -518,7 +752,20 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/COS_PRA_C",
+				"ID": "siac_erp_prod_dat/EML_CTA_W",
+				"NAME": " Cuentas de correo",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/COS_PRA_C",
 				"NAME": " Cuentas para el cálculo del planing de reparto de costes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -531,7 +778,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CCO_AUX_C",
+				"ID": "siac_erp_prod_dat/CCO_AUX_C",
 				"NAME": " Cuentas para el cálculo del reparto de costes",
 				"ETQ": "",
 				"VER_ULT_ACT": "24.0",
@@ -544,7 +791,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INF_DEF_W",
+				"ID": "siac_erp_prod_dat/INF_DEF_W",
 				"NAME": " Definiciones de informes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -557,7 +804,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DEP_T",
+				"ID": "siac_erp_prod_dat/DEP_T",
 				"NAME": " Dependientes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -570,7 +817,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRE_DES_C",
+				"ID": "siac_erp_prod_dat/PRE_DES_C",
 				"NAME": " Desviaciones presupuestarias",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -583,7 +830,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INF_DET_C",
+				"ID": "siac_erp_prod_dat/INF_DET_C",
 				"NAME": " Detalle de un informe",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -596,7 +843,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CBA_DET_C",
+				"ID": "siac_erp_prod_dat/CBA_DET_C",
 				"NAME": " Detalles de conciliación bancaria",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -609,7 +856,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DIA_T",
+				"ID": "siac_erp_prod_dat/DIA_T",
 				"NAME": " Días",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -622,7 +869,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRM_DIC_W",
+				"ID": "siac_erp_prod_dat/PRM_DIC_W",
 				"NAME": " Diccionario de permisos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -635,7 +882,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DIR_M",
+				"ID": "siac_erp_prod_dat/DIR_M",
 				"NAME": " Direcciones",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -648,7 +895,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DIS_INF_C",
+				"ID": "siac_erp_prod_dat/DIS_INF_C",
 				"NAME": " Diseñador de informes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -661,7 +908,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DIV_M",
+				"ID": "siac_erp_prod_dat/DIV_M",
 				"NAME": " Divisas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -674,7 +921,46 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EJE_C",
+				"ID": "siac_erp_prod_dat/DOC_W",
+				"NAME": " Documentos",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/DOC_COL_W",
+				"NAME": " Documentos (Colas)",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/DOC_EXP_W",
+				"NAME": " Documentos explorador",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/EJE_C",
 				"NAME": " Ejercicios",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -687,7 +973,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CTT_M",
+				"ID": "siac_erp_prod_dat/CTT_M",
 				"NAME": " Emails Teléfonos URLs",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -700,7 +986,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EMP_M",
+				"ID": "siac_erp_prod_dat/EMP_M",
 				"NAME": " Empresas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -713,7 +999,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EMP_USR_M",
+				"ID": "siac_erp_prod_dat/EMP_USR_M",
 				"NAME": " Empresas de un usuario",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -726,7 +1012,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EST_CLT_G",
+				"ID": "siac_erp_prod_dat/EST_CLT_G",
 				"NAME": " Estadística por cliente",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -739,7 +1025,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EST_PRV_G",
+				"ID": "siac_erp_prod_dat/EST_PRV_G",
 				"NAME": " Estadística por proveedor",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -752,7 +1038,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EST_CMR_G",
+				"ID": "siac_erp_prod_dat/EST_CMR_G",
 				"NAME": " Estadística por comercial",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -765,7 +1051,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EST_ART_G",
+				"ID": "siac_erp_prod_dat/EST_ART_G",
 				"NAME": " Estadística por artículo",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -778,7 +1064,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EST_EJE_G",
+				"ID": "siac_erp_prod_dat/EST_EJE_G",
 				"NAME": " Estadística por ejercicio",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -791,7 +1077,20 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EXS_G",
+				"ID": "siac_erp_prod_dat/EST_W",
+				"NAME": " Estilos",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/EXS_G",
 				"NAME": " Existencias",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -804,7 +1103,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EXF_C",
+				"ID": "siac_erp_prod_dat/EXF_C",
 				"NAME": " Existencias finales",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -817,7 +1116,20 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/COM_FAC_G",
+				"ID": "siac_erp_prod_dat/EML_MIME_EXT_W",
+				"NAME": " Extensiones MIME",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/COM_FAC_G",
 				"NAME": " Facturas de compra",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -830,7 +1142,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_FAC_G",
+				"ID": "siac_erp_prod_dat/VTA_FAC_G",
 				"NAME": " Facturas de venta",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -843,7 +1155,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAM_M",
+				"ID": "siac_erp_prod_dat/FAM_M",
 				"NAME": " Familias",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -856,7 +1168,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FIC_W",
+				"ID": "siac_erp_prod_dat/FIC_W",
 				"NAME": " Ficheros",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -869,7 +1181,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FPG_M",
+				"ID": "siac_erp_prod_dat/FPG_M",
 				"NAME": " Formas de pago",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -882,7 +1194,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/USR_GRP_M",
+				"ID": "siac_erp_prod_dat/USR_GRP_M",
 				"NAME": " Grupos de usuarios",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -895,7 +1207,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ENT_HIS_M",
+				"ID": "siac_erp_prod_dat/ENT_HIS_M",
 				"NAME": " Históricos de contactos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -908,7 +1220,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/IDI_M",
+				"ID": "siac_erp_prod_dat/IDI_M",
 				"NAME": " Idiomas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -921,7 +1233,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/SCR_INC_W",
+				"ID": "siac_erp_prod_dat/SCR_INC_W",
 				"NAME": " Includes de scripts",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -934,7 +1246,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INF_C",
+				"ID": "siac_erp_prod_dat/INF_C",
 				"NAME": " Informes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -947,7 +1259,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INM_C",
+				"ID": "siac_erp_prod_dat/INM_C",
 				"NAME": " Inmovilizados",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -960,7 +1272,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INV_VAL_G",
+				"ID": "siac_erp_prod_dat/INV_VAL_G",
 				"NAME": " Inventario valorado",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -973,7 +1285,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_APA_LIN_T",
+				"ID": "siac_erp_prod_dat/FAC_APA_LIN_T",
 				"NAME": " Líneas de facturas simplificadas aparcadas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -986,7 +1298,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_LIN_TMP_T",
+				"ID": "siac_erp_prod_dat/FAC_LIN_TMP_T",
 				"NAME": " Líneas de facturas simplificadas temporales",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -999,7 +1311,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_LIN_T",
+				"ID": "siac_erp_prod_dat/FAC_LIN_T",
 				"NAME": " Líneas de facturas simplificadas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -1012,7 +1324,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/COM_PED_LIN_G",
+				"ID": "siac_erp_prod_dat/COM_PED_LIN_G",
 				"NAME": " Líneas de pedidos de compra",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -1025,7 +1337,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_PED_LIN_G",
+				"ID": "siac_erp_prod_dat/VTA_PED_LIN_G",
 				"NAME": " Líneas de pedidos de venta",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -1038,7 +1350,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_PRE_LIN_G",
+				"ID": "siac_erp_prod_dat/VTA_PRE_LIN_G",
 				"NAME": " Líneas de presupuestos de venta",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -1051,7 +1363,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/LOG_SES_W",
+				"ID": "siac_erp_prod_dat/LOG_SES_W",
 				"NAME": " Log de sesión",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -1064,7 +1376,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/LUC_W",
+				"ID": "siac_erp_prod_dat/LUC_W",
 				"NAME": " Log de usuarios concurrentes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -1077,7 +1389,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/LOG_TRN_W",
+				"ID": "siac_erp_prod_dat/LOG_TRN_W",
 				"NAME": " Log transaccional",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -1090,7 +1402,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/MEM_T",
+				"ID": "siac_erp_prod_dat/MEM_T",
 				"NAME": " Memoria, tabla de trabajo",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -1103,7 +1415,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/MES_T",
+				"ID": "siac_erp_prod_dat/MES_T",
 				"NAME": " Mesas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -1116,7 +1428,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/MON_M",
+				"ID": "siac_erp_prod_dat/MON_M",
 				"NAME": " Monedas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -1129,7 +1441,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/MOV_G",
+				"ID": "siac_erp_prod_dat/MOV_G",
 				"NAME": " Movimientos de almacén",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -1142,7 +1454,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DIS_INF_CAL_C.editarNo",
+				"ID": "siac_erp_prod_dat/DIS_INF_CAL_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Cálculos de epígrafes",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1155,7 +1467,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DIR_M.editarNo",
+				"ID": "siac_erp_prod_dat/DIR_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Addresses",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1168,7 +1480,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ART_M.editarNo",
+				"ID": "siac_erp_prod_dat/ART_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Artículos",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1181,7 +1493,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PLF_W.editarNo",
+				"ID": "siac_erp_prod_dat/PLF_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Plantillas de ficheros",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1194,7 +1506,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ART_PRV_G.editarNo",
+				"ID": "siac_erp_prod_dat/ART_PRV_G.editarNo",
 				"NAME": "No autorizado a editar registros de  Artículos proveedores",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1207,7 +1519,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DIV_M.editarNo",
+				"ID": "siac_erp_prod_dat/DIV_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Divisas",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1220,7 +1532,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAM_M.editarNo",
+				"ID": "siac_erp_prod_dat/FAM_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Familias",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1233,7 +1545,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FPG_M.editarNo",
+				"ID": "siac_erp_prod_dat/FPG_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Formas de pago de vERP",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1246,7 +1558,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/SER_M.editarNo",
+				"ID": "siac_erp_prod_dat/SER_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Series",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1259,7 +1571,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/SER_CNT_M.editarNo",
+				"ID": "siac_erp_prod_dat/SER_CNT_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Contadores de series de facturas vERP",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1272,7 +1584,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/MEM_T.editarNo",
+				"ID": "siac_erp_prod_dat/MEM_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Memoria, tabla de trabajo",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1285,7 +1597,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/COM_ALB_G.editarNo",
+				"ID": "siac_erp_prod_dat/COM_ALB_G.editarNo",
 				"NAME": "No autorizado a editar registros de  Albaranes de compra",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1298,7 +1610,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/COM_FAC_G.editarNo",
+				"ID": "siac_erp_prod_dat/COM_FAC_G.editarNo",
 				"NAME": "No autorizado a editar registros de  Facturas de compra",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1311,7 +1623,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/COM_PED_G.editarNo",
+				"ID": "siac_erp_prod_dat/COM_PED_G.editarNo",
 				"NAME": "No autorizado a editar registros de  Pedidos de compra",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1324,7 +1636,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/COM_PED_LIN_G.editarNo",
+				"ID": "siac_erp_prod_dat/COM_PED_LIN_G.editarNo",
 				"NAME": "No autorizado a editar registros de  Líneas de pedidos de compra",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1337,7 +1649,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EXS_G.editarNo",
+				"ID": "siac_erp_prod_dat/EXS_G.editarNo",
 				"NAME": "No autorizado a editar registros de  Existencias",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1350,7 +1662,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ALM_M.editarNo",
+				"ID": "siac_erp_prod_dat/ALM_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Almacenes",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1363,7 +1675,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/TRA_G.editarNo",
+				"ID": "siac_erp_prod_dat/TRA_G.editarNo",
 				"NAME": "No autorizado a editar registros de  Traspasos entre almacenes",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1376,7 +1688,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_ALB_G.editarNo",
+				"ID": "siac_erp_prod_dat/VTA_ALB_G.editarNo",
 				"NAME": "No autorizado a editar registros de  Albaranes de venta",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1389,7 +1701,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_FAC_G.editarNo",
+				"ID": "siac_erp_prod_dat/VTA_FAC_G.editarNo",
 				"NAME": "No autorizado a editar registros de  Facturas de venta",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1402,7 +1714,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_PED_G.editarNo",
+				"ID": "siac_erp_prod_dat/VTA_PED_G.editarNo",
 				"NAME": "No autorizado a editar registros de  Pedidos de venta",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1415,7 +1727,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_PED_LIN_G.editarNo",
+				"ID": "siac_erp_prod_dat/VTA_PED_LIN_G.editarNo",
 				"NAME": "No autorizado a editar registros de  Líneas de pedidos de venta",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1428,7 +1740,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_PRE_G.editarNo",
+				"ID": "siac_erp_prod_dat/VTA_PRE_G.editarNo",
 				"NAME": "No autorizado a editar registros de",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1441,7 +1753,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_PRE_LIN_G.editarNo",
+				"ID": "siac_erp_prod_dat/VTA_PRE_LIN_G.editarNo",
 				"NAME": "No autorizado a editar registros de",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1454,7 +1766,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_TAR_G.editarNo",
+				"ID": "siac_erp_prod_dat/VTA_TAR_G.editarNo",
 				"NAME": "No autorizado a editar registros de",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1467,7 +1779,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_TAR_CLI_G.editarNo",
+				"ID": "siac_erp_prod_dat/VTA_TAR_CLI_G.editarNo",
 				"NAME": "No autorizado a editar registros de",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1480,7 +1792,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_TAR_ART_G.editarNo",
+				"ID": "siac_erp_prod_dat/VTA_TAR_ART_G.editarNo",
 				"NAME": "No autorizado a editar registros de",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1493,7 +1805,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INF_DEF_W.editarNo",
+				"ID": "siac_erp_prod_dat/INF_DEF_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Definiciones de informes",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1506,7 +1818,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ART_CON_M.editarNo",
+				"ID": "siac_erp_prod_dat/ART_CON_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Contabilización de artículos",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1519,7 +1831,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/APT_CAJ_T.editarNo",
+				"ID": "siac_erp_prod_dat/APT_CAJ_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Apuntes caja",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1532,7 +1844,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ARQ_T.editarNo",
+				"ID": "siac_erp_prod_dat/ARQ_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Arqueos",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1545,7 +1857,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CAJ_T.editarNo",
+				"ID": "siac_erp_prod_dat/CAJ_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Cajas",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1558,7 +1870,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DIA_T.editarNo",
+				"ID": "siac_erp_prod_dat/DIA_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Días",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1571,7 +1883,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_APA_T.editarNo",
+				"ID": "siac_erp_prod_dat/FAC_APA_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Cabeceras de facturas aparcadas",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1584,7 +1896,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_APA_LIN_T.editarNo",
+				"ID": "siac_erp_prod_dat/FAC_APA_LIN_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Líneas de facturas simplificadas aparcadas",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1597,7 +1909,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_LIN_TMP_T.editarNo",
+				"ID": "siac_erp_prod_dat/FAC_LIN_TMP_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Líneas de facturas simplificadas temporales",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1610,7 +1922,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_T.editarNo",
+				"ID": "siac_erp_prod_dat/FAC_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Cabeceras de facturas simplificadas",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1623,7 +1935,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/TRM_T.editarNo",
+				"ID": "siac_erp_prod_dat/TRM_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Terminales",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1636,7 +1948,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/TUR_T.editarNo",
+				"ID": "siac_erp_prod_dat/TUR_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Turnos",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1649,7 +1961,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRS_CTR_W.editarNo",
+				"ID": "siac_erp_prod_dat/PRS_CTR_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Controles",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1662,7 +1974,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CLF_M.editarNo",
+				"ID": "siac_erp_prod_dat/CLF_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Classifications",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1675,7 +1987,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CTT_TIP_M.editarNo",
+				"ID": "siac_erp_prod_dat/CTT_TIP_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Types Email Phone URL",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1688,7 +2000,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/REL_TIP_M.editarNo",
+				"ID": "siac_erp_prod_dat/REL_TIP_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Relationship types",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1701,7 +2013,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PAI_M.editarNo",
+				"ID": "siac_erp_prod_dat/PAI_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Countries",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1714,7 +2026,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRO_M.editarNo",
+				"ID": "siac_erp_prod_dat/PRO_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Region 2",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1727,7 +2039,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/IDI_M.editarNo",
+				"ID": "siac_erp_prod_dat/IDI_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Languajes",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1740,7 +2052,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ENT_M.editarNo",
+				"ID": "siac_erp_prod_dat/ENT_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Contacts",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1753,7 +2065,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ENT_CLF_M.editarNo",
+				"ID": "siac_erp_prod_dat/ENT_CLF_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Contacts - Classifications",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1766,7 +2078,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ENT_REL_M.editarNo",
+				"ID": "siac_erp_prod_dat/ENT_REL_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Contacts relationships",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1779,7 +2091,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ENT_HIS_M.editarNo",
+				"ID": "siac_erp_prod_dat/ENT_HIS_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Históricos de contactos",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1792,7 +2104,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EMP_M.editarNo",
+				"ID": "siac_erp_prod_dat/EMP_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Companies",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1805,7 +2117,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EMP_USR_M.editarNo",
+				"ID": "siac_erp_prod_dat/EMP_USR_M.editarNo",
 				"NAME": "No autorizado a editar registros de  User companies",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1818,7 +2130,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/USR_VAR_W.editarNo",
+				"ID": "siac_erp_prod_dat/USR_VAR_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Users preferences",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1831,7 +2143,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRM_W.editarNo",
+				"ID": "siac_erp_prod_dat/PRM_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Permissions",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1844,7 +2156,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRM_DIC_W.editarNo",
+				"ID": "siac_erp_prod_dat/PRM_DIC_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Permissions dictionary",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1857,7 +2169,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/USR_M.editarNo",
+				"ID": "siac_erp_prod_dat/USR_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Users",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1870,7 +2182,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/USR_GRP_M.editarNo",
+				"ID": "siac_erp_prod_dat/USR_GRP_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Users groups",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1883,7 +2195,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/USR_GRP_USR_M.editarNo",
+				"ID": "siac_erp_prod_dat/USR_GRP_USR_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Users from a group",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1896,7 +2208,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DEP_T.editarNo",
+				"ID": "siac_erp_prod_dat/DEP_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Dependientes",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1909,7 +2221,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRS_OBJ_W.editarNo",
+				"ID": "siac_erp_prod_dat/PRS_OBJ_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Personalización",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1922,7 +2234,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CSS_W.editarNo",
+				"ID": "siac_erp_prod_dat/CSS_W.editarNo",
 				"NAME": "No autorizado a editar registros de  CSS",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1935,7 +2247,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/AMO_C.editarNo",
+				"ID": "siac_erp_prod_dat/AMO_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Amortizaciones de inmovilizado",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1948,7 +2260,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/APU_C.editarNo",
+				"ID": "siac_erp_prod_dat/APU_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Apuntes",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1961,7 +2273,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ASI_ERR_C.editarNo",
+				"ID": "siac_erp_prod_dat/ASI_ERR_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Asientos con errores",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1974,7 +2286,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ASI_C.editarNo",
+				"ID": "siac_erp_prod_dat/ASI_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Asientos",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -1987,7 +2299,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/BCO_C.editarNo",
+				"ID": "siac_erp_prod_dat/BCO_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Bancos",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2000,7 +2312,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CCO_C.editarNo",
+				"ID": "siac_erp_prod_dat/CCO_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Centros de coste",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2013,7 +2325,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CNC_C.editarNo",
+				"ID": "siac_erp_prod_dat/CNC_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Conceptos automáticos",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2026,7 +2338,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/COB_C.editarNo",
+				"ID": "siac_erp_prod_dat/COB_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Operaciones de cobro",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2039,7 +2351,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/COS_C.editarNo",
+				"ID": "siac_erp_prod_dat/COS_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Costes",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2052,7 +2364,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EJE_C.editarNo",
+				"ID": "siac_erp_prod_dat/EJE_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Ejercicios",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2065,7 +2377,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/EXF_C.editarNo",
+				"ID": "siac_erp_prod_dat/EXF_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Existencias finales",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2078,7 +2390,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_EMI_C.editarNo",
+				"ID": "siac_erp_prod_dat/FAC_EMI_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Registro de facturas emitidas",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2091,7 +2403,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_REC_C.editarNo",
+				"ID": "siac_erp_prod_dat/FAC_REC_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Registro de facturas recibidas",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2104,7 +2416,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INM_C.editarNo",
+				"ID": "siac_erp_prod_dat/INM_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Inmovilizados",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2117,7 +2429,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/TRB_C.editarNo",
+				"ID": "siac_erp_prod_dat/TRB_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Tributos por tipo",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2130,7 +2442,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/MON_C.editarNo",
+				"ID": "siac_erp_prod_dat/MON_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Monedas",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2143,7 +2455,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PAG_C.editarNo",
+				"ID": "siac_erp_prod_dat/PAG_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Operaciones de pago",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2156,7 +2468,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PGC_C.editarNo",
+				"ID": "siac_erp_prod_dat/PGC_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Plan de cuentas (cuentas de mayor)",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2169,7 +2481,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/REM_COB_C.editarNo",
+				"ID": "siac_erp_prod_dat/REM_COB_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Remesas de cobros",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2182,7 +2494,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/REM_PAG_C.editarNo",
+				"ID": "siac_erp_prod_dat/REM_PAG_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Remesas de ordenes de pagos",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2195,7 +2507,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/SAL_C.editarNo",
+				"ID": "siac_erp_prod_dat/SAL_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Saldos",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2208,7 +2520,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DOC_TIP_M.editarNo",
+				"ID": "siac_erp_prod_dat/DOC_TIP_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Tipos de documentos",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2221,7 +2533,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTO_COB_C.editarNo",
+				"ID": "siac_erp_prod_dat/VTO_COB_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Vencimientos a cobrar",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2234,7 +2546,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTO_PAG_C.editarNo",
+				"ID": "siac_erp_prod_dat/VTO_PAG_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Vencimientos a pagar",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2247,7 +2559,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRS_MEN_W.editarNo",
+				"ID": "siac_erp_prod_dat/PRS_MEN_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Opciones de menú",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2260,7 +2572,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/AUX_C.editarNo",
+				"ID": "siac_erp_prod_dat/AUX_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Cuentas auxiliares",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2273,7 +2585,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/APP_CFG_W.editarNo",
+				"ID": "siac_erp_prod_dat/APP_CFG_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Configuraciones de la aplicación",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2286,7 +2598,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PLA_APU_C.editarNo",
+				"ID": "siac_erp_prod_dat/PLA_APU_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Plantillas de apuntes",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2299,7 +2611,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PLA_ASI_C.editarNo",
+				"ID": "siac_erp_prod_dat/PLA_ASI_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Plantillas de asientos",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2312,7 +2624,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PLA_COS_C.editarNo",
+				"ID": "siac_erp_prod_dat/PLA_COS_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Plantillas de costes",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2325,7 +2637,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/REM_NOR_C.editarNo",
+				"ID": "siac_erp_prod_dat/REM_NOR_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Normativas de remesas",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2338,7 +2650,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DIS_INF_C.editarNo",
+				"ID": "siac_erp_prod_dat/DIS_INF_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Diseñador de informes",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2351,7 +2663,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INF_C.editarNo",
+				"ID": "siac_erp_prod_dat/INF_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Informes",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2364,7 +2676,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INF_DET_C.editarNo",
+				"ID": "siac_erp_prod_dat/INF_DET_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Detalle de un informe",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2377,7 +2689,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INF_CAL_C.editarNo",
+				"ID": "siac_erp_prod_dat/INF_CAL_C.editarNo",
 				"NAME": "No autorizado a editar registros de  Cálculos del informe",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2390,7 +2702,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/MOV_G.editarNo",
+				"ID": "siac_erp_prod_dat/MOV_G.editarNo",
 				"NAME": "No autorizado a editar registros de  Movimientos de almacén",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2403,7 +2715,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/SAL_T.editarNo",
+				"ID": "siac_erp_prod_dat/SAL_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Salones",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2416,7 +2728,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/MES_T.editarNo",
+				"ID": "siac_erp_prod_dat/MES_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Mesas",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2429,7 +2741,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_LIN_T.editarNo",
+				"ID": "siac_erp_prod_dat/FAC_LIN_T.editarNo",
 				"NAME": "No autorizado a editar registros de  Líneas de facturas simplificadas",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2442,7 +2754,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/LUC_W.editarNo",
+				"ID": "siac_erp_prod_dat/LUC_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Log de usuarios concurrentes",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2455,7 +2767,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CTT_M.editarNo",
+				"ID": "siac_erp_prod_dat/CTT_M.editarNo",
 				"NAME": "No autorizado a editar registros de  Emails Phone URLs",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2468,7 +2780,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/LOG_SES_W.editarNo",
+				"ID": "siac_erp_prod_dat/LOG_SES_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Log de sesión",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2481,7 +2793,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INV_VAL_G.editarNo",
+				"ID": "siac_erp_prod_dat/INV_VAL_G.editarNo",
 				"NAME": "No autorizado a editar registros de  Inventario valorado",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2494,7 +2806,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FIC_W.editarNo",
+				"ID": "siac_erp_prod_dat/FIC_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Ficheros",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2507,7 +2819,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FIC_REG_W.editarNo",
+				"ID": "siac_erp_prod_dat/FIC_REG_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Registros de ficheros",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2520,7 +2832,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/SCR_W.editarNo",
+				"ID": "siac_erp_prod_dat/SCR_W.editarNo",
 				"NAME": "No autorizado a editar registros de  CSS",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2533,7 +2845,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/LOG_TRN_W.editarNo",
+				"ID": "siac_erp_prod_dat/LOG_TRN_W.editarNo",
 				"NAME": "No autorizado a editar registros de",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2546,7 +2858,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/API_CTR_W.editarNo",
+				"ID": "siac_erp_prod_dat/API_CTR_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Controles (API Rest)",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2559,7 +2871,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/API_KEY_W.editarNo",
+				"ID": "siac_erp_prod_dat/API_KEY_W.editarNo",
 				"NAME": "No autorizado a editar registros de  API keys",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2572,7 +2884,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/API_SEG_W.editarNo",
+				"ID": "siac_erp_prod_dat/API_SEG_W.editarNo",
 				"NAME": "No autorizado a editar registros de  API seguridad",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2585,7 +2897,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/SCR_INC_W.editarNo",
+				"ID": "siac_erp_prod_dat/SCR_INC_W.editarNo",
 				"NAME": "No autorizado a editar registros de  Includes de scripts",
 				"ETQ": "",
 				"VER_ULT_ACT": "21.0",
@@ -2611,7 +2923,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INF_DEF_W.genpdfNo",
+				"ID": "siac_erp_prod_dat/INF_DEF_W.genpdfNo",
 				"NAME": "No autorizado a generar informes pdf",
 				"ETQ": "",
 				"VER_ULT_ACT": "25.0",
@@ -2624,7 +2936,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INF_DEF_W.edtpdfNo",
+				"ID": "siac_erp_prod_dat/INF_DEF_W.edtpdfNo",
 				"NAME": "No está autorizado a editar informes personalizables",
 				"ETQ": "",
 				"VER_ULT_ACT": "25.0",
@@ -2637,7 +2949,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/INF_DEF_W.impinfNo",
+				"ID": "siac_erp_prod_dat/INF_DEF_W.impinfNo",
 				"NAME": "No está autorizado a imprimir informes personalizables",
 				"ETQ": "",
 				"VER_ULT_ACT": "25.0",
@@ -2650,7 +2962,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/REM_NOR_C",
+				"ID": "siac_erp_prod_dat/REM_NOR_C",
 				"NAME": " Normativas de remesas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2663,7 +2975,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRS_MEN_W",
+				"ID": "siac_erp_prod_dat/PRS_MEN_W",
 				"NAME": " Opciones de menú",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2676,7 +2988,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/COB_C",
+				"ID": "siac_erp_prod_dat/COB_C",
 				"NAME": " Operaciones de cobro",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2689,7 +3001,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PAG_C",
+				"ID": "siac_erp_prod_dat/PAG_C",
 				"NAME": " Operaciones de pago",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2702,7 +3014,20 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PAI_M",
+				"ID": "siac_erp_prod_dat/ORD_REQ",
+				"NAME": " Orden de Requisicion",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/PAI_M",
 				"NAME": " Países",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2715,7 +3040,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/COM_PED_G",
+				"ID": "siac_erp_prod_dat/COM_PED_G",
 				"NAME": " Pedidos de compra",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2728,7 +3053,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_PED_G",
+				"ID": "siac_erp_prod_dat/VTA_PED_G",
 				"NAME": " Pedidos de venta",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2741,7 +3066,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRM_W",
+				"ID": "siac_erp_prod_dat/PRM_W",
 				"NAME": " Permisos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2754,7 +3079,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRS_OBJ_W",
+				"ID": "siac_erp_prod_dat/PRS_OBJ_W",
 				"NAME": " Personalización",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2767,7 +3092,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRS_OBJ_MEM_W",
+				"ID": "siac_erp_prod_dat/PRS_OBJ_MEM_W",
 				"NAME": " Personalización (memoria)",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2780,7 +3105,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PGC_C",
+				"ID": "siac_erp_prod_dat/PGC_C",
 				"NAME": " Plan de cuentas (cuentas de mayor)",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2793,7 +3118,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/COS_PRC_C",
+				"ID": "siac_erp_prod_dat/COS_PRC_C",
 				"NAME": " Planing de reparto de costes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2806,7 +3131,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PLA_APU_C",
+				"ID": "siac_erp_prod_dat/PLA_APU_C",
 				"NAME": " Plantillas de apuntes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2819,7 +3144,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PLA_ASI_C",
+				"ID": "siac_erp_prod_dat/PLA_ASI_C",
 				"NAME": " Plantillas de asientos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2832,7 +3157,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PLA_COS_C",
+				"ID": "siac_erp_prod_dat/PLA_COS_C",
 				"NAME": " Plantillas de costes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2845,7 +3170,20 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PLF_W",
+				"ID": "siac_erp_prod_dat/EML_PLA_W",
+				"NAME": " Plantillas de correo",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/PLF_W",
 				"NAME": " Plantillas de ficheros",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2858,7 +3196,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/USR_VAR_W",
+				"ID": "siac_erp_prod_dat/USR_VAR_W",
 				"NAME": " Preferencias de usuarios",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2871,7 +3209,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRE_C",
+				"ID": "siac_erp_prod_dat/PRE_C",
 				"NAME": " Presupuestos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2884,7 +3222,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_PRE_G",
+				"ID": "siac_erp_prod_dat/VTA_PRE_G",
 				"NAME": " Presupuestos de venta",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2897,7 +3235,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/PRO_M",
+				"ID": "siac_erp_prod_dat/PRO_M",
 				"NAME": " Provincias",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2910,7 +3248,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_EMI_C",
+				"ID": "siac_erp_prod_dat/FAC_EMI_C",
 				"NAME": " Registro de facturas emitidas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2923,7 +3261,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FAC_REC_C",
+				"ID": "siac_erp_prod_dat/FAC_REC_C",
 				"NAME": " Registro de facturas recibidas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2936,7 +3274,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/FIC_REG_W",
+				"ID": "siac_erp_prod_dat/FIC_REG_W",
 				"NAME": " Registros de ficheros",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2949,7 +3287,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/ENT_REL_M",
+				"ID": "siac_erp_prod_dat/ENT_REL_M",
 				"NAME": " Relaciones de contactos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2962,7 +3300,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/REM_COB_C",
+				"ID": "siac_erp_prod_dat/REM_COB_C",
 				"NAME": " Remesas de cobros",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2975,7 +3313,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/REM_PAG_C",
+				"ID": "siac_erp_prod_dat/REM_PAG_C",
 				"NAME": " Remesas de ordenes de pagos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -2988,7 +3326,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/SAL_C",
+				"ID": "siac_erp_prod_dat/SAL_C",
 				"NAME": " Saldos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3001,7 +3339,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/SAL_T",
+				"ID": "siac_erp_prod_dat/SAL_T",
 				"NAME": " Salones",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3014,7 +3352,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/SCR_W",
+				"ID": "siac_erp_prod_dat/SCR_W",
 				"NAME": " Scripts",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3027,7 +3365,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/API_SEG_W",
+				"ID": "siac_erp_prod_dat/API_SEG_W",
 				"NAME": " Seguridad del API key",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3040,7 +3378,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/SER_M",
+				"ID": "siac_erp_prod_dat/SER_M",
 				"NAME": " Series",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3053,7 +3391,20 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_TAR_G",
+				"ID": "siac_erp_prod_dat/EML_SRV_W",
+				"NAME": " Servidores de correo",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/VTA_TAR_G",
 				"NAME": " Tarifas",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3066,7 +3417,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_TAR_ART_G",
+				"ID": "siac_erp_prod_dat/VTA_TAR_ART_G",
 				"NAME": " Tarifas por artículo",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3079,7 +3430,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTA_TAR_CLI_G",
+				"ID": "siac_erp_prod_dat/VTA_TAR_CLI_G",
 				"NAME": " Tarifas por cliente",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3092,7 +3443,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/TRM_T",
+				"ID": "siac_erp_prod_dat/TRM_T",
 				"NAME": " Terminales",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3105,7 +3456,20 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/DOC_TIP_M",
+				"ID": "siac_erp_prod_dat/EML_ACH_TIP_W",
+				"NAME": " Tipos de archivos",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/DOC_TIP_M",
 				"NAME": " Tipos de documentos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3118,7 +3482,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/REL_TIP_M",
+				"ID": "siac_erp_prod_dat/REL_TIP_M",
 				"NAME": " Tipos de relación",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3131,7 +3495,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/CTT_TIP_M",
+				"ID": "siac_erp_prod_dat/CTT_TIP_M",
 				"NAME": " Tipos Email Teléfono URL",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3144,7 +3508,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/TRA_G",
+				"ID": "siac_erp_prod_dat/TRA_G",
 				"NAME": " Traspasos entre almacenes",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3157,7 +3521,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/TRB_C",
+				"ID": "siac_erp_prod_dat/TRB_C",
 				"NAME": " Tributos por tipo",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3170,7 +3534,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/TUR_T",
+				"ID": "siac_erp_prod_dat/TUR_T",
 				"NAME": " Turnos",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3183,7 +3547,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/USR_M",
+				"ID": "siac_erp_prod_dat/USR_M",
 				"NAME": " Usuarios",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3196,7 +3560,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/USR_GRP_USR_M",
+				"ID": "siac_erp_prod_dat/USR_GRP_USR_M",
 				"NAME": " Usuarios de un grupo",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3209,7 +3573,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTO_COB_C",
+				"ID": "siac_erp_prod_dat/VTO_COB_C",
 				"NAME": " Vencimientos a cobrar",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3222,7 +3586,7 @@
 				"OFF_TIM": "Invalid Date"
 			},
 			{
-				"ID": "velneo_verp_2_dat/VTO_PAG_C",
+				"ID": "siac_erp_prod_dat/VTO_PAG_C",
 				"NAME": " Vencimientos a pagar",
 				"ETQ": "",
 				"VER_ULT_ACT": "22.1.1",
@@ -3230,6 +3594,19 @@
 				"ALT_TIM": "2017-11-08T14:58:32.000Z",
 				"MOD_USR": 5,
 				"MOD_TIM": "2017-11-08T14:58:32.000Z",
+				"OFF": false,
+				"OFF_USR": 0,
+				"OFF_TIM": "Invalid Date"
+			},
+			{
+				"ID": "siac_erp_prod_dat/VTO_PAG_NOM",
+				"NAME": " Vencimientos a pagar de nominas",
+				"ETQ": "",
+				"VER_ULT_ACT": "25.0",
+				"ALT_USR": 1,
+				"ALT_TIM": "2021-11-22T17:01:18.000Z",
+				"MOD_USR": 1,
+				"MOD_TIM": "2021-11-22T17:01:18.000Z",
 				"OFF": false,
 				"OFF_USR": 0,
 				"OFF_TIM": "Invalid Date"
