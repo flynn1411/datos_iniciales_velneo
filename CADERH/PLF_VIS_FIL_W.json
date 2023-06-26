@@ -1,0 +1,24 @@
+[
+	{
+		"tablaIdRef": "caderh_dat/PLF_VIS_FIL_W",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"numRegistros": 1
+	},
+	{
+		"datos": [
+			{
+				"ID": 2,
+				"NAME": "Facturas recibidas 303",
+				"PLF": "3EWN",
+				"FIL_VIS": "((theRegister.fieldToString(\"SER.TIP_IVA_DED\")==\"1\")||(theRegister.fieldToString(\"SER.TIP_IVA_DED\")==\"2\"));",
+				"APL_FAC_EMI": false,
+				"APL_FAC_REC": true,
+				"NUM_REG_FAC_EMI": 0,
+				"NUM_REG_FAC_REC": 303
+			}
+		]
+	}
+]

@@ -1,0 +1,231 @@
+[
+	{
+		"tablaIdRef": "caderh_dat/PLF_VIS_MOD_AGR_COL_W",
+		"indiceId": "ID",
+		"indicePartes": [
+			"PLF_VIS_MOD_AGR",
+			"ID"
+		],
+		"numRegistros": 27
+	},
+	{
+		"datos": [
+			{
+				"PLF_VIS_MOD_AGR": 6,
+				"ID": 1,
+				"NAME": "Actividad",
+				"ORD": 1,
+				"TAB_ALI": "L",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 6,
+				"ID": 2,
+				"NAME": "Valor",
+				"ORD": 2,
+				"TAB_ALI": "L",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 6,
+				"ID": 3,
+				"NAME": "Clave",
+				"ORD": 3,
+				"TAB_ALI": "L",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 6,
+				"ID": 4,
+				"NAME": "Epigrafe",
+				"ORD": 4,
+				"TAB_ALI": "L",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 5,
+				"ID": 1,
+				"NAME": "Datos",
+				"ORD": 1,
+				"TAB_ALI": "L",
+				"ES_ETQ": true
+			},
+			{
+				"PLF_VIS_MOD_AGR": 5,
+				"ID": 2,
+				"NAME": "Valor",
+				"ORD": 2,
+				"TAB_ALI": "L",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 2,
+				"ID": 1,
+				"NAME": "NIF",
+				"ORD": 1,
+				"TAB_ALI": "",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 2,
+				"ID": 2,
+				"NAME": "Apellidos o Razón Social",
+				"ORD": 2,
+				"TAB_ALI": "",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 2,
+				"ID": 3,
+				"NAME": "Nombre",
+				"ORD": 3,
+				"TAB_ALI": "",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 1,
+				"ID": 1,
+				"NAME": "IVA devengado",
+				"ORD": 1,
+				"TAB_ALI": "L",
+				"ES_ETQ": true
+			},
+			{
+				"PLF_VIS_MOD_AGR": 1,
+				"ID": 2,
+				"NAME": "",
+				"ORD": 2,
+				"TAB_ALI": "L",
+				"ES_ETQ": true
+			},
+			{
+				"PLF_VIS_MOD_AGR": 1,
+				"ID": 3,
+				"NAME": "Base imponible",
+				"ORD": 3,
+				"TAB_ALI": "",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 1,
+				"ID": 4,
+				"NAME": "",
+				"ORD": 4,
+				"TAB_ALI": "L",
+				"ES_ETQ": true
+			},
+			{
+				"PLF_VIS_MOD_AGR": 1,
+				"ID": 5,
+				"NAME": "Tipo %",
+				"ORD": 5,
+				"TAB_ALI": "",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 1,
+				"ID": 6,
+				"NAME": "",
+				"ORD": 6,
+				"TAB_ALI": "L",
+				"ES_ETQ": true
+			},
+			{
+				"PLF_VIS_MOD_AGR": 1,
+				"ID": 7,
+				"NAME": "Cuota",
+				"ORD": 7,
+				"TAB_ALI": "",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 3,
+				"ID": 1,
+				"NAME": "IVA deducible",
+				"ORD": 1,
+				"TAB_ALI": "L",
+				"ES_ETQ": true
+			},
+			{
+				"PLF_VIS_MOD_AGR": 3,
+				"ID": 2,
+				"NAME": "",
+				"ORD": 2,
+				"TAB_ALI": "L",
+				"ES_ETQ": true
+			},
+			{
+				"PLF_VIS_MOD_AGR": 3,
+				"ID": 3,
+				"NAME": "Base",
+				"ORD": 3,
+				"TAB_ALI": "",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 3,
+				"ID": 4,
+				"NAME": "",
+				"ORD": 4,
+				"TAB_ALI": "L",
+				"ES_ETQ": true
+			},
+			{
+				"PLF_VIS_MOD_AGR": 3,
+				"ID": 5,
+				"NAME": "Cuota",
+				"ORD": 5,
+				"TAB_ALI": "",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 4,
+				"ID": 1,
+				"NAME": "Resultado",
+				"ORD": 1,
+				"TAB_ALI": "L",
+				"ES_ETQ": true
+			},
+			{
+				"PLF_VIS_MOD_AGR": 4,
+				"ID": 2,
+				"NAME": "",
+				"ORD": 2,
+				"TAB_ALI": "L",
+				"ES_ETQ": true
+			},
+			{
+				"PLF_VIS_MOD_AGR": 4,
+				"ID": 3,
+				"NAME": "Importe",
+				"ORD": 3,
+				"TAB_ALI": "L",
+				"ES_ETQ": false
+			},
+			{
+				"PLF_VIS_MOD_AGR": 8,
+				"ID": 1,
+				"NAME": "Resumen01",
+				"ORD": 1,
+				"TAB_ALI": "L",
+				"ES_ETQ": true
+			},
+			{
+				"PLF_VIS_MOD_AGR": 8,
+				"ID": 2,
+				"NAME": "",
+				"ORD": 2,
+				"TAB_ALI": "L",
+				"ES_ETQ": true
+			},
+			{
+				"PLF_VIS_MOD_AGR": 8,
+				"ID": 3,
+				"NAME": "",
+				"ORD": 3,
+				"TAB_ALI": "L",
+				"ES_ETQ": false
+			}
+		]
+	}
+]

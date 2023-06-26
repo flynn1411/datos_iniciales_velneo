@@ -1,0 +1,14 @@
+[
+	{
+		"tablaIdRef": "caderh_dat/AUX_C",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"version": "26_0",
+		"numRegistros": 0
+	},
+	{
+		"datos": []
+	}
+]

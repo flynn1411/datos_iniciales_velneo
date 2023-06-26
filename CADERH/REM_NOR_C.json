@@ -1,0 +1,78 @@
+[
+	{
+		"tablaIdRef": "caderh_dat/REM_NOR_C",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"numRegistros": 4
+	},
+	{
+		"datos": [
+			{
+				"ID": 2,
+				"NAME": "B2B",
+				"TIP_REM": "C",
+				"CAD_ULT_OPE": 3,
+				"PLZ_PRE_PRI": 1,
+				"PLZ_PRE_REC": 1,
+				"PRO_GEN_FIC_PRY": "caderh_app",
+				"PRO_GEN_FIC_OBJ_ID": "REM_COB_C_GEN_FIC_SEP_B2B",
+				"PRO_GEN_FIC_OBJ_ID_REF": "caderh_app/REM_COB_C_GEN_FIC_SEP_B2B",
+				"PRO_PRT_PRY": "caderh_app",
+				"PRO_PRT_OBJ_ID": "REM_COB_C_PRT",
+				"PRO_PRT_OBJ_ID_REF": "caderh_app/REM_COB_C_PRT",
+				"INF_DEF_W": "VERP_MDT_B2B",
+				"OFF": false
+			},
+			{
+				"ID": 3,
+				"NAME": "COR1",
+				"TIP_REM": "C",
+				"CAD_ULT_OPE": 3,
+				"PLZ_PRE_PRI": 3,
+				"PLZ_PRE_REC": 3,
+				"PRO_GEN_FIC_PRY": "caderh_app",
+				"PRO_GEN_FIC_OBJ_ID": "REM_COB_C_GEN_FIC_SEP_CO1",
+				"PRO_GEN_FIC_OBJ_ID_REF": "caderh_app/REM_COB_C_GEN_FIC_SEP_CO1",
+				"PRO_PRT_PRY": "caderh_app",
+				"PRO_PRT_OBJ_ID": "REM_COB_C_PRT",
+				"PRO_PRT_OBJ_ID_REF": "caderh_app/REM_COB_C_PRT",
+				"INF_DEF_W": "VERP_MDT_COR",
+				"OFF": false
+			},
+			{
+				"ID": 1,
+				"NAME": "CORE",
+				"TIP_REM": "C",
+				"CAD_ULT_OPE": 3,
+				"PLZ_PRE_PRI": 5,
+				"PLZ_PRE_REC": 2,
+				"PRO_GEN_FIC_PRY": "caderh_app",
+				"PRO_GEN_FIC_OBJ_ID": "REM_COB_C_GEN_FIC_SEP_COR",
+				"PRO_GEN_FIC_OBJ_ID_REF": "caderh_app/REM_COB_C_GEN_FIC_SEP_COR",
+				"PRO_PRT_PRY": "caderh_app",
+				"PRO_PRT_OBJ_ID": "REM_COB_C_PRT",
+				"PRO_PRT_OBJ_ID_REF": "caderh_app/REM_COB_C_PRT",
+				"INF_DEF_W": "VERP_MDT_COR",
+				"OFF": false
+			},
+			{
+				"ID": 4,
+				"NAME": "N34 (Pagos)",
+				"TIP_REM": "P",
+				"CAD_ULT_OPE": 0,
+				"PLZ_PRE_PRI": 0,
+				"PLZ_PRE_REC": 0,
+				"PRO_GEN_FIC_PRY": "caderh_app",
+				"PRO_GEN_FIC_OBJ_ID": "REM_PAG_C_TO_VTO_PAG",
+				"PRO_GEN_FIC_OBJ_ID_REF": "caderh_app/REM_PAG_C_TO_VTO_PAG",
+				"PRO_PRT_PRY": "caderh_app",
+				"PRO_PRT_OBJ_ID": "REM_PAG_C_PRT",
+				"PRO_PRT_OBJ_ID_REF": "caderh_app/REM_PAG_C_PRT",
+				"INF_DEF_W": "VERP_REM_PAG",
+				"OFF": false
+			}
+		]
+	}
+]

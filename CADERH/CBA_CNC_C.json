@@ -1,0 +1,90 @@
+[
+	{
+		"tablaIdRef": "caderh_dat/CBA_CNC_C",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"numRegistros": 19
+	},
+	{
+		"datos": [
+			{
+				"ID": "02",
+				"NAME": "Abonarés - Entregas - Ingresos"
+			},
+			{
+				"ID": "05",
+				"NAME": "Amortizaciones préstamos, créditos, etc."
+			},
+			{
+				"ID": "98",
+				"NAME": "Anulaciones - Correcciones asiento"
+			},
+			{
+				"ID": "11",
+				"NAME": "Cajero automático"
+			},
+			{
+				"ID": "10",
+				"NAME": "Cheques gasolina"
+			},
+			{
+				"ID": "14",
+				"NAME": "Devoluciones e impagados"
+			},
+			{
+				"ID": "08",
+				"NAME": "Dividendos cupones - Prima junta - Amortizaciones"
+			},
+			{
+				"ID": "03",
+				"NAME": "Domiciliados - Recibos - Letras - Pagos por su cuenta"
+			},
+			{
+				"ID": "04",
+				"NAME": "Giros - Transferencias - Traspasos - Cheques"
+			},
+			{
+				"ID": "17",
+				"NAME": "Intereses - Comisiones - Custodia - Gastos e impuestos"
+			},
+			{
+				"ID": "15",
+				"NAME": "Nóminas - Seguros sociales"
+			},
+			{
+				"ID": "09",
+				"NAME": "Operaciones de bolsa y/o compra/venta valores"
+			},
+			{
+				"ID": "13",
+				"NAME": "Operaciones extranjero"
+			},
+			{
+				"ID": "06",
+				"NAME": "Remesas efectos"
+			},
+			{
+				"ID": "07",
+				"NAME": "Suscripciones - Dividendos pasivos - Canjes"
+			},
+			{
+				"ID": "01",
+				"NAME": "Talones - Reintegros"
+			},
+			{
+				"ID": "12",
+				"NAME": "Tarjetas de crédito - Tarjetas de débito"
+			},
+			{
+				"ID": "16",
+				"NAME": "Timbres - Corretaje - Póliza"
+			},
+			{
+				"ID": "99",
+				"NAME": "Varios"
+			}
+		]
+	}
+]

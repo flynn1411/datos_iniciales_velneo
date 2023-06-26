@@ -1,0 +1,14 @@
+[
+	{
+		"tablaIdRef": "caderh_dat/DIS_INF_CAL_C",
+		"indiceId": "DIS_INF_PGC",
+		"indicePartes": [
+			"DIS_INF",
+			"PGC"
+		],
+		"numRegistros": 832
+	},
+	{
+		"datos": []
+	}
+]
