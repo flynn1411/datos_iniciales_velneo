@@ -5,10 +5,31 @@
 		"indicePartes": [
 			"ID"
 		],
-		"numRegistros": 82
+		"numRegistros": 110
 	},
 	{
 		"datos": [
+			{
+				"ID": "GEN005001",
+				"NAME": "Actividades de proyectos",
+				"TOO_TIP": "Actividades de proyectos",
+				"STA_TIP": "Actividades de proyectos",
+				"WHA_THI": "Actividades de proyectos",
+				"ICO_PRY": "caderh_dat",
+				"ICO_OBJ_ID": "SER_M",
+				"ICO_ID_REF": "caderh_dat/SER_M",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ACT_PRO_MEN",
+				"OBJ_ID_REF": "caderh_app/ACT_PRO_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
 			{
 				"ID": "GEN001003",
 				"NAME": "Albaranes",
@@ -27,8 +48,8 @@
 				"OBJ_ID_REF": "caderh_app/VTA_ALB_G_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "2,1,4",
-				"VER_ULT_ACT": "30.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN002002",
@@ -48,8 +69,8 @@
 				"OBJ_ID_REF": "caderh_app/COM_ALB_G_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,3",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN003",
@@ -69,11 +90,11 @@
 				"OBJ_ID_REF": "caderh_app/",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,5",
-				"VER_ULT_ACT": "30.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004ALM",
+				"ID": "GEN009ALM",
 				"NAME": "Almacenes",
 				"TOO_TIP": "Almacenes",
 				"STA_TIP": "Almacenes",
@@ -90,8 +111,8 @@
 				"OBJ_ID_REF": "caderh_app/ALM_M_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,5",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON005",
@@ -110,12 +131,33 @@
 				"OBJ_ID": "",
 				"OBJ_ID_REF": "/",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004ART",
+				"ID": "GEN008003",
+				"NAME": "Áreas",
+				"TOO_TIP": "Áreas",
+				"STA_TIP": "Áreas",
+				"WHA_THI": "Áreas",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "ARE",
+				"ICO_ID_REF": "caderh_app/ARE",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ARA_MEN",
+				"OBJ_ID_REF": "caderh_app/ARA_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN009ART",
 				"NAME": "Artículos",
 				"TOO_TIP": "Artículos de compra/venta y servicios",
 				"STA_TIP": "Artículos de compra/venta y servicios",
@@ -132,8 +174,29 @@
 				"OBJ_ID_REF": "caderh_app/ART_M_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,5,3,2",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN009ASE",
+				"NAME": "Asesores Comerciales",
+				"TOO_TIP": "Asesores Comerciales",
+				"STA_TIP": "Asesores Comerciales",
+				"WHA_THI": "Asesores Comerciales",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "VEND",
+				"ICO_ID_REF": "caderh_app/VEND",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ACC_VEND",
+				"OBJ_ID_REF": "caderh_app/ACC_VEND",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON001",
@@ -152,9 +215,9 @@
 				"OBJ_ID": "",
 				"OBJ_ID_REF": "caderh_app/",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON001001",
@@ -173,9 +236,9 @@
 				"OBJ_ID": "ASI_C_MEN",
 				"OBJ_ID_REF": "caderh_app/ASI_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "30.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON001004",
@@ -194,9 +257,9 @@
 				"OBJ_ID": "DCK_VRF_VER",
 				"OBJ_ID_REF": "caderh_app/DCK_VRF_VER",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "30.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON008AUX",
@@ -215,9 +278,9 @@
 				"OBJ_ID": "AUX_C_MEN",
 				"OBJ_ID_REF": "caderh_app/AUX_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON005003",
@@ -236,9 +299,9 @@
 				"OBJ_ID": "SAL_C_ANA_MEN",
 				"OBJ_ID_REF": "caderh_app/SAL_C_ANA_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON006001",
@@ -257,9 +320,9 @@
 				"OBJ_ID": "SAL_C_MEN",
 				"OBJ_ID_REF": "caderh_app/SAL_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON006002",
@@ -278,9 +341,9 @@
 				"OBJ_ID": "SAL_C_MEN_TER",
 				"OBJ_ID_REF": "caderh_app/SAL_C_MEN_TER",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON005001",
@@ -299,9 +362,30 @@
 				"OBJ_ID": "CCO_C_MEN",
 				"OBJ_ID_REF": "caderh_app/CCO_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN008001",
+				"NAME": "Centros educativos",
+				"TOO_TIP": "Centros educativos",
+				"STA_TIP": "Centros educativos",
+				"WHA_THI": "Centros educativos",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "CEN_EDU",
+				"ICO_ID_REF": "caderh_app/CEN_EDU",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "CEN_EDU_MEN",
+				"OBJ_ID_REF": "caderh_app/CEN_EDU_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON007003",
@@ -320,9 +404,9 @@
 				"OBJ_ID": "GEN_ASI_CIE_APE",
 				"OBJ_ID_REF": "caderh_app/GEN_ASI_CIE_APE",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN004CLT",
@@ -341,9 +425,9 @@
 				"OBJ_ID": "ENT_M_MEN_CLT",
 				"OBJ_ID_REF": "caderh_app/ENT_M_MEN_CLT",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON002001",
@@ -362,9 +446,9 @@
 				"OBJ_ID": "VTO_COB_C_MEN",
 				"OBJ_ID_REF": "caderh_app/VTO_COB_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN001005",
@@ -384,11 +468,11 @@
 				"OBJ_ID_REF": "caderh_app/VTO_COB_C_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "2,1,4",
-				"VER_ULT_ACT": "30.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004CMR",
+				"ID": "GEN009CMR",
 				"NAME": "Comerciales",
 				"TOO_TIP": "Comerciales",
 				"STA_TIP": "Comerciales",
@@ -404,9 +488,30 @@
 				"OBJ_ID": "ENT_M_MEN_CMR",
 				"OBJ_ID_REF": "caderh_app/ENT_M_MEN_CMR",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN005002",
+				"NAME": "Componentes del proyecto",
+				"TOO_TIP": "Componentes del proyecto",
+				"STA_TIP": "Componentes del proyecto",
+				"WHA_THI": "Componentes del proyecto",
+				"ICO_PRY": "caderh_dat",
+				"ICO_OBJ_ID": "FAM_M",
+				"ICO_ID_REF": "caderh_dat/FAM_M",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "COM_PRO_MEN",
+				"OBJ_ID_REF": "caderh_app/COM_PRO_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN002",
@@ -426,11 +531,11 @@
 				"OBJ_ID_REF": "caderh_app/",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,3,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004CSI",
+				"ID": "GEN009CSI",
 				"NAME": "Comunicaciones SII",
 				"TOO_TIP": "Turnos",
 				"STA_TIP": "Turnos",
@@ -447,8 +552,8 @@
 				"OBJ_ID_REF": "vSII/COM_CFG_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,2",
-				"VER_ULT_ACT": "31.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON008CNC",
@@ -467,9 +572,9 @@
 				"OBJ_ID": "CNC_C_MEN",
 				"OBJ_ID_REF": "caderh_app/CNC_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON008CNB",
@@ -488,9 +593,9 @@
 				"OBJ_ID": "CBA_CNC_C_MEN",
 				"OBJ_ID_REF": "caderh_app/CBA_CNC_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON002005",
@@ -509,12 +614,12 @@
 				"OBJ_ID": "CBA_CAB_C_MEN",
 				"OBJ_ID_REF": "caderh_app/CBA_CAB_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN005",
+				"ID": "GEN010",
 				"NAME": "Contabilidad",
 				"TOO_TIP": "Contabilidad",
 				"STA_TIP": "Contabilidad",
@@ -531,8 +636,8 @@
 				"OBJ_ID_REF": "caderh_app/",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN004CON",
@@ -551,9 +656,9 @@
 				"OBJ_ID": "ENT_M_MEN",
 				"OBJ_ID_REF": "caderh_app/ENT_M_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON005002",
@@ -572,9 +677,114 @@
 				"OBJ_ID": "COS_C_MEN",
 				"OBJ_ID_REF": "caderh_app/COS_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN005004",
+				"NAME": "Costos de actividades",
+				"TOO_TIP": "Costos de actividades",
+				"STA_TIP": "Costos de actividades",
+				"WHA_THI": "Costos de actividades",
+				"ICO_PRY": "caderh_dat",
+				"ICO_OBJ_ID": "CON",
+				"ICO_ID_REF": "caderh_dat/CON",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "COST_SUB_ACT_PRO",
+				"OBJ_ID_REF": "caderh_app/COST_SUB_ACT_PRO",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN004",
+				"NAME": "CRM",
+				"TOO_TIP": "CRM",
+				"STA_TIP": "CRM",
+				"WHA_THI": "CRM",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "M",
+				"PRF_MEN": "",
+				"OBJ_TIP": 51,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "caderh_app/",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN008005",
+				"NAME": "Cursos",
+				"TOO_TIP": "Cursos",
+				"STA_TIP": "Cursos",
+				"WHA_THI": "Cursos",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "CUR",
+				"ICO_ID_REF": "caderh_app/CUR",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "CUR_MEN",
+				"OBJ_ID_REF": "caderh_app/CUR_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN008030",
+				"NAME": "Departamentos",
+				"TOO_TIP": "Departamentos",
+				"STA_TIP": "Departamentos",
+				"WHA_THI": "Departamentos",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "DPTO",
+				"ICO_ID_REF": "caderh_app/DPTO",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "DPTO_MEN",
+				"OBJ_ID_REF": "caderh_app/DPTO_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN006",
+				"NAME": "Desembolsos",
+				"TOO_TIP": "Desembolsos",
+				"STA_TIP": "Desembolsos",
+				"WHA_THI": "Desembolsos",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "",
+				"MEN_OBJ": "M",
+				"PRF_MEN": "",
+				"OBJ_TIP": 51,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "/",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON005005",
@@ -594,8 +804,8 @@
 				"OBJ_ID_REF": "caderh_app/PRE_DES_C_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON001003",
@@ -614,9 +824,9 @@
 				"OBJ_ID": "APU_C_DIA_MEN",
 				"OBJ_ID_REF": "caderh_app/APU_C_DIA_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON008DIS",
@@ -635,12 +845,12 @@
 				"OBJ_ID": "DIS_INF_C_MEN",
 				"OBJ_ID_REF": "caderh_app/DIS_INF_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004DOC",
+				"ID": "GEN009DOC",
 				"NAME": "Documentos",
 				"TOO_TIP": "Documentos",
 				"STA_TIP": "Documentos",
@@ -656,9 +866,30 @@
 				"OBJ_ID": "DOC_W_MEN",
 				"OBJ_ID_REF": "caderh_app/DOC_W_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN008029",
+				"NAME": "Egresados",
+				"TOO_TIP": "Egresados",
+				"STA_TIP": "Egresados",
+				"WHA_THI": "Egresados",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "EGRE",
+				"ICO_ID_REF": "caderh_app/EGRE",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "EGRE_MEN",
+				"OBJ_ID_REF": "caderh_app/EGRE_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON008EJE",
@@ -677,9 +908,9 @@
 				"OBJ_ID": "EJE_C_MEN",
 				"OBJ_ID_REF": "caderh_app/EJE_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON008EBC",
@@ -698,9 +929,51 @@
 				"OBJ_ID": "BCO_C_MEN",
 				"OBJ_ID_REF": "caderh_app/BCO_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN008008",
+				"NAME": "Estudiantes",
+				"TOO_TIP": "Estudiantes",
+				"STA_TIP": "Estudiantes",
+				"WHA_THI": "Estudiantes",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "EST",
+				"ICO_ID_REF": "caderh_app/EST",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "EST_MEN",
+				"OBJ_ID_REF": "caderh_app/EST_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN008013",
+				"NAME": "Evaluaciones",
+				"TOO_TIP": "Evaluaciones",
+				"STA_TIP": "Evaluaciones",
+				"WHA_THI": "Evaluaciones",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "PROC",
+				"ICO_ID_REF": "caderh_app/PROC",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "PROC_EVAL_MEN",
+				"OBJ_ID_REF": "caderh_app/PROC_EVAL_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN001004",
@@ -720,8 +993,8 @@
 				"OBJ_ID_REF": "caderh_app/VTA_FAC_G_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "2,1,4",
-				"VER_ULT_ACT": "30.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN002003",
@@ -741,8 +1014,8 @@
 				"OBJ_ID_REF": "caderh_app/COM_FAC_G_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,3,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON003001",
@@ -761,9 +1034,9 @@
 				"OBJ_ID": "FAC_EMI_C_MEN",
 				"OBJ_ID_REF": "caderh_app/FAC_EMI_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON003002",
@@ -782,12 +1055,12 @@
 				"OBJ_ID": "FAC_REC_C_MEN",
 				"OBJ_ID_REF": "caderh_app/FAC_REC_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004FAM",
+				"ID": "GEN009FAM",
 				"NAME": "Familias",
 				"TOO_TIP": "Familias de artículos",
 				"STA_TIP": "Familias de artículos",
@@ -804,11 +1077,11 @@
 				"OBJ_ID_REF": "caderh_app/FAM_M_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,5",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004FPG",
+				"ID": "GEN009FPG",
 				"NAME": "Formas de pago",
 				"TOO_TIP": "Formas de pago",
 				"STA_TIP": "Formas de pago",
@@ -825,8 +1098,29 @@
 				"OBJ_ID_REF": "caderh_app/FPG_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN008002",
+				"NAME": "Fuentes de financiamiento",
+				"TOO_TIP": "Fuentes de financiamiento",
+				"STA_TIP": "Fuentes de financiamiento",
+				"WHA_THI": "Fuentes de financiamiento",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "FNT_FIN",
+				"ICO_ID_REF": "caderh_app/FNT_FIN",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "FNT_FIN_MEN",
+				"OBJ_ID_REF": "caderh_app/FNT_FIN_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON009",
@@ -845,12 +1139,33 @@
 				"OBJ_ID": "",
 				"OBJ_ID_REF": "/",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004IDI",
+				"ID": "GEN006102",
+				"NAME": "Gestión de desembolsos",
+				"TOO_TIP": "Gestión de desembolsos",
+				"STA_TIP": "Gestión de desembolsos",
+				"WHA_THI": "Gestión de desembolsos",
+				"ICO_PRY": "caderh_dat",
+				"ICO_OBJ_ID": "MOV_G",
+				"ICO_ID_REF": "caderh_dat/MOV_G",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "DES_FAC_MEN",
+				"OBJ_ID_REF": "caderh_app/DES_FAC_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN009IDI",
 				"NAME": "Idiomas",
 				"TOO_TIP": "Idiomas",
 				"STA_TIP": "Idiomas",
@@ -868,7 +1183,49 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "27.0"
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN008014",
+				"NAME": "Incidencias",
+				"TOO_TIP": "Incidencias",
+				"STA_TIP": "Incidencias",
+				"WHA_THI": "Incidencias",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "PROC",
+				"ICO_ID_REF": "caderh_app/PROC",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "PROC_INC_MEN",
+				"OBJ_ID_REF": "caderh_app/PROC_INC_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN005003",
+				"NAME": "Indicadores de proyecto",
+				"TOO_TIP": "Indicadores de proyecto",
+				"STA_TIP": "Indicadores de proyecto",
+				"WHA_THI": "Indicadores de proyecto",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "MOV_FAM",
+				"ICO_ID_REF": "caderh_app/MOV_FAM",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "IND_PRO_MEN",
+				"OBJ_ID_REF": "caderh_app/IND_PRO_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON006",
@@ -887,9 +1244,9 @@
 				"OBJ_ID": "",
 				"OBJ_ID_REF": "caderh_app/",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON006003",
@@ -908,9 +1265,9 @@
 				"OBJ_ID": "INF_C_MEN",
 				"OBJ_ID_REF": "caderh_app/INF_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON000",
@@ -950,8 +1307,8 @@
 				"OBJ_ID": "FRM_INI_TAB",
 				"OBJ_ID_REF": "caderh_app/FRM_INI_TAB",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
 				"VER_ULT_ACT": "32.0"
 			},
 			{
@@ -971,9 +1328,9 @@
 				"OBJ_ID": "",
 				"OBJ_ID_REF": "/",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON004001",
@@ -992,9 +1349,30 @@
 				"OBJ_ID": "INM_C_MEN",
 				"OBJ_ID_REF": "caderh_app/INM_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN008009",
+				"NAME": "Instructores",
+				"TOO_TIP": "Instructores",
+				"STA_TIP": "Instructores",
+				"WHA_THI": "Instructores",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "INST",
+				"ICO_ID_REF": "caderh_app/INST",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "INST_MEN",
+				"OBJ_ID_REF": "caderh_app/INST_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN003INV",
@@ -1014,8 +1392,8 @@
 				"OBJ_ID_REF": "caderh_app/INV_VAL_G_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,5",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON008",
@@ -1034,12 +1412,12 @@
 				"OBJ_ID": "",
 				"OBJ_ID_REF": "caderh_app/",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004",
+				"ID": "GEN009",
 				"NAME": "Maestros",
 				"TOO_TIP": "Módulo de maestros",
 				"STA_TIP": "Módulo de maestros",
@@ -1056,8 +1434,29 @@
 				"OBJ_ID_REF": "caderh_app/",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,5,3,2,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN008011",
+				"NAME": "Matrículas",
+				"TOO_TIP": "Matrículas",
+				"STA_TIP": "Matrículas",
+				"WHA_THI": "Matrículas",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "PROC",
+				"ICO_ID_REF": "caderh_app/PROC",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "PROC_MATR_MEN",
+				"OBJ_ID_REF": "caderh_app/PROC_MATR_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON001002",
@@ -1076,9 +1475,9 @@
 				"OBJ_ID": "APU_C_MAY_MEN",
 				"OBJ_ID_REF": "caderh_app/APU_C_MAY_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "28.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON003004",
@@ -1097,12 +1496,33 @@
 				"OBJ_ID": "FIC_W_MEN",
 				"OBJ_ID_REF": "caderh_app/FIC_W_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004MON",
+				"ID": "GEN008004",
+				"NAME": "Módulos",
+				"TOO_TIP": "Módulos",
+				"STA_TIP": "Módulos",
+				"WHA_THI": "Módulos",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "MOD",
+				"ICO_ID_REF": "caderh_app/MOD",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "MOD_MEN",
+				"OBJ_ID_REF": "caderh_app/MOD_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN009MON",
 				"NAME": "Monedas",
 				"TOO_TIP": "Monedas",
 				"STA_TIP": "Monedas",
@@ -1119,8 +1539,8 @@
 				"OBJ_ID_REF": "caderh_app/MON_M_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN003MOV",
@@ -1140,8 +1560,50 @@
 				"OBJ_ID_REF": "caderh_app/MOV_G_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,5",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN005006",
+				"NAME": "Movimientos indicadores",
+				"TOO_TIP": "Movimientos",
+				"STA_TIP": "Movimientos",
+				"WHA_THI": "Movimientos",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "MOV_ART",
+				"ICO_ID_REF": "caderh_app/MOV_ART",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "DET_DES_MEN",
+				"OBJ_ID_REF": "caderh_app/DET_DES_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN008031",
+				"NAME": "Municipios",
+				"TOO_TIP": "Municipios",
+				"STA_TIP": "Municipios",
+				"WHA_THI": "Municipios",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "MUN",
+				"ICO_ID_REF": "caderh_app/MUN",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "MUN_MEN",
+				"OBJ_ID_REF": "caderh_app/MUN_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON008NOR",
@@ -1160,9 +1622,30 @@
 				"OBJ_ID": "REM_NOR_C_MEN",
 				"OBJ_ID_REF": "caderh_app/REM_NOR_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN006103",
+				"NAME": "Pagos",
+				"TOO_TIP": "Pagos",
+				"STA_TIP": "Pagos",
+				"WHA_THI": "Pagos",
+				"ICO_PRY": "caderh_dat",
+				"ICO_OBJ_ID": "PAG_C",
+				"ICO_ID_REF": "caderh_dat/PAG_C",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "VTO_PAG_C_MEN",
+				"OBJ_ID_REF": "caderh_app/VTO_PAG_C_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN002004",
@@ -1182,8 +1665,8 @@
 				"OBJ_ID_REF": "caderh_app/VTO_PAG_C_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,3,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON002003",
@@ -1202,12 +1685,12 @@
 				"OBJ_ID": "VTO_PAG_C_MEN",
 				"OBJ_ID_REF": "caderh_app/VTO_PAG_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004PAI",
+				"ID": "GEN009PAI",
 				"NAME": "Países",
 				"TOO_TIP": "Países",
 				"STA_TIP": "Países",
@@ -1225,7 +1708,7 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "27.0"
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN001002",
@@ -1245,8 +1728,8 @@
 				"OBJ_ID_REF": "caderh_app/VTA_PED_G_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "2,1,4",
-				"VER_ULT_ACT": "30.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN002001",
@@ -1266,8 +1749,29 @@
 				"OBJ_ID_REF": "caderh_app/COM_PED_G_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,3",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN005005",
+				"NAME": "Pedidos de actividades",
+				"TOO_TIP": "Pedidos de actividades",
+				"STA_TIP": "Pedidos de actividades",
+				"WHA_THI": "Pedidos de actividades",
+				"ICO_PRY": "caderh_dat",
+				"ICO_OBJ_ID": "APU_C",
+				"ICO_ID_REF": "caderh_dat/APU_C",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ACT_PED_MEN",
+				"OBJ_ID_REF": "caderh_app/ACT_PED_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON008PGC",
@@ -1286,8 +1790,8 @@
 				"OBJ_ID": "PGC_C_MEN",
 				"OBJ_ID_REF": "caderh_app/PGC_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
 				"VER_ULT_ACT": "32.0"
 			},
 			{
@@ -1307,9 +1811,9 @@
 				"OBJ_ID": "PLA_ASI_C_MEN",
 				"OBJ_ID_REF": "caderh_app/PLA_ASI_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN001001",
@@ -1329,8 +1833,8 @@
 				"OBJ_ID_REF": "caderh_app/VTA_PRE_G_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "2,1,4",
-				"VER_ULT_ACT": "30.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON005004",
@@ -1350,8 +1854,29 @@
 				"OBJ_ID_REF": "caderh_app/PRE_C_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN008010",
+				"NAME": "Procesos",
+				"TOO_TIP": "Procesos",
+				"STA_TIP": "Procesos",
+				"WHA_THI": "Procesos",
+				"ICO_PRY": "caderh_app",
+				"ICO_OBJ_ID": "PROC",
+				"ICO_ID_REF": "caderh_app/PROC",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "PROC_MEN",
+				"OBJ_ID_REF": "caderh_app/PROC_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON007",
@@ -1370,12 +1895,12 @@
 				"OBJ_ID": "",
 				"OBJ_ID_REF": "/",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004PRV",
+				"ID": "GEN009PRV",
 				"NAME": "Proveedores",
 				"TOO_TIP": "Proveedores",
 				"STA_TIP": "Proveedores",
@@ -1391,12 +1916,12 @@
 				"OBJ_ID": "ENT_M_MEN_PRV",
 				"OBJ_ID_REF": "caderh_app/ENT_M_MEN_PRV",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004PRO",
+				"ID": "GEN009PRO",
 				"NAME": "Provincias",
 				"TOO_TIP": "Provincias",
 				"STA_TIP": "Provincias",
@@ -1414,7 +1939,49 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "27.0"
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN005",
+				"NAME": "Proyectos",
+				"TOO_TIP": "Proyectos",
+				"STA_TIP": "Proyectos",
+				"WHA_THI": "Proyectos",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "",
+				"MEN_OBJ": "M",
+				"PRF_MEN": "",
+				"OBJ_TIP": 51,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "/",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN008",
+				"NAME": "Red CADERH",
+				"TOO_TIP": "Centros",
+				"STA_TIP": "Centros",
+				"WHA_THI": "Centros",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "",
+				"MEN_OBJ": "M",
+				"PRF_MEN": "",
+				"OBJ_TIP": 51,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "/",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON007002",
@@ -1433,9 +2000,9 @@
 				"OBJ_ID": "GEN_ASI_REG",
 				"OBJ_ID_REF": "caderh_app/GEN_ASI_REG",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN001006",
@@ -1455,8 +2022,8 @@
 				"OBJ_ID_REF": "caderh_app/REM_COB_C_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "2,1,4",
-				"VER_ULT_ACT": "30.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN002005",
@@ -1476,8 +2043,8 @@
 				"OBJ_ID_REF": "caderh_app/REM_PAG_C_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON003003",
@@ -1496,9 +2063,9 @@
 				"OBJ_ID": "TRB_C_MEN",
 				"OBJ_ID_REF": "caderh_app/TRB_C_MEN",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN999",
@@ -1517,12 +2084,12 @@
 				"OBJ_ID": "CRR",
 				"OBJ_ID_REF": "caderh_app/CRR",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "26.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004SER",
+				"ID": "GEN009SER",
 				"NAME": "Series",
 				"TOO_TIP": "Series",
 				"STA_TIP": "Series",
@@ -1539,11 +2106,32 @@
 				"OBJ_ID_REF": "caderh_app/SER_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004TAR",
+				"ID": "GEN006001",
+				"NAME": "Solicitud de fondos",
+				"TOO_TIP": "Solicitud de fondos",
+				"STA_TIP": "Solicitud de fondos",
+				"WHA_THI": "Solicitud de fondos",
+				"ICO_PRY": "caderh_dat",
+				"ICO_OBJ_ID": "SAL_C",
+				"ICO_ID_REF": "caderh_dat/SAL_C",
+				"ICO": "",
+				"PRY": "caderh_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "SOL_FON_MEN",
+				"OBJ_ID_REF": "caderh_app/SOL_FON_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN009TAR",
 				"NAME": "Tarifas de venta",
 				"TOO_TIP": "Tarifas de venta",
 				"STA_TIP": "Tarifas de venta",
@@ -1560,8 +2148,8 @@
 				"OBJ_ID_REF": "caderh_app/VTA_TAR_G_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,2",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON002",
@@ -1580,12 +2168,12 @@
 				"OBJ_ID": "",
 				"OBJ_ID_REF": "caderh_app/",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004TDO",
+				"ID": "GEN009TDO",
 				"NAME": "Tipos de documento",
 				"TOO_TIP": "Tipos de documento",
 				"STA_TIP": "Tipos de documento",
@@ -1602,11 +2190,11 @@
 				"OBJ_ID_REF": "caderh_app/DOC_TIP_M_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004TRE",
+				"ID": "GEN009TRE",
 				"NAME": "Tipos de relación",
 				"TOO_TIP": "Tipos de relación",
 				"STA_TIP": "Tipos de relación",
@@ -1624,7 +2212,7 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "27.0"
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN003TRA",
@@ -1644,8 +2232,8 @@
 				"OBJ_ID_REF": "caderh_app/TRA_G_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,5",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON003",
@@ -1664,12 +2252,12 @@
 				"OBJ_ID": "",
 				"OBJ_ID_REF": "caderh_app/",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004TUR",
+				"ID": "GEN009TUR",
 				"NAME": "Turnos",
 				"TOO_TIP": "Turnos",
 				"STA_TIP": "Turnos",
@@ -1686,8 +2274,8 @@
 				"OBJ_ID_REF": "caderh_app/TUR_TPV_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,2",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON007001",
@@ -1706,9 +2294,9 @@
 				"OBJ_ID": "GEN_ASI_EXF",
 				"OBJ_ID_REF": "caderh_app/GEN_ASI_EXF",
 				"SCR": "",
-				"USR_GRP_ALL": true,
-				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN001",
@@ -1728,8 +2316,8 @@
 				"OBJ_ID_REF": "caderh_app/",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "2,1,4",
-				"VER_ULT_ACT": "30.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			}
 		]
 	}
