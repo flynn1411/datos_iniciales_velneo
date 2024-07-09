@@ -5,52 +5,10 @@
 		"indicePartes": [
 			"ID"
 		],
-		"numRegistros": 82
+		"numRegistros": 91
 	},
 	{
 		"datos": [
-			{
-				"ID": "GEN001003",
-				"NAME": "Albaranes",
-				"TOO_TIP": "Albaranes de venta",
-				"STA_TIP": "Albaranes de venta",
-				"WHA_THI": "Albaranes de venta",
-				"ICO_PRY": "amhon_dat",
-				"ICO_OBJ_ID": "VTA_ALB_G",
-				"ICO_ID_REF": "amhon_dat/VTA_ALB_G",
-				"ICO": "",
-				"PRY": "amhon_app",
-				"MEN_OBJ": "A",
-				"PRF_MEN": "",
-				"OBJ_TIP": 41,
-				"OBJ_ID": "VTA_ALB_G_MEN",
-				"OBJ_ID_REF": "amhon_app/VTA_ALB_G_MEN",
-				"SCR": "",
-				"USR_GRP_ALL": false,
-				"USR_GRP": "2,1,4",
-				"VER_ULT_ACT": "30.0"
-			},
-			{
-				"ID": "GEN002002",
-				"NAME": "Albaranes",
-				"TOO_TIP": "Albaranes de compra",
-				"STA_TIP": "Albaranes de compra",
-				"WHA_THI": "Albaranes de compra",
-				"ICO_PRY": "amhon_dat",
-				"ICO_OBJ_ID": "COM_ALB_G",
-				"ICO_ID_REF": "amhon_dat/COM_ALB_G",
-				"ICO": "",
-				"PRY": "amhon_app",
-				"MEN_OBJ": "A",
-				"PRF_MEN": "",
-				"OBJ_TIP": 41,
-				"OBJ_ID": "COM_ALB_G_MEN",
-				"OBJ_ID_REF": "amhon_app/COM_ALB_G_MEN",
-				"SCR": "",
-				"USR_GRP_ALL": false,
-				"USR_GRP": "1,3",
-				"VER_ULT_ACT": "27.0"
-			},
 			{
 				"ID": "GEN003",
 				"NAME": "Almacén",
@@ -73,7 +31,7 @@
 				"VER_ULT_ACT": "30.0"
 			},
 			{
-				"ID": "GEN004ALM",
+				"ID": "GEN020ALM",
 				"NAME": "Almacenes",
 				"TOO_TIP": "Almacenes",
 				"STA_TIP": "Almacenes",
@@ -90,8 +48,8 @@
 				"OBJ_ID_REF": "amhon_app/ALM_M_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,5",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON005",
@@ -115,8 +73,8 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
-				"ID": "GEN004ART",
-				"NAME": "Artículos",
+				"ID": "GEN020ART",
+				"NAME": "Artículos de compra/venta y servicios",
 				"TOO_TIP": "Artículos de compra/venta y servicios",
 				"STA_TIP": "Artículos de compra/venta y servicios",
 				"WHA_THI": "Artículos de compra/venta y servicios",
@@ -132,8 +90,8 @@
 				"OBJ_ID_REF": "amhon_app/ART_M_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,5,3,2",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON001",
@@ -325,7 +283,7 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
-				"ID": "GEN004CLT",
+				"ID": "GEN020CLT",
 				"NAME": "Clientes",
 				"TOO_TIP": "Clientes",
 				"STA_TIP": "Clientes",
@@ -343,7 +301,7 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON002001",
@@ -388,7 +346,7 @@
 				"VER_ULT_ACT": "30.0"
 			},
 			{
-				"ID": "GEN004CMR",
+				"ID": "GEN020CMR",
 				"NAME": "Comerciales",
 				"TOO_TIP": "Comerciales",
 				"STA_TIP": "Comerciales",
@@ -406,7 +364,7 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN002",
@@ -430,7 +388,7 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
-				"ID": "GEN004CSI",
+				"ID": "GEN020CSI",
 				"NAME": "Comunicaciones SII",
 				"TOO_TIP": "Turnos",
 				"STA_TIP": "Turnos",
@@ -447,8 +405,8 @@
 				"OBJ_ID_REF": "vSII/COM_CFG_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,2",
-				"VER_ULT_ACT": "31.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON008CNC",
@@ -514,7 +472,7 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
-				"ID": "GEN005",
+				"ID": "GEN021",
 				"NAME": "Contabilidad",
 				"TOO_TIP": "Contabilidad",
 				"STA_TIP": "Contabilidad",
@@ -531,11 +489,11 @@
 				"OBJ_ID_REF": "amhon_app/",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004CON",
+				"ID": "GEN020CON",
 				"NAME": "Contactos",
 				"TOO_TIP": "Contactos",
 				"STA_TIP": "Contactos",
@@ -553,7 +511,7 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON005002",
@@ -575,6 +533,27 @@
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
 				"VER_ULT_ACT": "27.0"
+			},
+			{
+				"ID": "GEN004DEP",
+				"NAME": "Departamentos",
+				"TOO_TIP": "Departamentos",
+				"STA_TIP": "Departamentos",
+				"WHA_THI": "Departamentos",
+				"ICO_PRY": "amhon_app",
+				"ICO_OBJ_ID": "DEP",
+				"ICO_ID_REF": "amhon_app/DEP",
+				"ICO": "",
+				"PRY": "amhon_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "PTO_TBJ_MEN",
+				"OBJ_ID_REF": "amhon_app/PTO_TBJ_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON005005",
@@ -640,7 +619,7 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
-				"ID": "GEN004DOC",
+				"ID": "GEN020DOC",
 				"NAME": "Documentos",
 				"TOO_TIP": "Documentos",
 				"STA_TIP": "Documentos",
@@ -658,7 +637,7 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON008EJE",
@@ -701,6 +680,27 @@
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
 				"VER_ULT_ACT": "27.0"
+			},
+			{
+				"ID": "GEN004EXP",
+				"NAME": "Expedientes de Empleados",
+				"TOO_TIP": "Expedientes de Empleados",
+				"STA_TIP": "Expedientes de Empleados",
+				"WHA_THI": "Expedientes de Empleados",
+				"ICO_PRY": "amhon_app",
+				"ICO_OBJ_ID": "EXP_EMP",
+				"ICO_ID_REF": "amhon_app/EXP_EMP",
+				"ICO": "",
+				"PRY": "amhon_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "EXP_EMP_MEN",
+				"OBJ_ID_REF": "amhon_app/EXP_EMP_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN001004",
@@ -787,7 +787,7 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
-				"ID": "GEN004FAM",
+				"ID": "GEN020FAM",
 				"NAME": "Familias",
 				"TOO_TIP": "Familias de artículos",
 				"STA_TIP": "Familias de artículos",
@@ -804,11 +804,32 @@
 				"OBJ_ID_REF": "amhon_app/FAM_M_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,5",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004FPG",
+				"ID": "GEN005002",
+				"NAME": "Ficha de Proyecto",
+				"TOO_TIP": "Ficha de Proyecto",
+				"STA_TIP": "Ficha de Proyecto",
+				"WHA_THI": "Ficha de Proyecto",
+				"ICO_PRY": "amhon_app",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "amhon_app/",
+				"ICO": "",
+				"PRY": "amhon_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "FIC_PRO_MEN",
+				"OBJ_ID_REF": "amhon_app/FIC_PRO_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN020FPG",
 				"NAME": "Formas de pago",
 				"TOO_TIP": "Formas de pago",
 				"STA_TIP": "Formas de pago",
@@ -825,8 +846,8 @@
 				"OBJ_ID_REF": "amhon_app/FPG_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON009",
@@ -850,7 +871,7 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
-				"ID": "GEN004IDI",
+				"ID": "GEN020IDI",
 				"NAME": "Idiomas",
 				"TOO_TIP": "Idiomas",
 				"STA_TIP": "Idiomas",
@@ -868,7 +889,7 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "27.0"
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON006",
@@ -1039,7 +1060,7 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
-				"ID": "GEN004",
+				"ID": "GEN020",
 				"NAME": "Maestros",
 				"TOO_TIP": "Módulo de maestros",
 				"STA_TIP": "Módulo de maestros",
@@ -1056,8 +1077,29 @@
 				"OBJ_ID_REF": "amhon_app/",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,5,3,2,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN020MAR",
+				"NAME": "Marcas",
+				"TOO_TIP": "Marcas",
+				"STA_TIP": "Marcas",
+				"WHA_THI": "Marcas",
+				"ICO_PRY": "amhon_app",
+				"ICO_OBJ_ID": "MARCAS",
+				"ICO_ID_REF": "amhon_app/MARCAS",
+				"ICO": "",
+				"PRY": "amhon_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "MARCAS_MEN",
+				"OBJ_ID_REF": "amhon_app/MARCAS_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON001002",
@@ -1102,7 +1144,7 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
-				"ID": "GEN004MON",
+				"ID": "GEN020MON",
 				"NAME": "Monedas",
 				"TOO_TIP": "Monedas",
 				"STA_TIP": "Monedas",
@@ -1119,8 +1161,8 @@
 				"OBJ_ID_REF": "amhon_app/MON_M_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN003MOV",
@@ -1144,6 +1186,27 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
+				"ID": "GEN004NOM",
+				"NAME": "Nómina de Empleados",
+				"TOO_TIP": "Nómina de Empleados",
+				"STA_TIP": "Nómina de Empleados",
+				"WHA_THI": "Nómina de Empleados",
+				"ICO_PRY": "amhon_app",
+				"ICO_OBJ_ID": "GEN_NOM",
+				"ICO_ID_REF": "amhon_app/GEN_NOM",
+				"ICO": "",
+				"PRY": "amhon_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "GEN_NOM_MEN",
+				"OBJ_ID_REF": "amhon_app/GEN_NOM_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
 				"ID": "CON008NOR",
 				"NAME": "Normativas de remesas",
 				"TOO_TIP": "Normativas de remesas",
@@ -1163,6 +1226,69 @@
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
 				"VER_ULT_ACT": "27.0"
+			},
+			{
+				"ID": "GEN002002",
+				"NAME": "Orden de Compra",
+				"TOO_TIP": "Orden de compra",
+				"STA_TIP": "Orden de compra",
+				"WHA_THI": "Orden de compra",
+				"ICO_PRY": "amhon_dat",
+				"ICO_OBJ_ID": "COM_ALB_G",
+				"ICO_ID_REF": "amhon_dat/COM_ALB_G",
+				"ICO": "",
+				"PRY": "amhon_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "COM_ALB_G_MEN",
+				"OBJ_ID_REF": "amhon_app/COM_ALB_G_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN001003",
+				"NAME": "Orden de Venta",
+				"TOO_TIP": "Orden de venta",
+				"STA_TIP": "Orden de venta",
+				"WHA_THI": "Orden de venta",
+				"ICO_PRY": "amhon_dat",
+				"ICO_OBJ_ID": "VTA_ALB_G",
+				"ICO_ID_REF": "amhon_dat/VTA_ALB_G",
+				"ICO": "",
+				"PRY": "amhon_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "VTA_ALB_G_MEN",
+				"OBJ_ID_REF": "amhon_app/VTA_ALB_G_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN020REQ",
+				"NAME": "Ordenes de Requisición",
+				"TOO_TIP": "Ordenes de Requisición",
+				"STA_TIP": "Ordenes de Requisición",
+				"WHA_THI": "Ordenes de Requisición",
+				"ICO_PRY": "amhon_dat",
+				"ICO_OBJ_ID": "MOV_G",
+				"ICO_ID_REF": "amhon_dat/MOV_G",
+				"ICO": "",
+				"PRY": "amhon_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ORD_REQ_MEN",
+				"OBJ_ID_REF": "amhon_app/ORD_REQ_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN002004",
@@ -1207,7 +1333,7 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
-				"ID": "GEN004PAI",
+				"ID": "GEN020PAI",
 				"NAME": "Países",
 				"TOO_TIP": "Países",
 				"STA_TIP": "Países",
@@ -1225,7 +1351,7 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "27.0"
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN001002",
@@ -1375,7 +1501,7 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
-				"ID": "GEN004PRV",
+				"ID": "GEN020PRV",
 				"NAME": "Proveedores",
 				"TOO_TIP": "Proveedores",
 				"STA_TIP": "Proveedores",
@@ -1393,10 +1519,10 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "27.0"
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004PRO",
+				"ID": "GEN020PRO",
 				"NAME": "Provincias",
 				"TOO_TIP": "Provincias",
 				"STA_TIP": "Provincias",
@@ -1414,7 +1540,49 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "27.0"
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN005",
+				"NAME": "Proyectos",
+				"TOO_TIP": "Proyectos",
+				"STA_TIP": "Proyectos",
+				"WHA_THI": "Proyectos",
+				"ICO_PRY": "amhon_app",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "amhon_app/",
+				"ICO": "",
+				"PRY": "amhon_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "amhon_app/",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
+				"ID": "GEN005001",
+				"NAME": "Proyectos y Negociación",
+				"TOO_TIP": "Proyectos y Negociación",
+				"STA_TIP": "Proyectos y Negociación",
+				"WHA_THI": "Proyectos y Negociación",
+				"ICO_PRY": "amhon_app",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "amhon_app/",
+				"ICO": "",
+				"PRY": "amhon_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "FIC_PRO_PRE_MEN",
+				"OBJ_ID_REF": "amhon_app/FIC_PRO_PRE_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON007002",
@@ -1501,6 +1669,27 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
+				"ID": "GEN004",
+				"NAME": "RRHH",
+				"TOO_TIP": "Recursos Humanos",
+				"STA_TIP": "Recursos Humanos",
+				"WHA_THI": "Recursos Humanos",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "amhon_app",
+				"MEN_OBJ": "M",
+				"PRF_MEN": "",
+				"OBJ_TIP": 51,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "amhon_app/",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
+			},
+			{
 				"ID": "GEN999",
 				"NAME": "Salir",
 				"TOO_TIP": "Salir",
@@ -1522,7 +1711,7 @@
 				"VER_ULT_ACT": "26.0"
 			},
 			{
-				"ID": "GEN004SER",
+				"ID": "GEN020SER",
 				"NAME": "Series",
 				"TOO_TIP": "Series",
 				"STA_TIP": "Series",
@@ -1539,11 +1728,11 @@
 				"OBJ_ID_REF": "amhon_app/SER_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004TAR",
+				"ID": "GEN020TAR",
 				"NAME": "Tarifas de venta",
 				"TOO_TIP": "Tarifas de venta",
 				"STA_TIP": "Tarifas de venta",
@@ -1560,8 +1749,8 @@
 				"OBJ_ID_REF": "amhon_app/VTA_TAR_G_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,2",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON002",
@@ -1585,7 +1774,7 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
-				"ID": "GEN004TDO",
+				"ID": "GEN020TDO",
 				"NAME": "Tipos de documento",
 				"TOO_TIP": "Tipos de documento",
 				"STA_TIP": "Tipos de documento",
@@ -1602,11 +1791,11 @@
 				"OBJ_ID_REF": "amhon_app/DOC_TIP_M_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,4",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
-				"ID": "GEN004TRE",
+				"ID": "GEN020TRE",
 				"NAME": "Tipos de relación",
 				"TOO_TIP": "Tipos de relación",
 				"STA_TIP": "Tipos de relación",
@@ -1624,7 +1813,7 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "27.0"
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "GEN003TRA",
@@ -1669,7 +1858,7 @@
 				"VER_ULT_ACT": "27.0"
 			},
 			{
-				"ID": "GEN004TUR",
+				"ID": "GEN020TUR",
 				"NAME": "Turnos",
 				"TOO_TIP": "Turnos",
 				"STA_TIP": "Turnos",
@@ -1686,8 +1875,8 @@
 				"OBJ_ID_REF": "amhon_app/TUR_TPV_MEN",
 				"SCR": "",
 				"USR_GRP_ALL": false,
-				"USR_GRP": "1,2",
-				"VER_ULT_ACT": "27.0"
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "32.0"
 			},
 			{
 				"ID": "CON007001",
