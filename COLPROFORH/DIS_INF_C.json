@@ -1,6 +1,6 @@
 [
 	{
-		"tablaIdRef": "amhon_dat/DIS_INF_C",
+		"tablaIdRef": "colproforh_erp_dat/DIS_INF_C",
 		"indiceId": "ID",
 		"indicePartes": [
 			"ID"

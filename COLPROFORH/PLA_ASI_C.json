@@ -1,6 +1,6 @@
 [
 	{
-		"tablaIdRef": "amhon_dat/PLA_ASI_C",
+		"tablaIdRef": "colproforh_erp_dat/PLA_ASI_C",
 		"indiceId": "ID",
 		"indicePartes": [
 			"ID"

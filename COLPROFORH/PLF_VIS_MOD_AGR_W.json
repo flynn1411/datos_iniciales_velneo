@@ -1,6 +1,6 @@
 [
 	{
-		"tablaIdRef": "amhon_dat/PLF_VIS_MOD_AGR_W",
+		"tablaIdRef": "colproforh_erp_dat/PLF_VIS_MOD_AGR_W",
 		"indiceId": "ID",
 		"indicePartes": [
 			"ID"
