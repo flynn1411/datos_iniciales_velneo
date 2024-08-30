@@ -1,0 +1,288 @@
+[
+	{
+		"tablaIdRef": "amhon_dat/SCR_INC_W",
+		"indiceId": "SCR_DES_INC",
+		"indicePartes": [
+			"SCR_DES",
+			"SCR_INC"
+		],
+		"numRegistros": 39
+	},
+	{
+		"datos": [
+			{
+				"SCR_DES": "ACT-DSC",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-303-GEN-FIC",
+				"SCR_INC": "FUN-GEN-AEAT-303",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-303-GEN-FIC",
+				"SCR_INC": "AEAT-FUN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-303-GEN-FIC",
+				"SCR_INC": "GEN-FIC-TXT-AEAT-303",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-303-H01",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-303-H03",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-340-GEN-FIC",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-340-GEN-FIC",
+				"SCR_INC": "AEAT-FUN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-340-GEN-FIC",
+				"SCR_INC": "GEN-FIC-TXT",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-340-DET-EXP",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-340-DET-REC",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-347-CAL-DEC-EMI",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-347-CAL-DEC-REC",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-347-CAL-DEC",
+				"SCR_INC": "AEAT-347-CAL-DEC-EMI",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-347-CAL-DEC",
+				"SCR_INC": "AEAT-347-CAL-DEC-REC",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-347-GEN-FIC",
+				"SCR_INC": "GEN-FIC-TXT",
+				"ORD": 2,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-347-GEN-FIC",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-347-GEN-FIC",
+				"SCR_INC": "AEAT-FUN",
+				"ORD": 1,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-349-CAL-DEC-EMI",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-349-CAL-DEC",
+				"SCR_INC": "AEAT-349-CAL-DEC-EMI",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-349-CAL-DEC",
+				"SCR_INC": "AEAT-349-CAL-DEC-REC",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-349-CAL-DEC-REC",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "21.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-390",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-390-GEN-FIC",
+				"SCR_INC": "AEAT-FUN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.1",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-390-GEN-FIC",
+				"SCR_INC": "FUN-GEN-AEAT-303",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.1",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-390-GEN-FIC",
+				"SCR_INC": "GEN-FIC-TXT-AEAT-303",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.1",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-390-H02",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.1",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-390-H03",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.1",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-390-H04",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.1",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-390-H06",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.1",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "VTA-FAC-TKT-BAI-GIP",
+				"SCR_INC": "VTA-FAC-TKT-BAI-FUN-PAR",
+				"ORD": 0,
+				"VER_ULT_ACT": "32.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "VTA-FAC-TKT-BAI-GIP",
+				"SCR_INC": "VTA-FAC-TKT-BAI-GEN-XML",
+				"ORD": 0,
+				"VER_ULT_ACT": "32.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "VTA-FAC-TKT-BAI-GIP",
+				"SCR_INC": "VTA-FAC-TKT-BAI-FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "32.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "VTA-FAC-ENV-NOT",
+				"SCR_INC": "VTA-FAC-ENV-NOT-FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "31.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "VTA-FAC-ENV-NOT",
+				"SCR_INC": "VTA-FAC-ENV-NOT-GEN-BOD",
+				"ORD": 1,
+				"VER_ULT_ACT": "31.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "VTA-FAC-ENV-NOT",
+				"SCR_INC": "VTA-FAC-ENV-NOT-ENV",
+				"ORD": 2,
+				"VER_ULT_ACT": "31.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "DIS-INF-VAL-BAL-SIT",
+				"SCR_INC": "DIS-INF-VAL",
+				"ORD": 0,
+				"VER_ULT_ACT": "28.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "DIS-INF-VAL-CTA-PYG",
+				"SCR_INC": "DIS-INF-VAL",
+				"ORD": 0,
+				"VER_ULT_ACT": "28.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "GET-ETQ",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.2",
+				"OFF": false
+			}
+		]
+	}
+]
