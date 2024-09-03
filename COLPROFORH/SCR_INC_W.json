@@ -1,6 +1,6 @@
 [
 	{
-		"tablaIdRef": "colproforh_erp_dat/SCR_INC_W",
+		"tablaIdRef": "colproforh_dat/SCR_INC_W",
 		"indiceId": "SCR_DES_INC",
 		"indicePartes": [
 			"SCR_DES",

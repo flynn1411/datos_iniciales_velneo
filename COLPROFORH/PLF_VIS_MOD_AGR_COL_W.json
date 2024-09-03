@@ -1,6 +1,6 @@
 [
 	{
-		"tablaIdRef": "colproforh_erp_dat/PLF_VIS_MOD_AGR_COL_W",
+		"tablaIdRef": "colproforh_dat/PLF_VIS_MOD_AGR_COL_W",
 		"indiceId": "ID",
 		"indicePartes": [
 			"PLF_VIS_MOD_AGR",

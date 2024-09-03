@@ -1,6 +1,6 @@
 [
 	{
-		"tablaIdRef": "colproforh_erp_dat/PLF_VIS_FIL_W",
+		"tablaIdRef": "colproforh_dat/PLF_VIS_FIL_W",
 		"indiceId": "ID",
 		"indicePartes": [
 			"ID"

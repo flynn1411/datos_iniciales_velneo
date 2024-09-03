@@ -1,6 +1,6 @@
 [
 	{
-		"tablaIdRef": "colproforh_erp_dat/FPG_M",
+		"tablaIdRef": "colproforh_dat/FPG_M",
 		"indiceId": "ID",
 		"indicePartes": [
 			"ID"

@@ -1,6 +1,6 @@
 [
 	{
-		"tablaIdRef": "colproforh_erp_dat/BCO_C",
+		"tablaIdRef": "colproforh_dat/BCO_C",
 		"indiceId": "ID",
 		"indicePartes": [
 			"ID"

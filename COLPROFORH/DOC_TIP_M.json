@@ -1,6 +1,6 @@
 [
 	{
-		"tablaIdRef": "colproforh_erp_dat/DOC_TIP_M",
+		"tablaIdRef": "colproforh_dat/DOC_TIP_M",
 		"indiceId": "ID",
 		"indicePartes": [
 			"ID"

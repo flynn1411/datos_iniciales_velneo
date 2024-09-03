@@ -1,6 +1,6 @@
 [
 	{
-		"tablaIdRef": "colproforh_erp_dat/PLA_APU_C",
+		"tablaIdRef": "colproforh_dat/PLA_APU_C",
 		"indiceId": "ID",
 		"indicePartes": [
 			"PLA_ASI",
