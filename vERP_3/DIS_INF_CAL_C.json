@@ -1,0 +1,14 @@
+[
+	{
+		"tablaIdRef": "verp_3_dat/DIS_INF_CAL_C",
+		"indiceId": "DIS_INF_PGC",
+		"indicePartes": [
+			"DIS_INF",
+			"PGC"
+		],
+		"numRegistros": 0
+	},
+	{
+		"datos": []
+	}
+]

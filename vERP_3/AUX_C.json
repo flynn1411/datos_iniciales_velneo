@@ -1,0 +1,14 @@
+[
+	{
+		"tablaIdRef": "verp_3_dat/AUX_C",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"version": "32_0",
+		"numRegistros": 0
+	},
+	{
+		"datos": []
+	}
+]

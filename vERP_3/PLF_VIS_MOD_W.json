@@ -1,0 +1,124 @@
+[
+	{
+		"tablaIdRef": "verp_3_dat/PLF_VIS_MOD_W",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"numRegistros": 10
+	},
+	{
+		"datos": [
+			{
+				"ID": 15,
+				"NAME": "Actividades",
+				"PLF": "3EWN",
+				"FCH": "",
+				"ORD": 7,
+				"TXT_CAB": "ACTIVIDAD",
+				"IMP_TXT_CAB": true,
+				"TXT_VIS": "",
+				"IMP_SOL_TXT": false
+			},
+			{
+				"ID": 11,
+				"NAME": "Cabecera",
+				"PLF": "3EWN",
+				"FCH": "",
+				"ORD": 1,
+				"TXT_CAB": "",
+				"IMP_TXT_CAB": true,
+				"TXT_VIS": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:11pt; font-weight:600;\">Impuesto sobre el Valor Añadido</span></p>\n<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt; font-weight:600;\"><br /></p>\n<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:10pt; font-weight:600;\">Autoliquidación</span></p></body></html>",
+				"IMP_SOL_TXT": true
+			},
+			{
+				"ID": 3,
+				"NAME": "Declaración",
+				"PLF": "3EWN",
+				"FCH": "",
+				"ORD": 4,
+				"TXT_CAB": "Declaración",
+				"IMP_TXT_CAB": true,
+				"TXT_VIS": "Si la presentación de esta declaración tiene por objeto incluir operaciones que , debiendo haber figurado en otra declaración del mismo\nejercicio y periodo presentada anteriormente, hubiera sido completamente omitidas en la misma, seleccione \"Declaración complementaria\".\n\nCuando la presentación .....\n\n",
+				"IMP_SOL_TXT": false
+			},
+			{
+				"ID": 2,
+				"NAME": "Devengo (2)",
+				"PLF": "3EWN",
+				"FCH": "",
+				"ORD": 3,
+				"TXT_CAB": "Devengo (2)",
+				"IMP_TXT_CAB": true,
+				"TXT_VIS": "",
+				"IMP_SOL_TXT": false
+			},
+			{
+				"ID": 1,
+				"NAME": "Identificación (1)",
+				"PLF": "3EWN",
+				"FCH": "",
+				"ORD": 2,
+				"TXT_CAB": "Identificación (1)",
+				"IMP_TXT_CAB": true,
+				"TXT_VIS": "",
+				"IMP_SOL_TXT": false
+			},
+			{
+				"ID": 4,
+				"NAME": "Liquidación (3)",
+				"PLF": "3EWN",
+				"FCH": "",
+				"ORD": 5,
+				"TXT_CAB": "Liquidación (3)",
+				"IMP_TXT_CAB": true,
+				"TXT_VIS": "",
+				"IMP_SOL_TXT": false
+			},
+			{
+				"ID": 14,
+				"NAME": "Resultado",
+				"PLF": "3EWN",
+				"FCH": "",
+				"ORD": 6,
+				"TXT_CAB": "Resultado",
+				"IMP_TXT_CAB": true,
+				"TXT_VIS": "",
+				"IMP_SOL_TXT": false
+			},
+			{
+				"ID": 17,
+				"NAME": "Cabecera",
+				"PLF": "IRBE",
+				"FCH": "21-1-28",
+				"ORD": 1,
+				"TXT_CAB": "",
+				"IMP_TXT_CAB": true,
+				"TXT_VIS": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:12px; font-weight:400; font-style:normal;\">\n<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">DECLARACION ANUAL DE OPERACIONES</span></p>\n<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt; font-weight:600;\"><br /></p>\n<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">CON TERCERAS PERSONAS</span></p>\n<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-weight:600;\"><br /></p>\n<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">DECLARACION</span></p></body></html>",
+				"IMP_SOL_TXT": true
+			},
+			{
+				"ID": 18,
+				"NAME": "Registros",
+				"PLF": "IRBE",
+				"FCH": "21-1-28",
+				"ORD": 10,
+				"TXT_CAB": "",
+				"IMP_TXT_CAB": true,
+				"TXT_VIS": "",
+				"IMP_SOL_TXT": false
+			},
+			{
+				"ID": 19,
+				"NAME": "Resumen",
+				"PLF": "IRBE",
+				"FCH": "21-1-28",
+				"ORD": 4,
+				"TXT_CAB": "Resumen de los datos incluidos en la declaración",
+				"IMP_TXT_CAB": true,
+				"TXT_VIS": "",
+				"IMP_SOL_TXT": false
+			}
+		]
+	}
+]

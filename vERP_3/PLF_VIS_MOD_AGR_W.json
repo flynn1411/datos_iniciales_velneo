@@ -1,0 +1,63 @@
+[
+	{
+		"tablaIdRef": "verp_3_dat/PLF_VIS_MOD_AGR_W",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"numRegistros": 7
+	},
+	{
+		"datos": [
+			{
+				"ID": 6,
+				"NAME": "General",
+				"PLF_VIS_MOD": 15,
+				"TXT": "General",
+				"ORD": 2
+			},
+			{
+				"ID": 5,
+				"NAME": "Datos",
+				"PLF_VIS_MOD": 1,
+				"TXT": "Datos ----",
+				"ORD": 2
+			},
+			{
+				"ID": 2,
+				"NAME": "General",
+				"PLF_VIS_MOD": 1,
+				"TXT": "Identificación",
+				"ORD": 1
+			},
+			{
+				"ID": 1,
+				"NAME": "IVA devengado",
+				"PLF_VIS_MOD": 4,
+				"TXT": "IVA devengado",
+				"ORD": 1
+			},
+			{
+				"ID": 3,
+				"NAME": "IVA deducible",
+				"PLF_VIS_MOD": 4,
+				"TXT": "IVA deducible",
+				"ORD": 2
+			},
+			{
+				"ID": 4,
+				"NAME": "Resultado",
+				"PLF_VIS_MOD": 14,
+				"TXT": "Resultado",
+				"ORD": 1
+			},
+			{
+				"ID": 8,
+				"NAME": "- Resumen de los datos incluidos",
+				"PLF_VIS_MOD": 19,
+				"TXT": "- Resumen de los datos incluidos en la declaración",
+				"ORD": 1
+			}
+		]
+	}
+]
