@@ -1,0 +1,716 @@
+[
+	{
+		"tablaIdRef": "velneo_verp_2_dat/TIP_EMP_PRS_MEN_PRS_MEN",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"numRegistros": 117
+	},
+	{
+		"datos": [
+			{
+				"ID": 2,
+				"NAME": "",
+				"PRS_MEN_W": "",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 3,
+				"NAME": "",
+				"PRS_MEN_W": "GEN002002",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 6,
+				"NAME": "",
+				"PRS_MEN_W": "CON001",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 7,
+				"NAME": "",
+				"PRS_MEN_W": "CON001001",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 8,
+				"NAME": "",
+				"PRS_MEN_W": "CON001002",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 9,
+				"NAME": "",
+				"PRS_MEN_W": "CON001003",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 10,
+				"NAME": "",
+				"PRS_MEN_W": "CON001004",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 11,
+				"NAME": "",
+				"PRS_MEN_W": "CON002",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 12,
+				"NAME": "",
+				"PRS_MEN_W": "CON002001",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 13,
+				"NAME": "",
+				"PRS_MEN_W": "CON002003",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 14,
+				"NAME": "",
+				"PRS_MEN_W": "CON002004",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 15,
+				"NAME": "",
+				"PRS_MEN_W": "CON002005",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 16,
+				"NAME": "",
+				"PRS_MEN_W": "CON003",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 17,
+				"NAME": "",
+				"PRS_MEN_W": "CON003001",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 18,
+				"NAME": "",
+				"PRS_MEN_W": "CON003002",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 19,
+				"NAME": "",
+				"PRS_MEN_W": "CON003003",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 20,
+				"NAME": "",
+				"PRS_MEN_W": "CON003004",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 21,
+				"NAME": "",
+				"PRS_MEN_W": "CON004",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 22,
+				"NAME": "",
+				"PRS_MEN_W": "CON004001",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 23,
+				"NAME": "",
+				"PRS_MEN_W": "CON005",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 24,
+				"NAME": "",
+				"PRS_MEN_W": "CON005001",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 25,
+				"NAME": "",
+				"PRS_MEN_W": "CON005002",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 26,
+				"NAME": "",
+				"PRS_MEN_W": "CON005003",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 27,
+				"NAME": "",
+				"PRS_MEN_W": "CON005004",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 28,
+				"NAME": "",
+				"PRS_MEN_W": "CON005005",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 29,
+				"NAME": "",
+				"PRS_MEN_W": "CON005006",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 30,
+				"NAME": "",
+				"PRS_MEN_W": "CON005006",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 31,
+				"NAME": "",
+				"PRS_MEN_W": "CON005006",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 32,
+				"NAME": "",
+				"PRS_MEN_W": "CON005007",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 33,
+				"NAME": "",
+				"PRS_MEN_W": "CON005007",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 34,
+				"NAME": "",
+				"PRS_MEN_W": "CON005007",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 35,
+				"NAME": "",
+				"PRS_MEN_W": "CON006",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 36,
+				"NAME": "",
+				"PRS_MEN_W": "CON006001",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 37,
+				"NAME": "",
+				"PRS_MEN_W": "CON006002",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 38,
+				"NAME": "",
+				"PRS_MEN_W": "CON007",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 39,
+				"NAME": "",
+				"PRS_MEN_W": "CON006003",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 40,
+				"NAME": "",
+				"PRS_MEN_W": "CON007001",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 41,
+				"NAME": "",
+				"PRS_MEN_W": "CON007002",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 42,
+				"NAME": "",
+				"PRS_MEN_W": "CON007003",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 43,
+				"NAME": "",
+				"PRS_MEN_W": "CON008",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 44,
+				"NAME": "",
+				"PRS_MEN_W": "CON008AUX",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 45,
+				"NAME": "",
+				"PRS_MEN_W": "CON008CNB",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 46,
+				"NAME": "",
+				"PRS_MEN_W": "CON008CNC",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 47,
+				"NAME": "",
+				"PRS_MEN_W": "CON008DIS",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 48,
+				"NAME": "",
+				"PRS_MEN_W": "CON008EBC",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 49,
+				"NAME": "",
+				"PRS_MEN_W": "CON008NOR",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 50,
+				"NAME": "",
+				"PRS_MEN_W": "CON008PGC",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 51,
+				"NAME": "",
+				"PRS_MEN_W": "CON008PLA",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 52,
+				"NAME": "",
+				"PRS_MEN_W": "GEN001",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 53,
+				"NAME": "",
+				"PRS_MEN_W": "GEN001001",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 54,
+				"NAME": "",
+				"PRS_MEN_W": "GEN001002",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 55,
+				"NAME": "",
+				"PRS_MEN_W": "GEN001003",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 56,
+				"NAME": "",
+				"PRS_MEN_W": "GEN001004",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 57,
+				"NAME": "",
+				"PRS_MEN_W": "GEN001005",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 58,
+				"NAME": "",
+				"PRS_MEN_W": "GEN001006",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 59,
+				"NAME": "",
+				"PRS_MEN_W": "GEN002",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 60,
+				"NAME": "",
+				"PRS_MEN_W": "GEN002001",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 61,
+				"NAME": "",
+				"PRS_MEN_W": "GEN002003",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 62,
+				"NAME": "",
+				"PRS_MEN_W": "GEN002004",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 63,
+				"NAME": "",
+				"PRS_MEN_W": "GEN002005",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 64,
+				"NAME": "",
+				"PRS_MEN_W": "GEN002006",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 65,
+				"NAME": "",
+				"PRS_MEN_W": "GEN003",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 66,
+				"NAME": "",
+				"PRS_MEN_W": "GEN003INV",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 67,
+				"NAME": "",
+				"PRS_MEN_W": "GEN003MOV",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 68,
+				"NAME": "",
+				"PRS_MEN_W": "GEN003TRA",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 69,
+				"NAME": "",
+				"PRS_MEN_W": "GEN006",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 70,
+				"NAME": "",
+				"PRS_MEN_W": "GEN006DEP",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 71,
+				"NAME": "",
+				"PRS_MEN_W": "GEN006EMP",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 72,
+				"NAME": "",
+				"PRS_MEN_W": "GEN006NOM",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 73,
+				"NAME": "",
+				"PRS_MEN_W": "GEN006EXP",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 74,
+				"NAME": "",
+				"PRS_MEN_W": "GEN008",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 75,
+				"NAME": "",
+				"PRS_MEN_W": "GEN008",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 76,
+				"NAME": "",
+				"PRS_MEN_W": "GEN008001",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 77,
+				"NAME": "",
+				"PRS_MEN_W": "GEN008001",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 78,
+				"NAME": "",
+				"PRS_MEN_W": "GEN008002",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 79,
+				"NAME": "",
+				"PRS_MEN_W": "GEN008002",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 80,
+				"NAME": "",
+				"PRS_MEN_W": "GEN008003",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 81,
+				"NAME": "",
+				"PRS_MEN_W": "GEN008003",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 82,
+				"NAME": "",
+				"PRS_MEN_W": "GEN008004",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 83,
+				"NAME": "",
+				"PRS_MEN_W": "GEN008004",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 84,
+				"NAME": "",
+				"PRS_MEN_W": "GEN008005",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 85,
+				"NAME": "",
+				"PRS_MEN_W": "GEN008005",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 86,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 87,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 88,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009001",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 89,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009001",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 90,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009002",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 91,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009002",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 92,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009003",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 93,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009004",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 94,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009005",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 95,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009006",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 96,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009007",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 97,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009007",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 98,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009008",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 99,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009009",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 100,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009010",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 101,
+				"NAME": "",
+				"PRS_MEN_W": "GEN009011",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 102,
+				"NAME": "",
+				"PRS_MEN_W": "GEN010",
+				"TIP_EMP_PRS_MEN": 6
+			},
+			{
+				"ID": 103,
+				"NAME": "",
+				"PRS_MEN_W": "GEN010001",
+				"TIP_EMP_PRS_MEN": 6
+			},
+			{
+				"ID": 104,
+				"NAME": "",
+				"PRS_MEN_W": "GEN010002",
+				"TIP_EMP_PRS_MEN": 6
+			},
+			{
+				"ID": 105,
+				"NAME": "",
+				"PRS_MEN_W": "GEN010003",
+				"TIP_EMP_PRS_MEN": 6
+			},
+			{
+				"ID": 106,
+				"NAME": "",
+				"PRS_MEN_W": "GEN010004",
+				"TIP_EMP_PRS_MEN": 6
+			},
+			{
+				"ID": 107,
+				"NAME": "",
+				"PRS_MEN_W": "GEN010005",
+				"TIP_EMP_PRS_MEN": 6
+			},
+			{
+				"ID": 108,
+				"NAME": "",
+				"PRS_MEN_W": "GEN015",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 109,
+				"NAME": "",
+				"PRS_MEN_W": "REC002",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 110,
+				"NAME": "",
+				"PRS_MEN_W": "REC003",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 111,
+				"NAME": "",
+				"PRS_MEN_W": "REC004",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 112,
+				"NAME": "",
+				"PRS_MEN_W": "REC005",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 113,
+				"NAME": "",
+				"PRS_MEN_W": "REC006",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 114,
+				"NAME": "",
+				"PRS_MEN_W": "REC007",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 115,
+				"NAME": "",
+				"PRS_MEN_W": "REC008",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 116,
+				"NAME": "",
+				"PRS_MEN_W": "REC009",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 117,
+				"NAME": "",
+				"PRS_MEN_W": "REC010",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 118,
+				"NAME": "",
+				"PRS_MEN_W": "REC011",
+				"TIP_EMP_PRS_MEN": 5
+			},
+			{
+				"ID": 119,
+				"NAME": "",
+				"PRS_MEN_W": "GEN004MOD",
+				"TIP_EMP_PRS_MEN": 6
+			},
+			{
+				"ID": 120,
+				"NAME": "",
+				"PRS_MEN_W": "GEN004LIS",
+				"TIP_EMP_PRS_MEN": 6
+			}
+		]
+	}
+]

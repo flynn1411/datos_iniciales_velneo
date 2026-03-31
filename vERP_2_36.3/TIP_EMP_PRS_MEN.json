@@ -1,0 +1,86 @@
+[
+	{
+		"tablaIdRef": "velneo_verp_2_dat/TIP_EMP_PRS_MEN",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"numRegistros": 8
+	},
+	{
+		"datos": [
+			{
+				"ID": 1,
+				"NAME": "MIPYNES",
+				"TIP_MIP": true,
+				"TIP_PRO": false,
+				"TIP_ONG_1": false,
+				"TIP_ONG_2": false,
+				"TIP_COL": false
+			},
+			{
+				"ID": 2,
+				"NAME": "ONG clasico",
+				"TIP_MIP": false,
+				"TIP_PRO": false,
+				"TIP_ONG_1": false,
+				"TIP_ONG_2": true,
+				"TIP_COL": false
+			},
+			{
+				"ID": 3,
+				"NAME": "ONG",
+				"TIP_MIP": false,
+				"TIP_PRO": false,
+				"TIP_ONG_1": true,
+				"TIP_ONG_2": false,
+				"TIP_COL": false
+			},
+			{
+				"ID": 4,
+				"NAME": "Contabilidad",
+				"TIP_MIP": false,
+				"TIP_PRO": false,
+				"TIP_ONG_1": false,
+				"TIP_ONG_2": false,
+				"TIP_COL": false
+			},
+			{
+				"ID": 5,
+				"NAME": "RRHH",
+				"TIP_MIP": false,
+				"TIP_PRO": false,
+				"TIP_ONG_1": false,
+				"TIP_ONG_2": false,
+				"TIP_COL": false
+			},
+			{
+				"ID": 6,
+				"NAME": "Soporte",
+				"TIP_MIP": false,
+				"TIP_PRO": false,
+				"TIP_ONG_1": false,
+				"TIP_ONG_2": false,
+				"TIP_COL": false
+			},
+			{
+				"ID": 7,
+				"NAME": "Coloegio",
+				"TIP_MIP": false,
+				"TIP_PRO": false,
+				"TIP_ONG_1": false,
+				"TIP_ONG_2": false,
+				"TIP_COL": true
+			},
+			{
+				"ID": 8,
+				"NAME": "Produccion",
+				"TIP_MIP": false,
+				"TIP_PRO": true,
+				"TIP_ONG_1": false,
+				"TIP_ONG_2": false,
+				"TIP_COL": false
+			}
+		]
+	}
+]
