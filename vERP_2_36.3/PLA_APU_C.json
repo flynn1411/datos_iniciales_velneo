@@ -1,0 +1,14 @@
+[
+	{
+		"tablaIdRef": "amhon_dat/PLA_APU_C",
+		"indiceId": "ID",
+		"indicePartes": [
+			"PLA_ASI",
+			"ID"
+		],
+		"numRegistros": 0
+	},
+	{
+		"datos": []
+	}
+]
