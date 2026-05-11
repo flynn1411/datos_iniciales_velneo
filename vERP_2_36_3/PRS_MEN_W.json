@@ -5,7 +5,7 @@
 		"indicePartes": [
 			"ID"
 		],
-		"numRegistros": 131
+		"numRegistros": 178
 	},
 	{
 		"datos": [
@@ -28,7 +28,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "REC002",
@@ -49,7 +50,140 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN015006",
+				"NAME": "Afiliacion Intitucional",
+				"TOO_TIP": "Afiliacion Intitucional",
+				"STA_TIP": "Afiliacion Intitucional",
+				"WHA_THI": "Afiliacion Intitucional",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ENT_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/ENT_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN015007",
+				"NAME": "Afiliacion Laborales",
+				"TOO_TIP": "Afiliacion Laborales",
+				"STA_TIP": "Afiliacion Laborales",
+				"WHA_THI": "Afiliacion Laborales",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ENT_LAB_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/ENT_LAB_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN015",
+				"NAME": "Afiliaciones",
+				"TOO_TIP": "Afiliaciones",
+				"STA_TIP": "Afiliaciones",
+				"WHA_THI": "Afiliaciones",
+				"ICO_PRY": "velneo_verp_2_app",
+				"ICO_OBJ_ID": "ENT_LAB_BTN_EDI",
+				"ICO_ID_REF": "velneo_verp_2_app/ENT_LAB_BTN_EDI",
+				"ICO": "",
+				"PRY": "",
+				"MEN_OBJ": "M",
+				"PRF_MEN": "",
+				"OBJ_TIP": 51,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "/",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN015001",
+				"NAME": "Afiliados",
+				"TOO_TIP": "Afiliados",
+				"STA_TIP": "Afiliados",
+				"WHA_THI": "Afiliados",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ENT_M_MEN_CLT_AFI",
+				"OBJ_ID_REF": "velneo_verp_2_app/ENT_M_MEN_CLT_AFI",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN013001",
+				"NAME": "Agenda Asamblea",
+				"TOO_TIP": "Agenda Asamblea",
+				"STA_TIP": "Agenda Asamblea",
+				"WHA_THI": "Agenda Asamblea",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "AGE_HTML_ASA",
+				"OBJ_ID_REF": "velneo_verp_2_app/AGE_HTML_ASA",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN014006",
+				"NAME": "Agenda CRM",
+				"TOO_TIP": "Agenda CRM",
+				"STA_TIP": "Agenda CRM",
+				"WHA_THI": "Agenda CRM",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "AGE_HTML_CRM",
+				"OBJ_ID_REF": "velneo_verp_2_app/AGE_HTML_CRM",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN002002",
@@ -70,7 +204,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN001003",
@@ -91,7 +226,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN009001",
@@ -112,7 +248,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN003",
@@ -133,7 +270,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004ALM",
@@ -154,7 +292,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON005",
@@ -175,7 +314,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN001ARQ",
+				"NAME": "Arqueos de Caja",
+				"TOO_TIP": "Arqueos de Caja",
+				"STA_TIP": "Arqueos de Caja",
+				"WHA_THI": "Arqueos de Caja",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ARQ_CAJ",
+				"OBJ_ID_REF": "velneo_verp_2_app/ARQ_CAJ",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004ART",
@@ -196,7 +358,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN013",
+				"NAME": "Asamblea",
+				"TOO_TIP": "Asamblea",
+				"STA_TIP": "Asamblea",
+				"WHA_THI": "Asamblea",
+				"ICO_PRY": "velneo_verp_2_app",
+				"ICO_OBJ_ID": "AGE_USU",
+				"ICO_ID_REF": "velneo_verp_2_app/AGE_USU",
+				"ICO": "",
+				"PRY": "",
+				"MEN_OBJ": "M",
+				"PRF_MEN": "",
+				"OBJ_TIP": 51,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "/",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON001001",
@@ -217,7 +402,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON001",
@@ -238,7 +424,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "REC009",
@@ -259,7 +446,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON001004",
@@ -280,7 +468,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "REC003",
@@ -301,7 +490,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON008AUX",
@@ -322,7 +512,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN012004",
+				"NAME": "Avales",
+				"TOO_TIP": "",
+				"STA_TIP": "",
+				"WHA_THI": "",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ENT_M_MEN_AVAL",
+				"OBJ_ID_REF": "velneo_verp_2_app/ENT_M_MEN_AVAL",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON005003",
@@ -343,7 +556,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON006001",
@@ -364,7 +578,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON006002",
@@ -385,7 +600,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004BCO",
@@ -406,7 +622,52 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN017002",
+				"NAME": "Bancos T.V.M.",
+				"TOO_TIP": "",
+				"STA_TIP": "",
+				"WHA_THI": "",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "BCO_REC_M_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/BCO_REC_M_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN016BIT",
+				"NAME": "Bitacoras de Vehiculos",
+				"TOO_TIP": "Bitacoras de Vehiculos",
+				"STA_TIP": "Bitacoras de Vehiculos",
+				"WHA_THI": "Bitacoras de Vehiculos",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "BIT_VEH_G_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/BIT_VEH_G_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN009002",
@@ -427,7 +688,52 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN012005",
+				"NAME": "Calculadora de prestamo",
+				"TOO_TIP": "Calculadora de prestamo",
+				"STA_TIP": "Calculadora de prestamo",
+				"WHA_THI": "Calculadora de prestamo",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "SOL_VEN_CAL",
+				"OBJ_ID_REF": "velneo_verp_2_app/SOL_VEN_CAL",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN013002",
+				"NAME": "Calendario",
+				"TOO_TIP": "Calendario",
+				"STA_TIP": "Calendario",
+				"WHA_THI": "Calendario",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "AGE_CAL_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/AGE_CAL_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN009011",
@@ -448,7 +754,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON005001",
@@ -469,7 +776,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON007003",
@@ -490,7 +798,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN013005",
+				"NAME": "Citas",
+				"TOO_TIP": "Citas",
+				"STA_TIP": "Citas",
+				"WHA_THI": "Citas",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "AGE_EVE_ASA",
+				"OBJ_ID_REF": "velneo_verp_2_app/AGE_EVE_ASA",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004CLT",
@@ -511,7 +842,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN014002",
+				"NAME": "Clientes",
+				"TOO_TIP": "Clientes",
+				"STA_TIP": "Clientes",
+				"WHA_THI": "Clientes",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ENT_M_MEN_CLT",
+				"OBJ_ID_REF": "velneo_verp_2_app/ENT_M_MEN_CLT",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN001005",
@@ -532,7 +886,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON002001",
@@ -553,7 +908,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN009008",
@@ -574,7 +930,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN009009",
@@ -595,7 +952,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004CMR",
@@ -616,7 +974,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN008003",
@@ -637,7 +996,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN002",
@@ -658,7 +1018,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004CSI",
@@ -679,7 +1040,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON008CNC",
@@ -700,7 +1062,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON008CNB",
@@ -721,7 +1084,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON002005",
@@ -742,10 +1106,33 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
-				"ID": "GEN015",
+				"ID": "GEN004CFA",
+				"NAME": "configuración sobre cuota de afiliados",
+				"TOO_TIP": "configuración sobre cuota de afiliados",
+				"STA_TIP": "configuración sobre cuota de afiliados",
+				"WHA_THI": "configuración sobre cuota de afiliados",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ART_M_MEN_AFI",
+				"OBJ_ID_REF": "velneo_verp_2_app/ART_M_MEN_AFI",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN020",
 				"NAME": "Contabilidad",
 				"TOO_TIP": "Contabilidad",
 				"STA_TIP": "Contabilidad",
@@ -763,7 +1150,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004CON",
@@ -784,7 +1172,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN014003",
+				"NAME": "Contactos",
+				"TOO_TIP": "Contactos",
+				"STA_TIP": "Contactos",
+				"WHA_THI": "Contactos",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ENT_M_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/ENT_M_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "REC004",
@@ -805,7 +1216,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON005002",
@@ -826,7 +1238,52 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN014",
+				"NAME": "CRM",
+				"TOO_TIP": "CRM",
+				"STA_TIP": "CRM",
+				"WHA_THI": "CRM",
+				"ICO_PRY": "velneo_verp_2_dat",
+				"ICO_OBJ_ID": "ENT_M",
+				"ICO_ID_REF": "velneo_verp_2_dat/ENT_M",
+				"ICO": "",
+				"PRY": "",
+				"MEN_OBJ": "M",
+				"PRF_MEN": "",
+				"OBJ_TIP": 51,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "/",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN017004",
+				"NAME": "Deducciones por tranferencia",
+				"TOO_TIP": "Deducciones por tranferencia",
+				"STA_TIP": "Deducciones por tranferencia",
+				"WHA_THI": "Deducciones por tranferencia",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "DED_EXT_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/DED_EXT_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN006DEP",
@@ -847,7 +1304,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN009",
@@ -868,7 +1326,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON005005",
@@ -889,7 +1348,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON001003",
@@ -910,7 +1370,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON008DIS",
@@ -931,7 +1392,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN009010",
@@ -952,7 +1414,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004DOC",
@@ -973,7 +1436,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN008006",
+				"NAME": "Donantes",
+				"TOO_TIP": "Donantes",
+				"STA_TIP": "Donantes",
+				"WHA_THI": "Donantes",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ENT_M_MEN_DON",
+				"OBJ_ID_REF": "velneo_verp_2_app/ENT_M_MEN_DON",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON005006",
@@ -994,7 +1480,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON005007",
@@ -1015,7 +1502,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON008EJE",
@@ -1036,7 +1524,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON008EBC",
@@ -1057,7 +1546,96 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN017005",
+				"NAME": "Estadisticas globales T.V.M.",
+				"TOO_TIP": "Estadisticas globales T.V.M.",
+				"STA_TIP": "Estadisticas globales T.V.M.",
+				"WHA_THI": "Estadisticas globales T.V.M.",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "EST_REC_G_BCO_OPC_FAC",
+				"OBJ_ID_REF": "velneo_verp_2_app/EST_REC_G_BCO_OPC_FAC",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN017006",
+				"NAME": "Estadisticas por bancos T.V.M.",
+				"TOO_TIP": "Estadisticas por bancos T.V.M.",
+				"STA_TIP": "Estadisticas por bancos T.V.M.",
+				"WHA_THI": "Estadisticas por bancos T.V.M.",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "EST_REC_G_BCO_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/EST_REC_G_BCO_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN001EST",
+				"NAME": "Estados de Cuenta",
+				"TOO_TIP": "Estados de Cuenta",
+				"STA_TIP": "Estados de Cuenta",
+				"WHA_THI": "Estados de Cuenta",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "EST_CTA_CLT",
+				"OBJ_ID_REF": "velneo_verp_2_app/EST_CTA_CLT",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN004EST",
+				"NAME": "Estructura de cuotas",
+				"TOO_TIP": "Estructura de cuotas",
+				"STA_TIP": "Estructura de cuotas",
+				"WHA_THI": "Estructura de cuotas",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "EST_CUO_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/EST_CUO_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN006EXP",
@@ -1078,7 +1656,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN008007",
+				"NAME": "Facilitadores",
+				"TOO_TIP": "Facilitadores",
+				"STA_TIP": "Facilitadores",
+				"WHA_THI": "Facilitadores",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ENT_M_MEN_FAC",
+				"OBJ_ID_REF": "velneo_verp_2_app/ENT_M_MEN_FAC",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN002003",
@@ -1099,7 +1700,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN001004",
@@ -1120,7 +1722,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON003001",
@@ -1141,7 +1744,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON003002",
@@ -1162,7 +1766,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004FAM",
@@ -1183,7 +1788,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN008002",
@@ -1204,7 +1810,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "REC005",
@@ -1225,7 +1832,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004FPG",
@@ -1246,7 +1854,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN010003",
@@ -1267,7 +1876,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN015002",
+				"NAME": "Generación de nomina de afiliacion",
+				"TOO_TIP": "Generación de nomina de afiliacion",
+				"STA_TIP": "Generación de nomina de afiliacion",
+				"WHA_THI": "Generación de nomina de afiliacion",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "GEN_NOM_ART_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/GEN_NOM_ART_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "REC012",
@@ -1288,7 +1920,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON009",
@@ -1309,7 +1942,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN009007",
@@ -1330,7 +1964,52 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN012002",
+				"NAME": "Gestion de prestamos",
+				"TOO_TIP": "Gestion de prestamos",
+				"STA_TIP": "Gestion de prestamos",
+				"WHA_THI": "Gestion de prestamos",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "DES_FAC_MEN_PRE",
+				"OBJ_ID_REF": "velneo_verp_2_app/DES_FAC_MEN_PRE",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN016GIR",
+				"NAME": "Giras de Vehiculos",
+				"TOO_TIP": "Giras de Vehiculos",
+				"STA_TIP": "Giras de Vehiculos",
+				"WHA_THI": "Giras de Vehiculos",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "GIR_VEH_G_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/GIR_VEH_G_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN010004",
@@ -1351,7 +2030,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004IDI",
@@ -1372,7 +2052,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004IDZ",
@@ -1393,7 +2074,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN008004",
@@ -1414,7 +2096,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON006003",
@@ -1435,7 +2118,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON006",
@@ -1456,7 +2140,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "REC001",
@@ -1477,7 +2162,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN000",
@@ -1498,7 +2184,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON000",
@@ -1519,7 +2206,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON004",
@@ -1540,7 +2228,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON004001",
@@ -1561,7 +2250,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN013003",
+				"NAME": "Intervalos",
+				"TOO_TIP": "Intervalos",
+				"STA_TIP": "Intervalos",
+				"WHA_THI": "Intervalos",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "AGE_INT_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/AGE_INT_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN003INV",
@@ -1582,7 +2294,52 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN013004",
+				"NAME": "Invitaciones",
+				"TOO_TIP": "Invitaciones",
+				"STA_TIP": "Invitaciones",
+				"WHA_THI": "Invitaciones",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "INV_REU_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/INV_REU_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN005KIT",
+				"NAME": "Kits",
+				"TOO_TIP": "Kits",
+				"STA_TIP": "Kits",
+				"WHA_THI": "Kits",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "KITS",
+				"OBJ_ID_REF": "velneo_verp_2_app/KITS",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004LIS",
@@ -1603,7 +2360,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004",
@@ -1624,7 +2382,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON008",
@@ -1645,7 +2404,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON001002",
@@ -1666,7 +2426,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN007",
@@ -1687,7 +2448,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON003004",
@@ -1708,7 +2470,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN010002",
@@ -1729,7 +2492,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004MON",
@@ -1750,7 +2514,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN003MOV",
@@ -1771,7 +2536,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN017001",
+				"NAME": "Municipalidades T.V.M.",
+				"TOO_TIP": "Municipalidades T.V.M.",
+				"STA_TIP": "Municipalidades T.V.M.",
+				"WHA_THI": "Municipalidades T.V.M.",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "MUN_C_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/MUN_C_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN010005",
@@ -1792,7 +2580,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN006NOM",
@@ -1813,7 +2602,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "REC006",
@@ -1834,7 +2624,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON008NOR",
@@ -1855,7 +2646,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN002006",
@@ -1876,7 +2668,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN012003",
+				"NAME": "Pago a prestar",
+				"TOO_TIP": "Pago a prestar",
+				"STA_TIP": "Pago a prestar",
+				"WHA_THI": "Pago a prestar",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "velneo_verp_2_app/",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN002004",
@@ -1897,7 +2712,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON002003",
@@ -1918,7 +2734,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004PAI",
@@ -1939,7 +2756,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN002001",
@@ -1960,7 +2778,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN001002",
@@ -1981,7 +2800,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN006EMP",
@@ -2002,7 +2822,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "REC007",
@@ -2023,7 +2844,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON008PGC",
@@ -2044,7 +2866,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN015003",
+				"NAME": "planilla de afiliacion",
+				"TOO_TIP": "planilla de afiliacion",
+				"STA_TIP": "planilla de afiliacion",
+				"WHA_THI": "planilla de afiliacion",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "PLA_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/PLA_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON008PLA",
@@ -2065,7 +2910,52 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN014001",
+				"NAME": "Pre Clientes",
+				"TOO_TIP": "Pre Clientes",
+				"STA_TIP": "Pre Clientes",
+				"WHA_THI": "Pre Clientes",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ENT_M_MEN_PRE_CLT",
+				"OBJ_ID_REF": "velneo_verp_2_app/ENT_M_MEN_PRE_CLT",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN012",
+				"NAME": "Prestamos",
+				"TOO_TIP": "Prestamos",
+				"STA_TIP": "Prestamos",
+				"WHA_THI": "Prestamos",
+				"ICO_PRY": "velneo_verp_2_app",
+				"ICO_OBJ_ID": "MOD_VTA",
+				"ICO_ID_REF": "velneo_verp_2_app/MOD_VTA",
+				"ICO": "",
+				"PRY": "",
+				"MEN_OBJ": "M",
+				"PRF_MEN": "",
+				"OBJ_TIP": 51,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "/",
+				"SCR": "",
+				"USR_GRP_ALL": false,
+				"USR_GRP": "1",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN001001",
@@ -2086,7 +2976,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON005004",
@@ -2107,7 +2998,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON002004",
@@ -2128,7 +3020,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON007",
@@ -2149,7 +3042,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004PRV",
@@ -2170,7 +3064,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004PRO",
@@ -2191,7 +3086,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN008",
@@ -2212,7 +3108,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN008001",
@@ -2233,7 +3130,52 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN017",
+				"NAME": "Recaudación de tasa vehicular municipal",
+				"TOO_TIP": "Recaudación de tasa vehicular municipal",
+				"STA_TIP": "Recaudación de tasa vehicular municipal",
+				"WHA_THI": "Recaudación de tasa vehicular municipal",
+				"ICO_PRY": "velneo_verp_2_app",
+				"ICO_OBJ_ID": "RAD_BTN_OFF_DES",
+				"ICO_ID_REF": "velneo_verp_2_app/RAD_BTN_OFF_DES",
+				"ICO": "",
+				"PRY": "",
+				"MEN_OBJ": "M",
+				"PRF_MEN": "",
+				"OBJ_TIP": 51,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "/",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN017003",
+				"NAME": "Recaudacion por municipios T.V.M.",
+				"TOO_TIP": "Recaudacion por municipios T.V.M.",
+				"STA_TIP": "Recaudacion por municipios T.V.M.",
+				"WHA_THI": "Recaudacion por municipios T.V.M.",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "REC_G_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/REC_G_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "REC008",
@@ -2254,7 +3196,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN006",
@@ -2275,7 +3218,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON007002",
@@ -2296,7 +3240,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN001006",
@@ -2317,7 +3262,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN002005",
@@ -2338,7 +3284,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN015008",
+				"NAME": "Reportes",
+				"TOO_TIP": "Reportes",
+				"STA_TIP": "Reportes",
+				"WHA_THI": "Reportes",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "REP_LIS_CAR_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/REP_LIS_CAR_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON003003",
@@ -2359,7 +3328,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN014004",
+				"NAME": "Resumen de Actividades",
+				"TOO_TIP": "Resumen de Actividades",
+				"STA_TIP": "Resumen de Actividades",
+				"WHA_THI": "Resumen de Actividades",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ACT_TAR_PEN_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/ACT_TAR_PEN_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004SER",
@@ -2380,7 +3372,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN012001",
+				"NAME": "Solicitud de prestamos",
+				"TOO_TIP": "Solicitud de prestamos",
+				"STA_TIP": "Solicitud de prestamos",
+				"WHA_THI": "Solicitud de prestamos",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "SOL_PRE_MEN_MOD",
+				"OBJ_ID_REF": "velneo_verp_2_app/SOL_PRE_MEN_MOD",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN009005",
@@ -2401,7 +3416,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN009006",
@@ -2422,7 +3438,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN015005",
+				"NAME": "Solvencias",
+				"TOO_TIP": "Solvencias",
+				"STA_TIP": "Solvencias",
+				"WHA_THI": "Solvencias",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "SOL_AFI_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/SOL_AFI_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004TAR",
@@ -2443,7 +3482,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON002",
@@ -2464,7 +3504,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN010",
@@ -2485,7 +3526,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN010001",
@@ -2506,7 +3548,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN017007",
+				"NAME": "Tipo de Deducción por tranferencia",
+				"TOO_TIP": "Tipo de Deducción por tranferencia",
+				"STA_TIP": "Tipo de Deducción por tranferencia",
+				"WHA_THI": "Tipo de Deducción por tranferencia",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "TIP_DED_EXT_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/TIP_DED_EXT_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004MOD",
@@ -2527,7 +3592,30 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN014005",
+				"NAME": "Tipos de Actividades",
+				"TOO_TIP": "Tipos de Actividades",
+				"STA_TIP": "Tipos de Actividades",
+				"WHA_THI": "Tipos de Actividades",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "TIP_ACT_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/TIP_ACT_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004TDO",
@@ -2548,7 +3636,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004TRE",
@@ -2569,7 +3658,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN003TRA",
@@ -2590,7 +3680,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON003",
@@ -2611,7 +3702,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "REC010",
@@ -2632,7 +3724,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN004TUR",
@@ -2653,7 +3746,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "REC011",
@@ -2674,7 +3768,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "CON007001",
@@ -2695,7 +3790,74 @@
 				"SCR": "",
 				"USR_GRP_ALL": true,
 				"USR_GRP": "",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN016",
+				"NAME": "Vehiculos",
+				"TOO_TIP": "Vehiculos",
+				"STA_TIP": "Vehiculos",
+				"WHA_THI": "Vehiculos",
+				"ICO_PRY": "velneo_verp_2_app",
+				"ICO_OBJ_ID": "VAG_DAT",
+				"ICO_ID_REF": "velneo_verp_2_app/VAG_DAT",
+				"ICO": "",
+				"PRY": "",
+				"MEN_OBJ": "M",
+				"PRF_MEN": "",
+				"OBJ_TIP": 51,
+				"OBJ_ID": "",
+				"OBJ_ID_REF": "/",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": "GEN016VEH",
+				"NAME": "Vehiculos",
+				"TOO_TIP": "Vehiculos",
+				"STA_TIP": "Vehiculos",
+				"WHA_THI": "Vehiculos",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "VEH_G_MEN",
+				"OBJ_ID_REF": "velneo_verp_2_app/VEH_G_MEN",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
+			},
+			{
+				"ID": "GEN005VEN",
+				"NAME": "Vendedores",
+				"TOO_TIP": "Vendedores",
+				"STA_TIP": "Vendedores",
+				"WHA_THI": "Vendedores",
+				"ICO_PRY": "",
+				"ICO_OBJ_ID": "",
+				"ICO_ID_REF": "/",
+				"ICO": "",
+				"PRY": "velneo_verp_2_app",
+				"MEN_OBJ": "A",
+				"PRF_MEN": "",
+				"OBJ_TIP": 41,
+				"OBJ_ID": "ACC_VEND",
+				"OBJ_ID_REF": "velneo_verp_2_app/ACC_VEND",
+				"SCR": "",
+				"USR_GRP_ALL": true,
+				"USR_GRP": "",
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN001",
@@ -2716,7 +3878,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN009003",
@@ -2737,7 +3900,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			},
 			{
 				"ID": "GEN009004",
@@ -2758,7 +3922,8 @@
 				"SCR": "",
 				"USR_GRP_ALL": false,
 				"USR_GRP": "1",
-				"VER_ULT_ACT": "36.3.4"
+				"VER_ULT_ACT": "36.3.4",
+				"TIP_EMP_PRS_MEN": 0
 			}
 		]
 	}

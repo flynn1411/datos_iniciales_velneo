@@ -5,711 +5,873 @@
 		"indicePartes": [
 			"ID"
 		],
-		"numRegistros": 117
+		"numRegistros": 144
 	},
 	{
 		"datos": [
 			{
 				"ID": 2,
-				"NAME": "",
+				"NAME": "- .-",
 				"PRS_MEN_W": "",
 				"TIP_EMP_PRS_MEN": 1
 			},
 			{
-				"ID": 3,
-				"NAME": "",
-				"PRS_MEN_W": "GEN002002",
-				"TIP_EMP_PRS_MEN": 1
-			},
-			{
 				"ID": 6,
-				"NAME": "",
+				"NAME": "- .CON001-Asientos",
 				"PRS_MEN_W": "CON001",
 				"TIP_EMP_PRS_MEN": 4
 			},
 			{
-				"ID": 7,
-				"NAME": "",
-				"PRS_MEN_W": "CON001001",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 8,
-				"NAME": "",
-				"PRS_MEN_W": "CON001002",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 9,
-				"NAME": "",
-				"PRS_MEN_W": "CON001003",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 10,
-				"NAME": "",
-				"PRS_MEN_W": "CON001004",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 11,
-				"NAME": "",
-				"PRS_MEN_W": "CON002",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 12,
-				"NAME": "",
-				"PRS_MEN_W": "CON002001",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 13,
-				"NAME": "",
-				"PRS_MEN_W": "CON002003",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 14,
-				"NAME": "",
-				"PRS_MEN_W": "CON002004",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 15,
-				"NAME": "",
-				"PRS_MEN_W": "CON002005",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
 				"ID": 16,
-				"NAME": "",
+				"NAME": "- .CON003-Tributos",
 				"PRS_MEN_W": "CON003",
 				"TIP_EMP_PRS_MEN": 4
 			},
 			{
-				"ID": 17,
-				"NAME": "",
-				"PRS_MEN_W": "CON003001",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 18,
-				"NAME": "",
-				"PRS_MEN_W": "CON003002",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 19,
-				"NAME": "",
-				"PRS_MEN_W": "CON003003",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 20,
-				"NAME": "",
-				"PRS_MEN_W": "CON003004",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
 				"ID": 21,
-				"NAME": "",
+				"NAME": "- .CON004-Inmovilizado",
 				"PRS_MEN_W": "CON004",
 				"TIP_EMP_PRS_MEN": 4
 			},
 			{
-				"ID": 22,
-				"NAME": "",
-				"PRS_MEN_W": "CON004001",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
 				"ID": 23,
-				"NAME": "",
+				"NAME": "- .CON005-Analítica",
 				"PRS_MEN_W": "CON005",
 				"TIP_EMP_PRS_MEN": 4
 			},
 			{
-				"ID": 24,
-				"NAME": "",
-				"PRS_MEN_W": "CON005001",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 25,
-				"NAME": "",
-				"PRS_MEN_W": "CON005002",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 26,
-				"NAME": "",
-				"PRS_MEN_W": "CON005003",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 27,
-				"NAME": "",
-				"PRS_MEN_W": "CON005004",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
 				"ID": 28,
-				"NAME": "",
+				"NAME": "- .CON005005-Desviaciones presupuestaria",
 				"PRS_MEN_W": "CON005005",
 				"TIP_EMP_PRS_MEN": 4
 			},
 			{
 				"ID": 29,
-				"NAME": "",
+				"NAME": "- .CON005006-Ejecucion presupuestaria",
 				"PRS_MEN_W": "CON005006",
 				"TIP_EMP_PRS_MEN": 4
 			},
 			{
 				"ID": 30,
-				"NAME": "",
+				"NAME": "- .CON005006-Ejecucion presupuestaria",
 				"PRS_MEN_W": "CON005006",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 31,
-				"NAME": "",
+				"NAME": "- .CON005006-Ejecucion presupuestaria",
 				"PRS_MEN_W": "CON005006",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 32,
-				"NAME": "",
+				"NAME": "- .CON005007-Ejecucion presupuestaria an",
 				"PRS_MEN_W": "CON005007",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 33,
-				"NAME": "",
+				"NAME": "- .CON005007-Ejecucion presupuestaria an",
 				"PRS_MEN_W": "CON005007",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 34,
-				"NAME": "",
+				"NAME": "- .CON005007-Ejecucion presupuestaria an",
 				"PRS_MEN_W": "CON005007",
 				"TIP_EMP_PRS_MEN": 4
 			},
 			{
 				"ID": 35,
-				"NAME": "",
+				"NAME": "- .CON006-Informes",
 				"PRS_MEN_W": "CON006",
 				"TIP_EMP_PRS_MEN": 4
 			},
 			{
-				"ID": 36,
-				"NAME": "",
-				"PRS_MEN_W": "CON006001",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 37,
-				"NAME": "",
-				"PRS_MEN_W": "CON006002",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 38,
-				"NAME": "",
-				"PRS_MEN_W": "CON007",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
 				"ID": 39,
-				"NAME": "",
+				"NAME": "- .CON006003-Informes",
 				"PRS_MEN_W": "CON006003",
 				"TIP_EMP_PRS_MEN": 4
 			},
 			{
-				"ID": 40,
-				"NAME": "",
-				"PRS_MEN_W": "CON007001",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 41,
-				"NAME": "",
-				"PRS_MEN_W": "CON007002",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 42,
-				"NAME": "",
-				"PRS_MEN_W": "CON007003",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
 				"ID": 43,
-				"NAME": "",
+				"NAME": "- .CON008-Maestros",
 				"PRS_MEN_W": "CON008",
 				"TIP_EMP_PRS_MEN": 4
 			},
 			{
-				"ID": 44,
-				"NAME": "",
-				"PRS_MEN_W": "CON008AUX",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 45,
-				"NAME": "",
-				"PRS_MEN_W": "CON008CNB",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 46,
-				"NAME": "",
-				"PRS_MEN_W": "CON008CNC",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 47,
-				"NAME": "",
-				"PRS_MEN_W": "CON008DIS",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 48,
-				"NAME": "",
-				"PRS_MEN_W": "CON008EBC",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 49,
-				"NAME": "",
-				"PRS_MEN_W": "CON008NOR",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 50,
-				"NAME": "",
-				"PRS_MEN_W": "CON008PGC",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
-				"ID": 51,
-				"NAME": "",
-				"PRS_MEN_W": "CON008PLA",
-				"TIP_EMP_PRS_MEN": 4
-			},
-			{
 				"ID": 52,
-				"NAME": "",
+				"NAME": "- .GEN001-Ventas",
 				"PRS_MEN_W": "GEN001",
 				"TIP_EMP_PRS_MEN": 1
 			},
 			{
-				"ID": 53,
-				"NAME": "",
-				"PRS_MEN_W": "GEN001001",
-				"TIP_EMP_PRS_MEN": 1
-			},
-			{
-				"ID": 54,
-				"NAME": "",
-				"PRS_MEN_W": "GEN001002",
-				"TIP_EMP_PRS_MEN": 1
-			},
-			{
-				"ID": 55,
-				"NAME": "",
-				"PRS_MEN_W": "GEN001003",
-				"TIP_EMP_PRS_MEN": 1
-			},
-			{
-				"ID": 56,
-				"NAME": "",
-				"PRS_MEN_W": "GEN001004",
-				"TIP_EMP_PRS_MEN": 1
-			},
-			{
-				"ID": 57,
-				"NAME": "",
-				"PRS_MEN_W": "GEN001005",
-				"TIP_EMP_PRS_MEN": 1
-			},
-			{
-				"ID": 58,
-				"NAME": "",
-				"PRS_MEN_W": "GEN001006",
-				"TIP_EMP_PRS_MEN": 1
-			},
-			{
 				"ID": 59,
-				"NAME": "",
+				"NAME": "- .GEN002-Compras",
 				"PRS_MEN_W": "GEN002",
 				"TIP_EMP_PRS_MEN": 1
 			},
 			{
-				"ID": 60,
-				"NAME": "",
-				"PRS_MEN_W": "GEN002001",
-				"TIP_EMP_PRS_MEN": 1
-			},
-			{
-				"ID": 61,
-				"NAME": "",
-				"PRS_MEN_W": "GEN002003",
-				"TIP_EMP_PRS_MEN": 1
-			},
-			{
-				"ID": 62,
-				"NAME": "",
-				"PRS_MEN_W": "GEN002004",
-				"TIP_EMP_PRS_MEN": 1
-			},
-			{
-				"ID": 63,
-				"NAME": "",
-				"PRS_MEN_W": "GEN002005",
-				"TIP_EMP_PRS_MEN": 1
-			},
-			{
-				"ID": 64,
-				"NAME": "",
-				"PRS_MEN_W": "GEN002006",
-				"TIP_EMP_PRS_MEN": 1
-			},
-			{
 				"ID": 65,
-				"NAME": "",
+				"NAME": "- .GEN003-Almacén",
 				"PRS_MEN_W": "GEN003",
 				"TIP_EMP_PRS_MEN": 1
 			},
 			{
 				"ID": 66,
-				"NAME": "",
+				"NAME": "- .GEN003INV-Inventario valorado",
 				"PRS_MEN_W": "GEN003INV",
 				"TIP_EMP_PRS_MEN": 1
 			},
 			{
 				"ID": 67,
-				"NAME": "",
+				"NAME": "- .GEN003MOV-Movimientos",
 				"PRS_MEN_W": "GEN003MOV",
 				"TIP_EMP_PRS_MEN": 1
 			},
 			{
 				"ID": 68,
-				"NAME": "",
+				"NAME": "- .GEN003TRA-Traspasos",
 				"PRS_MEN_W": "GEN003TRA",
 				"TIP_EMP_PRS_MEN": 1
 			},
 			{
 				"ID": 69,
-				"NAME": "",
+				"NAME": "- .GEN006-Recursos Humanos",
 				"PRS_MEN_W": "GEN006",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 70,
-				"NAME": "",
+				"NAME": "- .GEN006DEP-Departamentos",
 				"PRS_MEN_W": "GEN006DEP",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 71,
-				"NAME": "",
+				"NAME": "- .GEN006EMP-Permisos de empleados",
 				"PRS_MEN_W": "GEN006EMP",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 72,
-				"NAME": "",
+				"NAME": "- .GEN006NOM-Nómina de Empleados",
 				"PRS_MEN_W": "GEN006NOM",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 73,
-				"NAME": "",
+				"NAME": "- .GEN006EXP-Expedientes de Empleados",
 				"PRS_MEN_W": "GEN006EXP",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 74,
-				"NAME": "",
+				"NAME": "- .GEN008-Proyectos",
 				"PRS_MEN_W": "GEN008",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 75,
-				"NAME": "",
+				"NAME": "- .GEN008-Proyectos",
 				"PRS_MEN_W": "GEN008",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 76,
-				"NAME": "",
+				"NAME": "- .GEN008001-Proyectos y Negociación",
 				"PRS_MEN_W": "GEN008001",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 77,
-				"NAME": "",
+				"NAME": "- .GEN008001-Proyectos y Negociación",
 				"PRS_MEN_W": "GEN008001",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 78,
-				"NAME": "",
+				"NAME": "- .GEN008002-Ficha de Proyecto",
 				"PRS_MEN_W": "GEN008002",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 79,
-				"NAME": "",
+				"NAME": "- .GEN008002-Ficha de Proyecto",
 				"PRS_MEN_W": "GEN008002",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 80,
-				"NAME": "",
+				"NAME": "- .GEN008003-Componentes de Proyectos",
 				"PRS_MEN_W": "GEN008003",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 81,
-				"NAME": "",
+				"NAME": "- .GEN008003-Componentes de Proyectos",
 				"PRS_MEN_W": "GEN008003",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 82,
-				"NAME": "",
+				"NAME": "- .GEN008004-Indicadores del Proyecto",
 				"PRS_MEN_W": "GEN008004",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 83,
-				"NAME": "",
+				"NAME": "- .GEN008004-Indicadores del Proyecto",
 				"PRS_MEN_W": "GEN008004",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 84,
-				"NAME": "",
+				"NAME": "- .GEN008005-Actividades del Proyecto",
 				"PRS_MEN_W": "GEN008005",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 85,
-				"NAME": "",
+				"NAME": "- .GEN008005-Actividades del Proyecto",
 				"PRS_MEN_W": "GEN008005",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 86,
-				"NAME": "",
+				"NAME": "- .GEN009-Desembolsos",
 				"PRS_MEN_W": "GEN009",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 87,
-				"NAME": "",
+				"NAME": "- .GEN009-Desembolsos",
 				"PRS_MEN_W": "GEN009",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 88,
-				"NAME": "",
+				"NAME": "- .GEN009001-Alias de Pagos",
 				"PRS_MEN_W": "GEN009001",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 89,
-				"NAME": "",
+				"NAME": "- .GEN009001-Alias de Pagos",
 				"PRS_MEN_W": "GEN009001",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 90,
-				"NAME": "",
+				"NAME": "- .GEN009002-Caja Chica",
 				"PRS_MEN_W": "GEN009002",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 91,
-				"NAME": "",
+				"NAME": "- .GEN009002-Caja Chica",
 				"PRS_MEN_W": "GEN009002",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 92,
-				"NAME": "",
+				"NAME": "- .GEN009003-Viáticos y Gastos de Viaje",
 				"PRS_MEN_W": "GEN009003",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 93,
-				"NAME": "",
+				"NAME": "- .GEN009004-Viáticos y Gastos de Viaje",
 				"PRS_MEN_W": "GEN009004",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 94,
-				"NAME": "",
+				"NAME": "- .GEN009005-Solicitud tipo A",
 				"PRS_MEN_W": "GEN009005",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 95,
-				"NAME": "",
+				"NAME": "- .GEN009006-Solicitud tipo B",
 				"PRS_MEN_W": "GEN009006",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 96,
-				"NAME": "",
+				"NAME": "- .GEN009007-Gestión de desembolsos",
 				"PRS_MEN_W": "GEN009007",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 97,
-				"NAME": "",
+				"NAME": "- .GEN009007-Gestión de desembolsos",
 				"PRS_MEN_W": "GEN009007",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 98,
-				"NAME": "",
+				"NAME": "- .GEN009008-Cobros (Liquidaciones) tipo",
 				"PRS_MEN_W": "GEN009008",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 99,
-				"NAME": "",
+				"NAME": "- .GEN009009-Cobros (Liquidaciones) tipo",
 				"PRS_MEN_W": "GEN009009",
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
 				"ID": 100,
-				"NAME": "",
+				"NAME": "- .GEN009010-Distribuciones de viaticos",
 				"PRS_MEN_W": "GEN009010",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 101,
-				"NAME": "",
+				"NAME": "- .GEN009011-Categoría de División de Vi",
 				"PRS_MEN_W": "GEN009011",
 				"TIP_EMP_PRS_MEN": 3
 			},
 			{
 				"ID": 102,
-				"NAME": "",
+				"NAME": "- .GEN010-Ticket",
 				"PRS_MEN_W": "GEN010",
 				"TIP_EMP_PRS_MEN": 6
 			},
 			{
 				"ID": 103,
-				"NAME": "",
+				"NAME": "- .GEN010001-Tickets",
 				"PRS_MEN_W": "GEN010001",
 				"TIP_EMP_PRS_MEN": 6
 			},
 			{
 				"ID": 104,
-				"NAME": "",
+				"NAME": "- .GEN010002-Modulos",
 				"PRS_MEN_W": "GEN010002",
 				"TIP_EMP_PRS_MEN": 6
 			},
 			{
 				"ID": 105,
-				"NAME": "",
+				"NAME": "- .GEN010003-Formulario de empresa",
 				"PRS_MEN_W": "GEN010003",
 				"TIP_EMP_PRS_MEN": 6
 			},
 			{
 				"ID": 106,
-				"NAME": "",
+				"NAME": "- .GEN010004-Historial de ticket",
 				"PRS_MEN_W": "GEN010004",
 				"TIP_EMP_PRS_MEN": 6
 			},
 			{
 				"ID": 107,
-				"NAME": "",
+				"NAME": "- .GEN010005-Niveles de ticket",
 				"PRS_MEN_W": "GEN010005",
 				"TIP_EMP_PRS_MEN": 6
 			},
 			{
 				"ID": 108,
-				"NAME": "",
-				"PRS_MEN_W": "GEN015",
+				"NAME": "- .GEN015-Contabilidad",
+				"PRS_MEN_W": "GEN020",
 				"TIP_EMP_PRS_MEN": 4
 			},
 			{
 				"ID": 109,
-				"NAME": "",
+				"NAME": "- .REC002-Acuerdos",
 				"PRS_MEN_W": "REC002",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 110,
-				"NAME": "",
+				"NAME": "- .REC003-Ausencias",
 				"PRS_MEN_W": "REC003",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 111,
-				"NAME": "",
+				"NAME": "- .REC004-Contratos",
 				"PRS_MEN_W": "REC004",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 112,
-				"NAME": "",
+				"NAME": "- .REC005-Formaciones",
 				"PRS_MEN_W": "REC005",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 113,
-				"NAME": "",
+				"NAME": "- .REC006-Nóminas",
 				"PRS_MEN_W": "REC006",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 114,
-				"NAME": "",
+				"NAME": "- .REC007-Personal",
 				"PRS_MEN_W": "REC007",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 115,
-				"NAME": "",
+				"NAME": "- .REC008-Recon.  médicos",
 				"PRS_MEN_W": "REC008",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 116,
-				"NAME": "",
+				"NAME": "- .REC009-Asignar turnos",
 				"PRS_MEN_W": "REC009",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 117,
-				"NAME": "",
+				"NAME": "- .REC010-Turnos",
 				"PRS_MEN_W": "REC010",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 118,
-				"NAME": "",
+				"NAME": "- .REC011-Vacaciones",
 				"PRS_MEN_W": "REC011",
 				"TIP_EMP_PRS_MEN": 5
 			},
 			{
 				"ID": 119,
-				"NAME": "",
+				"NAME": "- .GEN004MOD-Tipo model",
 				"PRS_MEN_W": "GEN004MOD",
 				"TIP_EMP_PRS_MEN": 6
 			},
 			{
 				"ID": 120,
-				"NAME": "",
+				"NAME": "- .GEN004LIS-Lista asignada de tipo de m",
 				"PRS_MEN_W": "GEN004LIS",
 				"TIP_EMP_PRS_MEN": 6
+			},
+			{
+				"ID": 121,
+				"NAME": "3-ONG .GEN001-Ventas",
+				"PRS_MEN_W": "GEN001",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 122,
+				"NAME": "2-ONG clasico .GEN001-Ventas",
+				"PRS_MEN_W": "GEN001",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 123,
+				"NAME": "2-ONG clasico .GEN002-Compras",
+				"PRS_MEN_W": "GEN002",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 124,
+				"NAME": "3-ONG .GEN002-Compras",
+				"PRS_MEN_W": "GEN002",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 125,
+				"NAME": "1-MIPYNES .-",
+				"PRS_MEN_W": "GEN001ARQ",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 126,
+				"NAME": "1-MIPYNES .-",
+				"PRS_MEN_W": "GEN001EST",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 127,
+				"NAME": "1-MIPYNES .-",
+				"PRS_MEN_W": "GEN005VEN",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 128,
+				"NAME": "2-ONG clasico .GEN015-Contabilidad",
+				"PRS_MEN_W": "GEN020",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 129,
+				"NAME": "3-ONG .GEN015-Contabilidad",
+				"PRS_MEN_W": "GEN020",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 130,
+				"NAME": "1-MIPYNES .CON001-Asientos",
+				"PRS_MEN_W": "CON001",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 131,
+				"NAME": "2-ONG clasico .CON001-Asientos",
+				"PRS_MEN_W": "CON001",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 132,
+				"NAME": "3-ONG .CON001-Asientos",
+				"PRS_MEN_W": "CON001",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 133,
+				"NAME": "1-MIPYNES .CON003-Tributos",
+				"PRS_MEN_W": "CON003",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 134,
+				"NAME": "2-ONG clasico .CON003-Tributos",
+				"PRS_MEN_W": "CON003",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 135,
+				"NAME": "3-ONG .CON003-Tributos",
+				"PRS_MEN_W": "CON003",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 136,
+				"NAME": "1-MIPYNES .CON004-Inmovilizado",
+				"PRS_MEN_W": "CON004",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 137,
+				"NAME": "2-ONG clasico .CON004-Inmovilizado",
+				"PRS_MEN_W": "CON004",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 138,
+				"NAME": "3-ONG .CON004-Inmovilizado",
+				"PRS_MEN_W": "CON004",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 139,
+				"NAME": "1-MIPYNES .CON005-Analítica",
+				"PRS_MEN_W": "CON005",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 140,
+				"NAME": "2-ONG clasico .CON005-Analítica",
+				"PRS_MEN_W": "CON005",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 141,
+				"NAME": "3-ONG .CON005-Analítica",
+				"PRS_MEN_W": "CON005",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 142,
+				"NAME": "1-MIPYNES .CON006-Informes",
+				"PRS_MEN_W": "CON006",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 143,
+				"NAME": "2-ONG clasico .CON006-Informes",
+				"PRS_MEN_W": "CON006",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 144,
+				"NAME": "3-ONG .CON006-Informes",
+				"PRS_MEN_W": "CON006",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 145,
+				"NAME": "4-Contabilidad .CON007-Procesos anuales",
+				"PRS_MEN_W": "CON007",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 146,
+				"NAME": "3-ONG .CON007-Procesos anuales",
+				"PRS_MEN_W": "CON007",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 147,
+				"NAME": "2-ONG clasico .CON007-Procesos anuales",
+				"PRS_MEN_W": "CON007",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 148,
+				"NAME": "1-MIPYNES .CON007-Procesos anuales",
+				"PRS_MEN_W": "CON007",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 149,
+				"NAME": "1-MIPYNES .CON008-Maestros",
+				"PRS_MEN_W": "CON008",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 150,
+				"NAME": "2-ONG clasico .CON008-Maestros",
+				"PRS_MEN_W": "CON008",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 151,
+				"NAME": "3-ONG .CON008-Maestros",
+				"PRS_MEN_W": "CON008",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 152,
+				"NAME": "4-Contabilidad .GEN004BCO-Bancos",
+				"PRS_MEN_W": "GEN004BCO",
+				"TIP_EMP_PRS_MEN": 4
+			},
+			{
+				"ID": 153,
+				"NAME": "7-Coloegio .-",
+				"PRS_MEN_W": "GEN012",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 154,
+				"NAME": "7-Coloegio .GEN012001-Solicitud de prest",
+				"PRS_MEN_W": "GEN012001",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 155,
+				"NAME": "7-Coloegio .-",
+				"PRS_MEN_W": "GEN012002",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 156,
+				"NAME": "7-Coloegio .-",
+				"PRS_MEN_W": "GEN012003",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 157,
+				"NAME": "7-Coloegio .-",
+				"PRS_MEN_W": "GEN012004",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 158,
+				"NAME": "7-Coloegio .-",
+				"PRS_MEN_W": "GEN013",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 159,
+				"NAME": "7-Coloegio .GEN013002-Calendario",
+				"PRS_MEN_W": "GEN013002",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 160,
+				"NAME": "7-Coloegio .-",
+				"PRS_MEN_W": "GEN013003",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 161,
+				"NAME": "7-Coloegio .-",
+				"PRS_MEN_W": "GEN013004",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 162,
+				"NAME": "2-ONG clasico .-",
+				"PRS_MEN_W": "GEN014001",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 163,
+				"NAME": "2-ONG clasico .-",
+				"PRS_MEN_W": "GEN014002",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 164,
+				"NAME": "2-ONG clasico .-",
+				"PRS_MEN_W": "GEN014003",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 165,
+				"NAME": "2-ONG clasico .-",
+				"PRS_MEN_W": "GEN014004",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 166,
+				"NAME": "2-ONG clasico .-",
+				"PRS_MEN_W": "GEN014005",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 167,
+				"NAME": "2-ONG clasico .-",
+				"PRS_MEN_W": "GEN014006",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 168,
+				"NAME": "2-ONG clasico .-",
+				"PRS_MEN_W": "GEN008006",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 169,
+				"NAME": "2-ONG clasico .-",
+				"PRS_MEN_W": "GEN008007",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 170,
+				"NAME": "7-Coloegio .GEN015-Afiliaciones",
+				"PRS_MEN_W": "GEN015",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 171,
+				"NAME": "7-Coloegio .-",
+				"PRS_MEN_W": "GEN015001",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 172,
+				"NAME": "7-Colegio .-",
+				"PRS_MEN_W": "GEN015002",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 173,
+				"NAME": "7-Colegio .-",
+				"PRS_MEN_W": "GEN015003",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 174,
+				"NAME": "7-Colegio .GEN015005-Solvencias",
+				"PRS_MEN_W": "GEN015005",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 175,
+				"NAME": "7-Colegio .-",
+				"PRS_MEN_W": "GEN015006",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 176,
+				"NAME": "7-Colegio .-",
+				"PRS_MEN_W": "GEN015007",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 177,
+				"NAME": "7-Colegio .-",
+				"PRS_MEN_W": "GEN015008",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 178,
+				"NAME": "7-Colegio .-",
+				"PRS_MEN_W": "GEN004CFA",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 179,
+				"NAME": "7-Colegio .-",
+				"PRS_MEN_W": "GEN004EST",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 181,
+				"NAME": "2-ONG clasico .-",
+				"PRS_MEN_W": "GEN016BIT",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 182,
+				"NAME": "2-ONG clasico .GEN016-Vehiculos",
+				"PRS_MEN_W": "GEN016",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 183,
+				"NAME": "2-ONG clasico .-",
+				"PRS_MEN_W": "GEN016GIR",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 184,
+				"NAME": "2-ONG clasico .-",
+				"PRS_MEN_W": "GEN016VEH",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 187,
+				"NAME": "3-ONG .-",
+				"PRS_MEN_W": "GEN017002",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 188,
+				"NAME": "3-ONG .GEN017-Recaudación de tasa vehicu",
+				"PRS_MEN_W": "GEN017",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 189,
+				"NAME": "3-ONG .GEN017001-Municipalidades T.V.M.",
+				"PRS_MEN_W": "GEN017001",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 190,
+				"NAME": "3-ONG .-",
+				"PRS_MEN_W": "GEN017003",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 191,
+				"NAME": "3-ONG .-",
+				"PRS_MEN_W": "GEN017004",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 192,
+				"NAME": "3-ONG .-",
+				"PRS_MEN_W": "GEN017005",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 193,
+				"NAME": "3-ONG .-",
+				"PRS_MEN_W": "GEN017006",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 194,
+				"NAME": "3-ONG .-",
+				"PRS_MEN_W": "GEN017007",
+				"TIP_EMP_PRS_MEN": 3
 			}
 		]
 	}
