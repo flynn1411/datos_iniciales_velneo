@@ -5,16 +5,10 @@
 		"indicePartes": [
 			"ID"
 		],
-		"numRegistros": 144
+		"numRegistros": 157
 	},
 	{
 		"datos": [
-			{
-				"ID": 2,
-				"NAME": "- .-",
-				"PRS_MEN_W": "",
-				"TIP_EMP_PRS_MEN": 1
-			},
 			{
 				"ID": 6,
 				"NAME": "- .CON001-Asientos",
@@ -808,12 +802,6 @@
 				"TIP_EMP_PRS_MEN": 2
 			},
 			{
-				"ID": 182,
-				"NAME": "2-ONG clasico .GEN016-Vehiculos",
-				"PRS_MEN_W": "GEN016",
-				"TIP_EMP_PRS_MEN": 2
-			},
-			{
 				"ID": 183,
 				"NAME": "2-ONG clasico .-",
 				"PRS_MEN_W": "GEN016GIR",
@@ -871,6 +859,96 @@
 				"ID": 194,
 				"NAME": "3-ONG .-",
 				"PRS_MEN_W": "GEN017007",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 195,
+				"NAME": "3-ONG .GEN016-Vehiculos",
+				"PRS_MEN_W": "GEN016",
+				"TIP_EMP_PRS_MEN": 3
+			},
+			{
+				"ID": 196,
+				"NAME": "7-Colegio .-",
+				"PRS_MEN_W": "GEN001008",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 197,
+				"NAME": "7-Colegio .GEN001-Ventas",
+				"PRS_MEN_W": "GEN001",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 198,
+				"NAME": "7-Colegio .GEN020-Contabilidad",
+				"PRS_MEN_W": "GEN020",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 199,
+				"NAME": "7-Colegio .CON001-Asientos",
+				"PRS_MEN_W": "CON001",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 200,
+				"NAME": "7-Colegio .CON003-Tributos",
+				"PRS_MEN_W": "CON003",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 201,
+				"NAME": "7-Colegio .CON004-Inmovilizado",
+				"PRS_MEN_W": "CON004",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 202,
+				"NAME": "7-Colegio .CON005-Analítica",
+				"PRS_MEN_W": "CON005",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 203,
+				"NAME": "7-Colegio .CON006-Informes",
+				"PRS_MEN_W": "CON006",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 204,
+				"NAME": "7-Colegio .CON007-Procesos anuales",
+				"PRS_MEN_W": "CON007",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 205,
+				"NAME": "7-Colegio .CON008-Maestros",
+				"PRS_MEN_W": "CON008",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 206,
+				"NAME": "7-Colegio .GEN002-Compras",
+				"PRS_MEN_W": "GEN002",
+				"TIP_EMP_PRS_MEN": 7
+			},
+			{
+				"ID": 207,
+				"NAME": "1-MIPYNES .GEN020-Contabilidad",
+				"PRS_MEN_W": "GEN020",
+				"TIP_EMP_PRS_MEN": 1
+			},
+			{
+				"ID": 209,
+				"NAME": "2-ONG clasico .GEN014-CRM",
+				"PRS_MEN_W": "GEN014",
+				"TIP_EMP_PRS_MEN": 2
+			},
+			{
+				"ID": 213,
+				"NAME": "3-ONG .GEN014-CRM",
+				"PRS_MEN_W": "GEN014",
 				"TIP_EMP_PRS_MEN": 3
 			}
 		]

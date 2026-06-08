@@ -1,6 +1,6 @@
 [
 	{
-		"tablaIdRef": "amhon_dat/CLA_BET_W",
+		"tablaIdRef": "velneo_verp_2_dat/CLA_BET_W",
 		"indiceId": "ID",
 		"indicePartes": [
 			"ID"
@@ -258,8 +258,8 @@
 				"VAL": "8DF627183E075E86BADCF82C11D4F931E8BF62D8",
 				"VER": "31.0",
 				"OBS": "Activa la optimización de la carga de registros en las rejillas estándar de vClient.  Además,  la navegación por las filas y columnas de la rejilla es muy rápida ya que no penalizan ningún tipo de datos que se visualicen en las columnas,  lo que permite paginar y usar las scrollbar a toda velocidad.",
-				"APL_CLT": false,
-				"EST_CLT": "D",
+				"APL_CLT": true,
+				"EST_CLT": "A",
 				"APL_SRV": false,
 				"EST_SRV": "D",
 				"BOR": false
@@ -273,7 +273,7 @@
 				"VAL": "5E313E2E91A48C9C6D4260968C772CCE92909996",
 				"VER": "30.0",
 				"OBS": "Activa la optimización de la carga de rejillas en vDataClient",
-				"APL_CLT": false,
+				"APL_CLT": true,
 				"EST_CLT": "D",
 				"APL_SRV": false,
 				"EST_SRV": "D",

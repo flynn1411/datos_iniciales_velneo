@@ -6,8 +6,7 @@
 			"SCR_DES",
 			"SCR_INC"
 		],
-		"version": "25_0",
-		"numRegistros": 31
+		"numRegistros": 44
 	},
 	{
 		"datos": [
@@ -54,6 +53,20 @@
 				"OFF": false
 			},
 			{
+				"SCR_DES": "AEAT-340-DET-EXP",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-340-DET-REC",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
 				"SCR_DES": "AEAT-340-GEN-FIC",
 				"SCR_INC": "FUN-GEN",
 				"ORD": 0,
@@ -75,15 +88,15 @@
 				"OFF": false
 			},
 			{
-				"SCR_DES": "AEAT-340-DET-EXP",
-				"SCR_INC": "FUN-GEN",
+				"SCR_DES": "AEAT-347-CAL-DEC",
+				"SCR_INC": "AEAT-347-CAL-DEC-EMI",
 				"ORD": 0,
 				"VER_ULT_ACT": "20.0",
 				"OFF": false
 			},
 			{
-				"SCR_DES": "AEAT-340-DET-REC",
-				"SCR_INC": "FUN-GEN",
+				"SCR_DES": "AEAT-347-CAL-DEC",
+				"SCR_INC": "AEAT-347-CAL-DEC-REC",
 				"ORD": 0,
 				"VER_ULT_ACT": "20.0",
 				"OFF": false
@@ -98,20 +111,6 @@
 			{
 				"SCR_DES": "AEAT-347-CAL-DEC-REC",
 				"SCR_INC": "FUN-GEN",
-				"ORD": 0,
-				"VER_ULT_ACT": "20.0",
-				"OFF": false
-			},
-			{
-				"SCR_DES": "AEAT-347-CAL-DEC",
-				"SCR_INC": "AEAT-347-CAL-DEC-EMI",
-				"ORD": 0,
-				"VER_ULT_ACT": "20.0",
-				"OFF": false
-			},
-			{
-				"SCR_DES": "AEAT-347-CAL-DEC",
-				"SCR_INC": "AEAT-347-CAL-DEC-REC",
 				"ORD": 0,
 				"VER_ULT_ACT": "20.0",
 				"OFF": false
@@ -138,13 +137,6 @@
 				"OFF": false
 			},
 			{
-				"SCR_DES": "AEAT-349-CAL-DEC-EMI",
-				"SCR_INC": "FUN-GEN",
-				"ORD": 0,
-				"VER_ULT_ACT": "20.0",
-				"OFF": false
-			},
-			{
 				"SCR_DES": "AEAT-349-CAL-DEC",
 				"SCR_INC": "AEAT-349-CAL-DEC-EMI",
 				"ORD": 0,
@@ -159,6 +151,13 @@
 				"OFF": false
 			},
 			{
+				"SCR_DES": "AEAT-349-CAL-DEC-EMI",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
 				"SCR_DES": "AEAT-349-CAL-DEC-REC",
 				"SCR_INC": "FUN-GEN",
 				"ORD": 0,
@@ -166,10 +165,45 @@
 				"OFF": false
 			},
 			{
+				"SCR_DES": "AEAT-349-CAL-DEC-RTF",
+				"SCR_INC": "AEAT-349-CAL-DEC-RTF-EMI",
+				"ORD": 0,
+				"VER_ULT_ACT": "35.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-349-CAL-DEC-RTF",
+				"SCR_INC": "AEAT-349-CAL-DEC-RTF-REC",
+				"ORD": 0,
+				"VER_ULT_ACT": "35.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-349-CAL-DEC-RTF-EMI",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "35.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-349-CAL-DEC-RTF-REC",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "35.0",
+				"OFF": false
+			},
+			{
 				"SCR_DES": "AEAT-390",
 				"SCR_INC": "FUN-GEN",
 				"ORD": 0,
 				"VER_ULT_ACT": "20.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "AEAT-390-B02",
+				"SCR_INC": "FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "35.2",
 				"OFF": false
 			},
 			{
@@ -219,6 +253,62 @@
 				"SCR_INC": "FUN-GEN",
 				"ORD": 0,
 				"VER_ULT_ACT": "20.1",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "VTA-FAC-TKT-BAI-GIP",
+				"SCR_INC": "VTA-FAC-TKT-BAI-FUN-PAR",
+				"ORD": 0,
+				"VER_ULT_ACT": "32.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "VTA-FAC-TKT-BAI-GIP",
+				"SCR_INC": "VTA-FAC-TKT-BAI-GEN-XML",
+				"ORD": 0,
+				"VER_ULT_ACT": "32.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "VTA-FAC-TKT-BAI-GIP",
+				"SCR_INC": "VTA-FAC-TKT-BAI-FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "32.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "VTA-FAC-ENV-NOT",
+				"SCR_INC": "VTA-FAC-ENV-NOT-FUN-GEN",
+				"ORD": 0,
+				"VER_ULT_ACT": "31.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "VTA-FAC-ENV-NOT",
+				"SCR_INC": "VTA-FAC-ENV-NOT-GEN-BOD",
+				"ORD": 1,
+				"VER_ULT_ACT": "31.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "VTA-FAC-ENV-NOT",
+				"SCR_INC": "VTA-FAC-ENV-NOT-ENV",
+				"ORD": 2,
+				"VER_ULT_ACT": "31.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "DIS-INF-VAL-BAL-SIT",
+				"SCR_INC": "DIS-INF-VAL",
+				"ORD": 0,
+				"VER_ULT_ACT": "28.0",
+				"OFF": false
+			},
+			{
+				"SCR_DES": "DIS-INF-VAL-CTA-PYG",
+				"SCR_INC": "DIS-INF-VAL",
+				"ORD": 0,
+				"VER_ULT_ACT": "28.0",
 				"OFF": false
 			},
 			{

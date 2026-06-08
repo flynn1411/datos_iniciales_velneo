@@ -5,8 +5,7 @@
 		"indicePartes": [
 			"ID"
 		],
-		"version": "25_0",
-		"numRegistros": 9
+		"numRegistros": 10
 	},
 	{
 		"datos": [
@@ -131,6 +130,36 @@
 				"OFF": false
 			},
 			{
+				"ID": "RIPJR1",
+				"EMP": "",
+				"NAME": "Recibo",
+				"VTO_COB_CON_AGR": true,
+				"VTO_COB_CON_DES": true,
+				"VTO_COB_ES_REM": true,
+				"VTO_COB_AGR_REM": true,
+				"VTO_COB_AGR_REM_VTO": false,
+				"VTO_COB_DIA_DEM": 0,
+				"VTO_COB_COB_VTO_SIN_ASI": false,
+				"VTO_COB_PLA_REM": "",
+				"VTO_COB_PLA_ABO_DTO": "",
+				"VTO_COB_PLA_ABO_COB": "",
+				"VTO_COB_PLA_DEV": "",
+				"VTO_COB_PLA_VTO": "",
+				"VTO_PAG_ACE": false,
+				"VTO_PAG_CON_AGR": true,
+				"VTO_PAG_CON_DES": true,
+				"VTO_PAG_ES_REM": true,
+				"VTO_PAG_AGR_REM": false,
+				"VTO_PAG_AGR_REM_VTO": false,
+				"VTO_PAG_PAG_VTO_SIN_ASI": false,
+				"VTO_PAG_PLA_REM": "",
+				"VTO_PAG_PLA_CAR_IND": "",
+				"VTO_PAG_PLA_CAR_TOT": "",
+				"VTO_PAG_PLA_VTO": "",
+				"VER_ULT_ACT": "36.3.4",
+				"OFF": false
+			},
+			{
 				"ID": "K0NWAA",
 				"EMP": "",
 				"NAME": "Recibo",
@@ -157,7 +186,7 @@
 				"VTO_PAG_PLA_CAR_IND": "YFFVTJ",
 				"VTO_PAG_PLA_CAR_TOT": "YFFVTJ",
 				"VTO_PAG_PLA_VTO": "",
-				"VER_ULT_ACT": "24.0.1",
+				"VER_ULT_ACT": "32.0",
 				"OFF": false
 			},
 			{
