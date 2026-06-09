@@ -1,0 +1,26 @@
+[
+	{
+		"tablaIdRef": "velneo_verp_2_dat/PAI_M",
+		"indiceId": "ISO_2",
+		"indicePartes": [
+			"ISO_2"
+		],
+		"numRegistros": 1
+	},
+	{
+		"datos": [
+			{
+				"ID": 1,
+				"NAME": "España",
+				"MON": 0,
+				"IMG": "",
+				"ISO_2": "ES",
+				"ISO_3": "ESP",
+				"TLF_PFJ": "",
+				"DIR_FRM": "1",
+				"VER_ULT_ACT": "36.3.4",
+				"OFF": false
+			}
+		]
+	}
+]

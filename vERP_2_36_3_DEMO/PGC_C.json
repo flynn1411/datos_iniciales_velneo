@@ -1,0 +1,41 @@
+[
+	{
+		"tablaIdRef": "velneo_verp_2_dat/PGC_C",
+		"indiceId": "ID",
+		"indicePartes": [
+			"ID"
+		],
+		"numRegistros": 1
+	},
+	{
+		"datos": [
+			{
+				"ID": "112",
+				"NAME": "CUENTA POR COBRAR",
+				"ES_GRP": false,
+				"ES_SUB_GRP": false,
+				"ES_CTA_MAY": true,
+				"GRP": "1",
+				"SUB_GRP": "11",
+				"CTA_MAY": "112",
+				"TIP_AUX": "A",
+				"ES_GEN": true,
+				"ES_BCO": false,
+				"ES_CLT": false,
+				"ES_PRV": false,
+				"ES_IVA_REP": false,
+				"ES_IVA_SOP": false,
+				"ES_REQ_REP": false,
+				"ES_REQ_SOP": false,
+				"ES_RET_IRP": false,
+				"ES_RET_ALQ": false,
+				"ES_GTO": false,
+				"ES_ING": false,
+				"ES_EXS": false,
+				"ES_INM": false,
+				"VER_ULT_ACT": "32.0",
+				"OFF": false
+			}
+		]
+	}
+]

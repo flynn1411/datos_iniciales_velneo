@@ -3,12 +3,14 @@
 		"tablaIdRef": "velneo_verp_2_dat/AUX_C",
 		"indiceId": "ID",
 		"indicePartes": [
+			"PGC",
 			"ID"
 		],
-		"version": "32_0",
-		"numRegistros": 0
+		"numRegistros": 3
 	},
 	{
-		"datos": []
+		"datos": [
+			
+		]
 	}
 ]
